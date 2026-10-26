@@ -1,0 +1,55 @@
+skill,n,median_usd,premium_pct,category
+Distributed systems,41,195000,18.2,Practices & Architecture
+AI agents,142,185000,12.1,Generative AI & LLMs
+Rust,77,185000,12.1,Programming Languages
+Observability,49,182500,10.6,DevOps & Infrastructure
+Machine Learning,156,181750,10.2,Data Science & ML
+Infrastructure as Code,32,181250,9.8,DevOps & Infrastructure
+Data pipelines,53,177500,7.6,Data Engineering
+C++,43,175000,6.1,Programming Languages
+FastAPI,39,175000,6.1,Backend & APIs
+LLMs,142,175000,6.1,Generative AI & LLMs
+Next.js,101,172500,4.5,Frontend & Web
+GraphQL,56,172000,4.2,Backend & APIs
+Tailwind CSS,31,170000,3.0,Frontend & Web
+Terraform,88,170000,3.0,DevOps & Infrastructure
+Python,284,170000,3.0,Programming Languages
+TypeScript,317,170000,3.0,Programming Languages
+Cybersecurity,39,170000,3.0,Security
+React Native,30,167250,1.4,Mobile
+GCP,84,166500,0.9,Cloud
+AWS,232,166250,0.8,Cloud
+React,293,165000,0.0,Frontend & Web
+Redis,31,165000,0.0,Databases
+Ruby,64,165000,0.0,Programming Languages
+Ruby on Rails,70,165000,0.0,Backend & APIs
+PostgreSQL,228,165000,0.0,Databases
+Kubernetes,122,165000,0.0,DevOps & Infrastructure
+Scalability,122,165000,0.0,Practices & Architecture
+Code review,41,165000,0.0,Practices & Architecture
+MongoDB,40,165000,0.0,Databases
+CI/CD,94,163750,-0.8,DevOps & Infrastructure
+Go,67,162500,-1.5,Programming Languages
+OpenAI/GPT,41,160000,-3.0,Generative AI & LLMs
+Open source,84,160000,-3.0,Practices & Architecture
+iOS,32,160000,-3.0,Mobile
+Node.js,134,160000,-3.0,Backend & APIs
+MySQL,32,160000,-3.0,Databases
+Java,48,160000,-3.0,Programming Languages
+Git,113,160000,-3.0,Tools & Platforms
+Data analysis,41,160000,-3.0,Data Science & ML
+Docker,88,160000,-3.0,DevOps & Infrastructure
+Azure,43,155000,-6.1,Cloud
+Linux,31,155000,-6.1,DevOps & Infrastructure
+DevOps practices,79,152500,-7.6,DevOps & Infrastructure
+Time series,38,152500,-7.6,Data Science & ML
+Django,46,150000,-9.1,Backend & APIs
+SQL,82,150000,-9.1,Programming Languages
+JavaScript,88,150000,-9.1,Programming Languages
+Anthropic/Claude,71,150000,-9.1,Generative AI & LLMs
+Vue.js,50,150000,-9.1,Frontend & Web
+SOC 2 / compliance,41,150000,-9.1,Security
+Data visualization,65,145000,-12.1,Data Science & ML
+Agile/Scrum,47,141500,-14.2,Practices & Architecture
+Salesforce,63,125000,-24.2,Tools & Platforms
+Excel,72,100250,-39.2,Data Science & ML

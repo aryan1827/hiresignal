@@ -1,0 +1,16 @@
+role_family,count,median
+Engineering Management,36,190000.0
+Security,19,175000.0
+Data Engineering,23,172500.0
+ML / AI Engineering,170,172500.0
+DevOps / SRE / Cloud,101,170000.0
+Embedded & Hardware,22,170000.0
+Mobile,36,170000.0
+Data Science & Analytics,23,165000.0
+Software Engineering (general),506,164000.0
+Full-stack,192,160000.0
+Backend,81,156000.0
+Product & Design,49,139500.0
+Frontend,69,135000.0
+Other,167,111125.0
+Business & Operations,247,102500.0

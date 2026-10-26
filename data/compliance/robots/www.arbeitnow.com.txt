@@ -1,0 +1,4 @@
+# fetched 2026-10-25T12:56:28.444107+00:00 status=200
+User-agent: *
+Disallow:
+Disallow: /*?__hstc

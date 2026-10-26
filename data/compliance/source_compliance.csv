@@ -1,0 +1,11 @@
+source,endpoint,access,robots,terms,personal_data,verdict
+Hacker News 'Who is hiring?' (via HN Search API by Algolia),hn.algolia.com/api/v1/items/{thread},Official public JSON API,No robots.txt on the API host (404 = no restriction); news.ycombinator.com pages not fetched,Public API offered for programmatic use; 1 request per monthly thread,Author usernames dropped at collection; e-mails/phones/links scrubbed,Used (fully compliant)
+Arbeitnow,arbeitnow.com/api/job-board-api,Free public API,User-agent: * Disallow: (nothing) -> allowed,"'Free public API, please do not abuse'; attribution requested -> credited",Company job ads only,Used (fully compliant)
+Remote OK,remoteok.com/api,Free public API,"Allow: /, Crawl-delay: 1 -> allowed (we wait >= 2 s)",Must link back and name Remote OK as a source -> credited,Company job ads only,Used (fully compliant)
+Jobicy,jobicy.com/api/v2/remote-jobs,Free public API,/api/ not disallowed -> allowed,Credit Jobicy with a link; keep original job URLs -> done,Company job ads only,Used (fully compliant)
+Himalayas,himalayas.app/jobs/api,Free public API,Allow: / (only ?page= listing paths disallowed) -> allowed,Public API with documented cursor pagination; attribution given,Company job ads only,Used (fully compliant)
+Python.org Jobs,python.org/jobs/ (HTML),HTML crawl + BeautifulSoup,Only /~guido/orlijn/ and /webstats/ disallowed -> /jobs/ allowed,"Public community job board; 2 s delay, 22 requests in total",Contact names/e-mails in ads scrubbed,Used (fully compliant)
+Remotive,remotive.com/api/remote-jobs,Public API exists,Disallow: /api/* -> FAILS test 1,"API documented, but robots.txt forbids crawlers on /api/",-,"Excluded: robots.txt and API docs conflict, so we take the safe side"
+LinkedIn Jobs,linkedin.com/jobs,-,Automated access 'strictly prohibited' without express permission,User Agreement forbids scraping,Profiles = personal data,Excluded (unsuitable)
+Naukri.com,naukri.com,-,Disallow: / for AI and automated agents,Terms forbid scraping,-,Excluded (unsuitable)
+Indeed India,in.indeed.com,-,Search pages partly allowed for search engines,Terms of Service prohibit scraping,-,Excluded (fails test 2)

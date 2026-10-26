@@ -1,0 +1,259 @@
+skill,postings,share_pct,category
+Python,3894,26.22,Programming Languages
+React,3441,23.17,Frontend & Web
+TypeScript,3247,21.86,Programming Languages
+Machine Learning,2518,16.95,Data Science & ML
+AWS,2463,16.58,Cloud
+PostgreSQL,2288,15.4,Databases
+LLMs,1587,10.68,Generative AI & LLMs
+Kubernetes,1552,10.45,DevOps & Infrastructure
+Open source,1345,9.05,Practices & Architecture
+Scalability,1332,8.97,Practices & Architecture
+Node.js,1310,8.82,Backend & APIs
+Git,1233,8.3,Tools & Platforms
+Go,1222,8.23,Programming Languages
+DevOps practices,1193,8.03,DevOps & Infrastructure
+AI agents,1178,7.93,Generative AI & LLMs
+JavaScript,1090,7.34,Programming Languages
+Rust,1077,7.25,Programming Languages
+Communication,1034,6.96,Soft Skills & Languages
+Ownership mindset,1024,6.89,Soft Skills & Languages
+Docker,928,6.25,DevOps & Infrastructure
+GCP,916,6.17,Cloud
+Terraform,880,5.92,DevOps & Infrastructure
+SQL,844,5.68,Programming Languages
+C++,765,5.15,Programming Languages
+Java,763,5.14,Programming Languages
+Next.js,757,5.1,Frontend & Web
+Linux,700,4.71,DevOps & Infrastructure
+Ruby on Rails,692,4.66,Backend & APIs
+CI/CD,691,4.65,DevOps & Infrastructure
+Cross-functional collaboration,672,4.52,Soft Skills & Languages
+Mentoring,672,4.52,Soft Skills & Languages
+Ruby,643,4.33,Programming Languages
+Distributed systems,632,4.25,Practices & Architecture
+Problem solving,617,4.15,Soft Skills & Languages
+Observability,548,3.69,DevOps & Infrastructure
+iOS,538,3.62,Mobile
+Azure,538,3.62,Cloud
+Android,527,3.55,Mobile
+Django,523,3.52,Backend & APIs
+Leadership,516,3.47,Soft Skills & Languages
+GraphQL,506,3.41,Backend & APIs
+Redis,499,3.36,Databases
+Data visualization,473,3.18,Data Science & ML
+Anthropic/Claude,473,3.18,Generative AI & LLMs
+Data pipelines,472,3.18,Data Engineering
+Vue.js,467,3.14,Frontend & Web
+React Native,465,3.13,Mobile
+Robotics,449,3.02,"Embedded, Hardware & Telecom"
+Agile/Scrum,431,2.9,Practices & Architecture
+Generative AI,418,2.81,Generative AI & LLMs
+OpenAI/GPT,411,2.77,Generative AI & LLMs
+Excel,385,2.59,Data Science & ML
+C#,377,2.54,Programming Languages
+Cybersecurity,371,2.5,Security
+Computer Vision,355,2.39,Data Science & ML
+Data analysis,352,2.37,Data Science & ML
+MongoDB,336,2.26,Databases
+Kotlin,315,2.12,Programming Languages
+FastAPI,308,2.07,Backend & APIs
+PyTorch,301,2.03,Data Science & ML
+Kafka,296,1.99,Data Engineering
+MySQL,294,1.98,Databases
+Salesforce,289,1.95,Tools & Platforms
+Infrastructure as Code,282,1.9,DevOps & Infrastructure
+Code review,281,1.89,Practices & Architecture
+Deep Learning,273,1.84,Data Science & ML
+Time series,270,1.82,Data Science & ML
+Snowflake,263,1.77,Data Engineering
+German language,257,1.73,Soft Skills & Languages
+Embedded systems,247,1.66,"Embedded, Hardware & Telecom"
+Data warehousing,247,1.66,Data Engineering
+.NET,244,1.64,Backend & APIs
+RAG,240,1.62,Generative AI & LLMs
+Microservices,239,1.61,Backend & APIs
+Tailwind CSS,237,1.6,Frontend & Web
+IoT,235,1.58,"Embedded, Hardware & Telecom"
+C,234,1.58,Programming Languages
+System design,230,1.55,Practices & Architecture
+CSS,230,1.55,Frontend & Web
+Swift,226,1.52,Programming Languages
+REST APIs,225,1.51,Backend & APIs
+Serverless,220,1.48,Cloud
+SOC 2 / compliance,209,1.41,Security
+Figma,204,1.37,Tools & Platforms
+Firmware,203,1.37,"Embedded, Hardware & Telecom"
+Fine-tuning,202,1.36,Generative AI & LLMs
+PHP,201,1.35,Programming Languages
+HTML,198,1.33,Frontend & Web
+Cryptography,198,1.33,Security
+ETL/ELT,196,1.32,Data Engineering
+Elasticsearch,190,1.28,Databases
+GitHub Actions,187,1.26,DevOps & Infrastructure
+MLOps,185,1.25,Data Science & ML
+Datadog,185,1.25,DevOps & Infrastructure
+Test automation,182,1.23,Testing & QA
+Vercel,180,1.21,Cloud
+Elixir,180,1.21,Programming Languages
+Ansible,178,1.2,DevOps & Infrastructure
+NLP,175,1.18,Data Science & ML
+Angular,175,1.18,Frontend & Web
+Redux,174,1.17,Frontend & Web
+ClickHouse,172,1.16,Databases
+Grafana,171,1.15,DevOps & Infrastructure
+English proficiency,169,1.14,Soft Skills & Languages
+Statistics,164,1.1,Data Science & ML
+WebAssembly,159,1.07,Frontend & Web
+dbt,156,1.05,Data Engineering
+Jira,155,1.04,Tools & Platforms
+Vector databases,153,1.03,Generative AI & LLMs
+Prometheus,149,1.0,DevOps & Infrastructure
+Event-driven architecture,146,0.98,Practices & Architecture
+WebGL,145,0.98,Frontend & Web
+Cloudflare,141,0.95,Cloud
+Unit testing / TDD,141,0.95,Testing & QA
+HubSpot,138,0.93,Tools & Platforms
+Accessibility,138,0.93,Frontend & Web
+Scala,137,0.92,Programming Languages
+gRPC,136,0.92,Backend & APIs
+BigQuery,133,0.9,Data Engineering
+Shopify,130,0.88,Tools & Platforms
+Apache Spark,129,0.87,Data Engineering
+IAM,128,0.86,Security
+LLM evals,128,0.86,Generative AI & LLMs
+Performance optimization,127,0.85,Practices & Architecture
+OWASP/AppSec,127,0.85,Security
+Flutter,126,0.85,Mobile
+Databricks,124,0.83,Data Engineering
+Bash/Shell,123,0.83,Programming Languages
+Airflow,121,0.81,Data Engineering
+OAuth/SSO,121,0.81,Security
+Supabase,120,0.81,Databases
+LangChain,120,0.81,Generative AI & LLMs
+Semiconductors,119,0.8,"Embedded, Hardware & Telecom"
+Jenkins,118,0.79,DevOps & Infrastructure
+Flask,118,0.79,Backend & APIs
+TensorFlow,117,0.79,Data Science & ML
+NestJS,115,0.77,Backend & APIs
+SAP,114,0.77,Tools & Platforms
+Device drivers / kernel,106,0.71,"Embedded, Hardware & Telecom"
+SQL Server,105,0.71,Databases
+Pulumi,104,0.7,DevOps & Infrastructure
+Svelte,101,0.68,Frontend & Web
+DynamoDB,99,0.67,Databases
+MCP,99,0.67,Generative AI & LLMs
+CUDA/GPU,98,0.66,Data Science & ML
+Hugging Face,98,0.66,Generative AI & LLMs
+Spring Boot,95,0.64,Backend & APIs
+Playwright,94,0.63,Testing & QA
+Tableau,94,0.63,Data Science & ML
+Penetration testing,93,0.63,Security
+SwiftUI,91,0.61,Mobile
+Pandas,87,0.59,Data Science & ML
+Argo CD,84,0.57,DevOps & Infrastructure
+Firebase,83,0.56,Databases
+RF engineering,83,0.56,"Embedded, Hardware & Telecom"
+Power BI,82,0.55,Data Science & ML
+Reinforcement learning,82,0.55,Data Science & ML
+Electrical engineering,76,0.51,"Embedded, Hardware & Telecom"
+NoSQL,76,0.51,Databases
+Helm,75,0.5,DevOps & Infrastructure
+Laravel,75,0.5,Backend & APIs
+Clojure,75,0.5,Programming Languages
+Looker,74,0.5,Data Science & ML
+Computer networking,72,0.48,"Embedded, Hardware & Telecom"
+Security clearance,69,0.46,Security
+Prompt engineering,69,0.46,Generative AI & LLMs
+RabbitMQ,66,0.44,Backend & APIs
+A/B testing,65,0.44,Data Science & ML
+API design,64,0.43,Practices & Architecture
+Embeddings,64,0.43,Generative AI & LLMs
+Functional programming,62,0.42,Practices & Architecture
+Control systems,62,0.42,"Embedded, Hardware & Telecom"
+Wireless (BLE/Wi-Fi),61,0.41,"Embedded, Hardware & Telecom"
+Telecommunications,61,0.41,"Embedded, Hardware & Telecom"
+WebSockets,59,0.4,Backend & APIs
+Redshift,59,0.4,Data Engineering
+NumPy,57,0.38,Data Science & ML
+scikit-learn,57,0.38,Data Science & ML
+Signal processing,56,0.38,"Embedded, Hardware & Telecom"
+Cypress,55,0.37,Testing & QA
+Software-defined radio,55,0.37,"Embedded, Hardware & Telecom"
+R,52,0.35,Programming Languages
+Heroku,49,0.33,Cloud
+Sass,49,0.33,Frontend & Web
+WordPress,48,0.32,Tools & Platforms
+Diffusion models,48,0.32,Generative AI & LLMs
+Haskell,48,0.32,Programming Languages
+Vite,47,0.32,Frontend & Web
+PCB design,45,0.3,"Embedded, Hardware & Telecom"
+GitLab CI,45,0.3,DevOps & Infrastructure
+D3.js,45,0.3,Frontend & Web
+Domain-driven design,44,0.3,Practices & Architecture
+Jest,44,0.3,Testing & QA
+Recommender systems,42,0.28,Data Science & ML
+DigitalOcean,41,0.28,Cloud
+Cassandra,40,0.27,Databases
+Objective-C,40,0.27,Programming Languages
+Celery,38,0.26,Backend & APIs
+LLM inference,36,0.24,Generative AI & LLMs
+Unity/Unreal,36,0.24,Tools & Platforms
+FPGA,35,0.24,"Embedded, Hardware & Telecom"
+SQLite,35,0.24,Databases
+PowerShell,34,0.23,Programming Languages
+Jupyter,34,0.23,Data Science & ML
+Three.js,34,0.23,Frontend & Web
+Solidity,33,0.22,Programming Languages
+Nginx,32,0.22,DevOps & Infrastructure
+Flink,31,0.21,Data Engineering
+Dart,31,0.21,Programming Languages
+jQuery,31,0.21,Frontend & Web
+Storybook,31,0.21,Frontend & Web
+LlamaIndex,30,0.2,Generative AI & LLMs
+Embedded Linux,29,0.2,"Embedded, Hardware & Telecom"
+MQTT,29,0.2,"Embedded, Hardware & Telecom"
+GNSS/GPS,28,0.19,"Embedded, Hardware & Telecom"
+Fortran,28,0.19,Programming Languages
+Jetpack Compose,27,0.18,Mobile
+Power electronics,26,0.18,"Embedded, Hardware & Telecom"
+CockroachDB,26,0.18,Databases
+Neo4j,25,0.17,Databases
+Selenium,24,0.16,Testing & QA
+Phoenix,24,0.16,Backend & APIs
+Microcontrollers,24,0.16,"Embedded, Hardware & Telecom"
+Julia,24,0.16,Programming Languages
+LabVIEW,23,0.15,"Embedded, Hardware & Telecom"
+Express,23,0.15,Backend & APIs
+5G/LTE,23,0.15,"Embedded, Hardware & Telecom"
+Nuxt,23,0.15,Frontend & Web
+ROS,22,0.15,"Embedded, Hardware & Telecom"
+Hibernate,21,0.14,Backend & APIs
+pytest,21,0.14,Testing & QA
+OCaml,21,0.14,Programming Languages
+Webpack,21,0.14,Frontend & Web
+Symfony,19,0.13,Backend & APIs
+MATLAB,19,0.13,"Embedded, Hardware & Telecom"
+XGBoost,18,0.12,Data Science & ML
+RTOS,17,0.11,"Embedded, Hardware & Telecom"
+Perl,17,0.11,Programming Languages
+Keras,16,0.11,Data Science & ML
+ASIC design,15,0.1,"Embedded, Hardware & Telecom"
+F#,15,0.1,Programming Languages
+I2C/SPI/UART,14,0.09,"Embedded, Hardware & Telecom"
+Hadoop,14,0.09,Data Engineering
+OpenCV,14,0.09,Data Science & ML
+Groovy,13,0.09,Programming Languages
+Test equipment,12,0.08,"Embedded, Hardware & Telecom"
+Zig,10,0.07,Programming Languages
+Lua,8,0.05,Programming Languages
+Oracle DB,8,0.05,Databases
+COBOL,8,0.05,Programming Languages
+Stripe API,8,0.05,Tools & Platforms
+VHDL,6,0.04,"Embedded, Hardware & Telecom"
+Simulink,6,0.04,"Embedded, Hardware & Telecom"
+Verilog/SystemVerilog,6,0.04,"Embedded, Hardware & Telecom"
+Erlang,6,0.04,Programming Languages
+CAN bus/AUTOSAR,4,0.03,"Embedded, Hardware & Telecom"
+Xamarin/MAUI,2,0.01,Mobile
+Analog/mixed-signal,2,0.01,"Embedded, Hardware & Telecom"

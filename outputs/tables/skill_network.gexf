@@ -1,0 +1,4084 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-25">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="6" title="count" type="long" />
+      <attribute id="7" title="lift" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="count" type="long" />
+      <attribute id="1" title="category" type="string" />
+      <attribute id="2" title="community" type="long" />
+      <attribute id="3" title="pagerank" type="double" />
+      <attribute id="4" title="betweenness" type="double" />
+      <attribute id="5" title="degree" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="0" value="2685" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.05195" />
+          <attvalue for="4" value="0.03432" />
+          <attvalue for="5" value="24" />
+        </attvalues>
+      </node>
+      <node id="React" label="React">
+        <attvalues>
+          <attvalue for="0" value="2302" />
+          <attvalue for="1" value="Frontend &amp; Web" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.04328" />
+          <attvalue for="4" value="0.00717" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="TypeScript" label="TypeScript">
+        <attvalues>
+          <attvalue for="0" value="2200" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.04158" />
+          <attvalue for="4" value="0.00925" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="0" value="1778" />
+          <attvalue for="1" value="Cloud" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.05925" />
+          <attvalue for="4" value="0.03865" />
+          <attvalue for="5" value="35" />
+        </attvalues>
+      </node>
+      <node id="PostgreSQL" label="PostgreSQL">
+        <attvalues>
+          <attvalue for="0" value="1586" />
+          <attvalue for="1" value="Databases" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.03978" />
+          <attvalue for="4" value="0.0124" />
+          <attvalue for="5" value="24" />
+        </attvalues>
+      </node>
+      <node id="Machine Learning" label="Machine Learning">
+        <attvalues>
+          <attvalue for="0" value="1527" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.02332" />
+          <attvalue for="4" value="0.02084" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="Kubernetes" label="Kubernetes">
+        <attvalues>
+          <attvalue for="0" value="1082" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.03639" />
+          <attvalue for="4" value="0.01786" />
+          <attvalue for="5" value="30" />
+        </attvalues>
+      </node>
+      <node id="LLMs" label="LLMs">
+        <attvalues>
+          <attvalue for="0" value="1036" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.02129" />
+          <attvalue for="4" value="0.0237" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="Node.js" label="Node.js">
+        <attvalues>
+          <attvalue for="0" value="936" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.02549" />
+          <attvalue for="4" value="0.01225" />
+          <attvalue for="5" value="22" />
+        </attvalues>
+      </node>
+      <node id="Git" label="Git">
+        <attvalues>
+          <attvalue for="0" value="839" />
+          <attvalue for="1" value="Tools &amp; Platforms" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.02249" />
+          <attvalue for="4" value="0.05004" />
+          <attvalue for="5" value="32" />
+        </attvalues>
+      </node>
+      <node id="Go" label="Go">
+        <attvalues>
+          <attvalue for="0" value="829" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01797" />
+          <attvalue for="4" value="0.01098" />
+          <attvalue for="5" value="21" />
+        </attvalues>
+      </node>
+      <node id="AI agents" label="AI agents">
+        <attvalues>
+          <attvalue for="0" value="815" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.01668" />
+          <attvalue for="4" value="0.02765" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="JavaScript" label="JavaScript">
+        <attvalues>
+          <attvalue for="0" value="753" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.0217" />
+          <attvalue for="4" value="0.04303" />
+          <attvalue for="5" value="27" />
+        </attvalues>
+      </node>
+      <node id="DevOps practices" label="DevOps practices">
+        <attvalues>
+          <attvalue for="0" value="735" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01841" />
+          <attvalue for="4" value="0.01134" />
+          <attvalue for="5" value="24" />
+        </attvalues>
+      </node>
+      <node id="Docker" label="Docker">
+        <attvalues>
+          <attvalue for="0" value="699" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.03168" />
+          <attvalue for="4" value="0.0501" />
+          <attvalue for="5" value="38" />
+        </attvalues>
+      </node>
+      <node id="GCP" label="GCP">
+        <attvalues>
+          <attvalue for="0" value="698" />
+          <attvalue for="1" value="Cloud" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.02761" />
+          <attvalue for="4" value="0.04417" />
+          <attvalue for="5" value="34" />
+        </attvalues>
+      </node>
+      <node id="Rust" label="Rust">
+        <attvalues>
+          <attvalue for="0" value="679" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.01251" />
+          <attvalue for="4" value="0.02477" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="0" value="634" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.02088" />
+          <attvalue for="4" value="0.07351" />
+          <attvalue for="5" value="28" />
+        </attvalues>
+      </node>
+      <node id="Terraform" label="Terraform">
+        <attvalues>
+          <attvalue for="0" value="615" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.02768" />
+          <attvalue for="4" value="0.0264" />
+          <attvalue for="5" value="32" />
+        </attvalues>
+      </node>
+      <node id="CI/CD" label="CI/CD">
+        <attvalues>
+          <attvalue for="0" value="586" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.02783" />
+          <attvalue for="4" value="0.05585" />
+          <attvalue for="5" value="38" />
+        </attvalues>
+      </node>
+      <node id="Next.js" label="Next.js">
+        <attvalues>
+          <attvalue for="0" value="536" />
+          <attvalue for="1" value="Frontend &amp; Web" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.0164" />
+          <attvalue for="4" value="0.01747" />
+          <attvalue for="5" value="19" />
+        </attvalues>
+      </node>
+      <node id="Java" label="Java">
+        <attvalues>
+          <attvalue for="0" value="523" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.01561" />
+          <attvalue for="4" value="0.05841" />
+          <attvalue for="5" value="26" />
+        </attvalues>
+      </node>
+      <node id="C++" label="C++">
+        <attvalues>
+          <attvalue for="0" value="480" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00981" />
+          <attvalue for="4" value="0.01002" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="0" value="452" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0144" />
+          <attvalue for="4" value="0.02283" />
+          <attvalue for="5" value="21" />
+        </attvalues>
+      </node>
+      <node id="Observability" label="Observability">
+        <attvalues>
+          <attvalue for="0" value="428" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01537" />
+          <attvalue for="4" value="0.01768" />
+          <attvalue for="5" value="24" />
+        </attvalues>
+      </node>
+      <node id="Ruby on Rails" label="Ruby on Rails">
+        <attvalues>
+          <attvalue for="0" value="425" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00806" />
+          <attvalue for="4" value="0.00053" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="0" value="421" />
+          <attvalue for="1" value="Cloud" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.02026" />
+          <attvalue for="4" value="0.05114" />
+          <attvalue for="5" value="31" />
+        </attvalues>
+      </node>
+      <node id="Ruby" label="Ruby">
+        <attvalues>
+          <attvalue for="0" value="399" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00868" />
+          <attvalue for="4" value="0.00117" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="Data visualization" label="Data visualization">
+        <attvalues>
+          <attvalue for="0" value="373" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00678" />
+          <attvalue for="4" value="0.00438" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="Redis" label="Redis">
+        <attvalues>
+          <attvalue for="0" value="369" />
+          <attvalue for="1" value="Databases" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01605" />
+          <attvalue for="4" value="0.01619" />
+          <attvalue for="5" value="28" />
+        </attvalues>
+      </node>
+      <node id="Django" label="Django">
+        <attvalues>
+          <attvalue for="0" value="365" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.01024" />
+          <attvalue for="4" value="0.00208" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="Anthropic/Claude" label="Anthropic/Claude">
+        <attvalues>
+          <attvalue for="0" value="365" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.01012" />
+          <attvalue for="4" value="0.01801" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="Data pipelines" label="Data pipelines">
+        <attvalues>
+          <attvalue for="0" value="341" />
+          <attvalue for="1" value="Data Engineering" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.01029" />
+          <attvalue for="4" value="0.00927" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="GraphQL" label="GraphQL">
+        <attvalues>
+          <attvalue for="0" value="338" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.01086" />
+          <attvalue for="4" value="0.00456" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="Vue.js" label="Vue.js">
+        <attvalues>
+          <attvalue for="0" value="334" />
+          <attvalue for="1" value="Frontend &amp; Web" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.01326" />
+          <attvalue for="4" value="0.02836" />
+          <attvalue for="5" value="26" />
+        </attvalues>
+      </node>
+      <node id="React Native" label="React Native">
+        <attvalues>
+          <attvalue for="0" value="306" />
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00817" />
+          <attvalue for="4" value="0.0134" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="Generative AI" label="Generative AI">
+        <attvalues>
+          <attvalue for="0" value="301" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00576" />
+          <attvalue for="4" value="0.00078" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="iOS" label="iOS">
+        <attvalues>
+          <attvalue for="0" value="297" />
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0079" />
+          <attvalue for="4" value="0.00045" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="OpenAI/GPT" label="OpenAI/GPT">
+        <attvalues>
+          <attvalue for="0" value="292" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00689" />
+          <attvalue for="4" value="0.00143" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="Android" label="Android">
+        <attvalues>
+          <attvalue for="0" value="291" />
+          <attvalue for="1" value="Mobile" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0085" />
+          <attvalue for="4" value="0.00123" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="Robotics" label="Robotics">
+        <attvalues>
+          <attvalue for="0" value="265" />
+          <attvalue for="1" value="Embedded, Hardware &amp; Telecom" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00732" />
+          <attvalue for="4" value="0.01467" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="Excel" label="Excel">
+        <attvalues>
+          <attvalue for="0" value="260" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00465" />
+          <attvalue for="4" value="0.00011" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="C#" label="C#">
+        <attvalues>
+          <attvalue for="0" value="254" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00712" />
+          <attvalue for="4" value="0.00325" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="Cybersecurity" label="Cybersecurity">
+        <attvalues>
+          <attvalue for="0" value="249" />
+          <attvalue for="1" value="Security" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00367" />
+          <attvalue for="4" value="0.00036" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="FastAPI" label="FastAPI">
+        <attvalues>
+          <attvalue for="0" value="249" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0107" />
+          <attvalue for="4" value="0.00833" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="MongoDB" label="MongoDB">
+        <attvalues>
+          <attvalue for="0" value="241" />
+          <attvalue for="1" value="Databases" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.00759" />
+          <attvalue for="4" value="0.00142" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="Computer Vision" label="Computer Vision">
+        <attvalues>
+          <attvalue for="0" value="236" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00574" />
+          <attvalue for="4" value="0.00276" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id="Kafka" label="Kafka">
+        <attvalues>
+          <attvalue for="0" value="222" />
+          <attvalue for="1" value="Data Engineering" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.00857" />
+          <attvalue for="4" value="0.00526" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </node>
+      <node id="MySQL" label="MySQL">
+        <attvalues>
+          <attvalue for="0" value="218" />
+          <attvalue for="1" value="Databases" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00818" />
+          <attvalue for="4" value="0.00722" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </node>
+      <node id="Infrastructure as Code" label="Infrastructure as Code">
+        <attvalues>
+          <attvalue for="0" value="215" />
+          <attvalue for="1" value="DevOps &amp; Infrastructure" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.00989" />
+          <attvalue for="4" value="0.00239" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </node>
+      <node id="Kotlin" label="Kotlin">
+        <attvalues>
+          <attvalue for="0" value="211" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.00847" />
+          <attvalue for="4" value="0.01194" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="Data analysis" label="Data analysis">
+        <attvalues>
+          <attvalue for="0" value="209" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00483" />
+          <attvalue for="4" value="0.00252" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="Salesforce" label="Salesforce">
+        <attvalues>
+          <attvalue for="0" value="207" />
+          <attvalue for="1" value="Tools &amp; Platforms" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00288" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </node>
+      <node id="Time series" label="Time series">
+        <attvalues>
+          <attvalue for="0" value="203" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00451" />
+          <attvalue for="4" value="0.00277" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+      <node id="PyTorch" label="PyTorch">
+        <attvalues>
+          <attvalue for="0" value="201" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00803" />
+          <attvalue for="4" value="0.02073" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </node>
+      <node id="Snowflake" label="Snowflake">
+        <attvalues>
+          <attvalue for="0" value="199" />
+          <attvalue for="1" value="Data Engineering" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00662" />
+          <attvalue for="4" value="0.00312" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </node>
+      <node id="REST APIs" label="REST APIs">
+        <attvalues>
+          <attvalue for="0" value="193" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00931" />
+          <attvalue for="4" value="0.01357" />
+          <attvalue for="5" value="20" />
+        </attvalues>
+      </node>
+      <node id="Microservices" label="Microservices">
+        <attvalues>
+          <attvalue for="0" value="188" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.00686" />
+          <attvalue for="4" value="0.00162" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </node>
+      <node id="RAG" label="RAG">
+        <attvalues>
+          <attvalue for="0" value="188" />
+          <attvalue for="1" value="Generative AI &amp; LLMs" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00874" />
+          <attvalue for="4" value="0.00834" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </node>
+      <node id="CSS" label="CSS">
+        <attvalues>
+          <attvalue for="0" value="177" />
+          <attvalue for="1" value="Frontend &amp; Web" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00555" />
+          <attvalue for="4" value="0.00186" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="Embedded systems" label="Embedded systems">
+        <attvalues>
+          <attvalue for="0" value="176" />
+          <attvalue for="1" value="Embedded, Hardware &amp; Telecom" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00479" />
+          <attvalue for="4" value="0.0025" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </node>
+      <node id=".NET" label=".NET">
+        <attvalues>
+          <attvalue for="0" value="168" />
+          <attvalue for="1" value="Backend &amp; APIs" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0052" />
+          <attvalue for="4" value="0.0002" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="Tailwind CSS" label="Tailwind CSS">
+        <attvalues>
+          <attvalue for="0" value="165" />
+          <attvalue for="1" value="Frontend &amp; Web" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00533" />
+          <attvalue for="4" value="0.00036" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </node>
+      <node id="IoT" label="IoT">
+        <attvalues>
+          <attvalue for="0" value="162" />
+          <attvalue for="1" value="Embedded, Hardware &amp; Telecom" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00459" />
+          <attvalue for="4" value="0.00033" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </node>
+      <node id="Test automation" label="Test automation">
+        <attvalues>
+          <attvalue for="0" value="161" />
+          <attvalue for="1" value="Testing &amp; QA" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00624" />
+          <attvalue for="4" value="0.00141" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </node>
+      <node id="Deep Learning" label="Deep Learning">
+        <attvalues>
+          <attvalue for="0" value="161" />
+          <attvalue for="1" value="Data Science &amp; ML" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.00446" />
+          <attvalue for="4" value="0.00058" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="PHP" label="PHP">
+        <attvalues>
+          <attvalue for="0" value="160" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.00329" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </node>
+      <node id="Data warehousing" label="Data warehousing">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="Data Engineering" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.00467" />
+          <attvalue for="4" value="4e-05" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </node>
+      <node id="SOC 2 / compliance" label="SOC 2 / compliance">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="Security" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.00501" />
+          <attvalue for="4" value="0.00183" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </node>
+      <node id="Swift" label="Swift">
+        <attvalues>
+          <attvalue for="0" value="157" />
+          <attvalue for="1" value="Programming Languages" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.006" />
+          <attvalue for="4" value="0.00042" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Python" target="C++" id="0">
+        <attvalues>
+          <attvalue for="6" value="250" />
+          <attvalue for="7" value="1.567" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Machine Learning" id="1">
+        <attvalues>
+          <attvalue for="6" value="712" />
+          <attvalue for="7" value="1.402" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="CI/CD" id="2">
+        <attvalues>
+          <attvalue for="6" value="274" />
+          <attvalue for="7" value="1.406" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Django" id="3">
+        <attvalues>
+          <attvalue for="6" value="312" />
+          <attvalue for="7" value="2.571" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Terraform" id="4">
+        <attvalues>
+          <attvalue for="6" value="339" />
+          <attvalue for="7" value="1.658" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Vue.js" id="5">
+        <attvalues>
+          <attvalue for="6" value="152" />
+          <attvalue for="7" value="1.369" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="FastAPI" id="6">
+        <attvalues>
+          <attvalue for="6" value="220" />
+          <attvalue for="7" value="2.658" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="JavaScript" id="7">
+        <attvalues>
+          <attvalue for="6" value="340" />
+          <attvalue for="7" value="1.358" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="AWS" id="8">
+        <attvalues>
+          <attvalue for="6" value="824" />
+          <attvalue for="7" value="1.394" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Azure" id="9">
+        <attvalues>
+          <attvalue for="6" value="183" />
+          <attvalue for="7" value="1.307" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="GCP" id="10">
+        <attvalues>
+          <attvalue for="6" value="349" />
+          <attvalue for="7" value="1.504" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="REST APIs" id="11">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="1.309" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="SQL" id="12">
+        <attvalues>
+          <attvalue for="6" value="332" />
+          <attvalue for="7" value="1.575" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Kubernetes" id="13">
+        <attvalues>
+          <attvalue for="6" value="492" />
+          <attvalue for="7" value="1.368" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Data analysis" id="14">
+        <attvalues>
+          <attvalue for="6" value="93" />
+          <attvalue for="7" value="1.338" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Linux" id="15">
+        <attvalues>
+          <attvalue for="6" value="241" />
+          <attvalue for="7" value="1.604" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Test automation" id="16">
+        <attvalues>
+          <attvalue for="6" value="87" />
+          <attvalue for="7" value="1.625" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Docker" id="17">
+        <attvalues>
+          <attvalue for="6" value="391" />
+          <attvalue for="7" value="1.682" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Infrastructure as Code" id="18">
+        <attvalues>
+          <attvalue for="6" value="112" />
+          <attvalue for="7" value="1.567" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Data pipelines" id="19">
+        <attvalues>
+          <attvalue for="6" value="199" />
+          <attvalue for="7" value="1.755" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="PyTorch" id="20">
+        <attvalues>
+          <attvalue for="6" value="161" />
+          <attvalue for="7" value="2.409" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Data warehousing" id="21">
+        <attvalues>
+          <attvalue for="6" value="72" />
+          <attvalue for="7" value="1.362" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="Snowflake" id="22">
+        <attvalues>
+          <attvalue for="6" value="89" />
+          <attvalue for="7" value="1.345" />
+        </attvalues>
+      </edge>
+      <edge source="Python" target="RAG" id="23">
+        <attvalues>
+          <attvalue for="6" value="118" />
+          <attvalue for="7" value="1.888" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="JavaScript" id="24">
+        <attvalues>
+          <attvalue for="6" value="308" />
+          <attvalue for="7" value="1.435" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Tailwind CSS" id="25">
+        <attvalues>
+          <attvalue for="6" value="106" />
+          <attvalue for="7" value="2.254" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Ruby" id="26">
+        <attvalues>
+          <attvalue for="6" value="164" />
+          <attvalue for="7" value="1.442" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="FastAPI" id="27">
+        <attvalues>
+          <attvalue for="6" value="139" />
+          <attvalue for="7" value="1.958" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="GraphQL" id="28">
+        <attvalues>
+          <attvalue for="6" value="239" />
+          <attvalue for="7" value="2.481" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="PostgreSQL" id="29">
+        <attvalues>
+          <attvalue for="6" value="817" />
+          <attvalue for="7" value="1.807" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="TypeScript" id="30">
+        <attvalues>
+          <attvalue for="6" value="1357" />
+          <attvalue for="7" value="2.164" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Node.js" id="31">
+        <attvalues>
+          <attvalue for="6" value="623" />
+          <attvalue for="7" value="2.335" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="AWS" id="32">
+        <attvalues>
+          <attvalue for="6" value="762" />
+          <attvalue for="7" value="1.504" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="GCP" id="33">
+        <attvalues>
+          <attvalue for="6" value="275" />
+          <attvalue for="7" value="1.382" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="REST APIs" id="34">
+        <attvalues>
+          <attvalue for="6" value="72" />
+          <attvalue for="7" value="1.309" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Next.js" id="35">
+        <attvalues>
+          <attvalue for="6" value="381" />
+          <attvalue for="7" value="2.494" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Redis" id="36">
+        <attvalues>
+          <attvalue for="6" value="163" />
+          <attvalue for="7" value="1.55" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Django" id="37">
+        <attvalues>
+          <attvalue for="6" value="204" />
+          <attvalue for="7" value="1.961" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="Ruby on Rails" id="38">
+        <attvalues>
+          <attvalue for="6" value="184" />
+          <attvalue for="7" value="1.519" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="React Native" id="39">
+        <attvalues>
+          <attvalue for="6" value="172" />
+          <attvalue for="7" value="1.972" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="MySQL" id="40">
+        <attvalues>
+          <attvalue for="6" value="88" />
+          <attvalue for="7" value="1.416" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="MongoDB" id="41">
+        <attvalues>
+          <attvalue for="6" value="132" />
+          <attvalue for="7" value="1.922" />
+        </attvalues>
+      </edge>
+      <edge source="React" target="CSS" id="42">
+        <attvalues>
+          <attvalue for="6" value="96" />
+          <attvalue for="7" value="1.903" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Kotlin" id="43">
+        <attvalues>
+          <attvalue for="6" value="82" />
+          <attvalue for="7" value="1.427" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Rust" id="44">
+        <attvalues>
+          <attvalue for="6" value="247" />
+          <attvalue for="7" value="1.335" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="FastAPI" id="45">
+        <attvalues>
+          <attvalue for="6" value="89" />
+          <attvalue for="7" value="1.312" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="GraphQL" id="46">
+        <attvalues>
+          <attvalue for="6" value="215" />
+          <attvalue for="7" value="2.335" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="PostgreSQL" id="47">
+        <attvalues>
+          <attvalue for="6" value="752" />
+          <attvalue for="7" value="1.741" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="AWS" id="48">
+        <attvalues>
+          <attvalue for="6" value="721" />
+          <attvalue for="7" value="1.489" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Redis" id="49">
+        <attvalues>
+          <attvalue for="6" value="176" />
+          <attvalue for="7" value="1.751" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Vue.js" id="50">
+        <attvalues>
+          <attvalue for="6" value="139" />
+          <attvalue for="7" value="1.528" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Django" id="51">
+        <attvalues>
+          <attvalue for="6" value="131" />
+          <attvalue for="7" value="1.318" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Node.js" id="52">
+        <attvalues>
+          <attvalue for="6" value="576" />
+          <attvalue for="7" value="2.259" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="JavaScript" id="53">
+        <attvalues>
+          <attvalue for="6" value="268" />
+          <attvalue for="7" value="1.307" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Terraform" id="54">
+        <attvalues>
+          <attvalue for="6" value="238" />
+          <attvalue for="7" value="1.421" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="React Native" id="55">
+        <attvalues>
+          <attvalue for="6" value="158" />
+          <attvalue for="7" value="1.895" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="GCP" id="56">
+        <attvalues>
+          <attvalue for="6" value="250" />
+          <attvalue for="7" value="1.315" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="CSS" id="57">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="1.39" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="REST APIs" id="58">
+        <attvalues>
+          <attvalue for="6" value="77" />
+          <attvalue for="7" value="1.465" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Next.js" id="59">
+        <attvalues>
+          <attvalue for="6" value="359" />
+          <attvalue for="7" value="2.459" />
+        </attvalues>
+      </edge>
+      <edge source="TypeScript" target="Tailwind CSS" id="60">
+        <attvalues>
+          <attvalue for="6" value="96" />
+          <attvalue for="7" value="2.136" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="PostgreSQL" id="61">
+        <attvalues>
+          <attvalue for="6" value="623" />
+          <attvalue for="7" value="1.784" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Redis" id="62">
+        <attvalues>
+          <attvalue for="6" value="144" />
+          <attvalue for="7" value="1.773" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Azure" id="63">
+        <attvalues>
+          <attvalue for="6" value="259" />
+          <attvalue for="7" value="2.794" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="GCP" id="64">
+        <attvalues>
+          <attvalue for="6" value="297" />
+          <attvalue for="7" value="1.933" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Node.js" id="65">
+        <attvalues>
+          <attvalue for="6" value="374" />
+          <attvalue for="7" value="1.815" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="REST APIs" id="66">
+        <attvalues>
+          <attvalue for="6" value="83" />
+          <attvalue for="7" value="1.953" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="SQL" id="67">
+        <attvalues>
+          <attvalue for="6" value="199" />
+          <attvalue for="7" value="1.426" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Terraform" id="68">
+        <attvalues>
+          <attvalue for="6" value="387" />
+          <attvalue for="7" value="2.858" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="DevOps practices" id="69">
+        <attvalues>
+          <attvalue for="6" value="264" />
+          <attvalue for="7" value="1.631" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="GraphQL" id="70">
+        <attvalues>
+          <attvalue for="6" value="137" />
+          <attvalue for="7" value="1.841" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Docker" id="71">
+        <attvalues>
+          <attvalue for="6" value="362" />
+          <attvalue for="7" value="2.352" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Django" id="72">
+        <attvalues>
+          <attvalue for="6" value="147" />
+          <attvalue for="7" value="1.829" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Go" id="73">
+        <attvalues>
+          <attvalue for="6" value="244" />
+          <attvalue for="7" value="1.337" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Java" id="74">
+        <attvalues>
+          <attvalue for="6" value="160" />
+          <attvalue for="7" value="1.39" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Kafka" id="75">
+        <attvalues>
+          <attvalue for="6" value="112" />
+          <attvalue for="7" value="2.292" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="MySQL" id="76">
+        <attvalues>
+          <attvalue for="6" value="93" />
+          <attvalue for="7" value="1.938" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Vue.js" id="77">
+        <attvalues>
+          <attvalue for="6" value="108" />
+          <attvalue for="7" value="1.469" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Microservices" id="78">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="1.957" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="React Native" id="79">
+        <attvalues>
+          <attvalue for="6" value="96" />
+          <attvalue for="7" value="1.425" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Infrastructure as Code" id="80">
+        <attvalues>
+          <attvalue for="6" value="121" />
+          <attvalue for="7" value="2.556" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Kubernetes" id="81">
+        <attvalues>
+          <attvalue for="6" value="467" />
+          <attvalue for="7" value="1.96" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="PyTorch" id="82">
+        <attvalues>
+          <attvalue for="6" value="80" />
+          <attvalue for="7" value="1.808" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Observability" id="83">
+        <attvalues>
+          <attvalue for="6" value="175" />
+          <attvalue for="7" value="1.857" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Data pipelines" id="84">
+        <attvalues>
+          <attvalue for="6" value="109" />
+          <attvalue for="7" value="1.452" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="CI/CD" id="85">
+        <attvalues>
+          <attvalue for="6" value="265" />
+          <attvalue for="7" value="2.054" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="MongoDB" id="86">
+        <attvalues>
+          <attvalue for="6" value="98" />
+          <attvalue for="7" value="1.847" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Next.js" id="87">
+        <attvalues>
+          <attvalue for="6" value="178" />
+          <attvalue for="7" value="1.508" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="FastAPI" id="88">
+        <attvalues>
+          <attvalue for="6" value="97" />
+          <attvalue for="7" value="1.769" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Snowflake" id="89">
+        <attvalues>
+          <attvalue for="6" value="65" />
+          <attvalue for="7" value="1.484" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="Data warehousing" id="90">
+        <attvalues>
+          <attvalue for="6" value="51" />
+          <attvalue for="7" value="1.457" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="SOC 2 / compliance" id="91">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="1.8" />
+        </attvalues>
+      </edge>
+      <edge source="AWS" target="RAG" id="92">
+        <attvalues>
+          <attvalue for="6" value="58" />
+          <attvalue for="7" value="1.401" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="FastAPI" id="93">
+        <attvalues>
+          <attvalue for="6" value="131" />
+          <attvalue for="7" value="2.679" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="GraphQL" id="94">
+        <attvalues>
+          <attvalue for="6" value="164" />
+          <attvalue for="7" value="2.471" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Kafka" id="95">
+        <attvalues>
+          <attvalue for="6" value="91" />
+          <attvalue for="7" value="2.087" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Redis" id="96">
+        <attvalues>
+          <attvalue for="6" value="283" />
+          <attvalue for="7" value="3.905" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="GCP" id="97">
+        <attvalues>
+          <attvalue for="6" value="190" />
+          <attvalue for="7" value="1.386" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Go" id="98">
+        <attvalues>
+          <attvalue for="6" value="222" />
+          <attvalue for="7" value="1.364" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Kubernetes" id="99">
+        <attvalues>
+          <attvalue for="6" value="345" />
+          <attvalue for="7" value="1.624" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Vue.js" id="100">
+        <attvalues>
+          <attvalue for="6" value="100" />
+          <attvalue for="7" value="1.525" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Next.js" id="101">
+        <attvalues>
+          <attvalue for="6" value="213" />
+          <attvalue for="7" value="2.024" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Terraform" id="102">
+        <attvalues>
+          <attvalue for="6" value="246" />
+          <attvalue for="7" value="2.037" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Django" id="103">
+        <attvalues>
+          <attvalue for="6" value="149" />
+          <attvalue for="7" value="2.079" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Node.js" id="104">
+        <attvalues>
+          <attvalue for="6" value="350" />
+          <attvalue for="7" value="1.904" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Docker" id="105">
+        <attvalues>
+          <attvalue for="6" value="289" />
+          <attvalue for="7" value="2.105" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Ruby" id="106">
+        <attvalues>
+          <attvalue for="6" value="145" />
+          <attvalue for="7" value="1.85" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Ruby on Rails" id="107">
+        <attvalues>
+          <attvalue for="6" value="164" />
+          <attvalue for="7" value="1.965" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="React Native" id="108">
+        <attvalues>
+          <attvalue for="6" value="85" />
+          <attvalue for="7" value="1.414" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Snowflake" id="109">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="1.356" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="MySQL" id="110">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="1.892" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="MongoDB" id="111">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="1.711" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="Tailwind CSS" id="112">
+        <attvalues>
+          <attvalue for="6" value="91" />
+          <attvalue for="7" value="2.808" />
+        </attvalues>
+      </edge>
+      <edge source="PostgreSQL" target="REST APIs" id="113">
+        <attvalues>
+          <attvalue for="6" value="62" />
+          <attvalue for="7" value="1.636" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Time series" id="114">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="1.641" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Embedded systems" id="115">
+        <attvalues>
+          <attvalue for="6" value="47" />
+          <attvalue for="7" value="1.412" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Deep Learning" id="116">
+        <attvalues>
+          <attvalue for="6" value="114" />
+          <attvalue for="7" value="3.745" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Generative AI" id="117">
+        <attvalues>
+          <attvalue for="6" value="114" />
+          <attvalue for="7" value="2.003" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="PyTorch" id="118">
+        <attvalues>
+          <attvalue for="6" value="157" />
+          <attvalue for="7" value="4.131" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Data pipelines" id="119">
+        <attvalues>
+          <attvalue for="6" value="117" />
+          <attvalue for="7" value="1.815" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Computer Vision" id="120">
+        <attvalues>
+          <attvalue for="6" value="143" />
+          <attvalue for="7" value="3.205" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Robotics" id="121">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="1.337" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="LLMs" id="122">
+        <attvalues>
+          <attvalue for="6" value="387" />
+          <attvalue for="7" value="1.976" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="Data analysis" id="123">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="1.62" />
+        </attvalues>
+      </edge>
+      <edge source="Machine Learning" target="RAG" id="124">
+        <attvalues>
+          <attvalue for="6" value="68" />
+          <attvalue for="7" value="1.913" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="GCP" id="125">
+        <attvalues>
+          <attvalue for="6" value="263" />
+          <attvalue for="7" value="2.812" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Go" id="126">
+        <attvalues>
+          <attvalue for="6" value="266" />
+          <attvalue for="7" value="2.395" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Kotlin" id="127">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="1.521" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Vue.js" id="128">
+        <attvalues>
+          <attvalue for="6" value="61" />
+          <attvalue for="7" value="1.363" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="DevOps practices" id="129">
+        <attvalues>
+          <attvalue for="6" value="241" />
+          <attvalue for="7" value="2.447" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Infrastructure as Code" id="130">
+        <attvalues>
+          <attvalue for="6" value="92" />
+          <attvalue for="7" value="3.194" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Terraform" id="131">
+        <attvalues>
+          <attvalue for="6" value="283" />
+          <attvalue for="7" value="3.435" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Java" id="132">
+        <attvalues>
+          <attvalue for="6" value="144" />
+          <attvalue for="7" value="2.055" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="PyTorch" id="133">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="1.857" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Azure" id="134">
+        <attvalues>
+          <attvalue for="6" value="135" />
+          <attvalue for="7" value="2.393" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="CI/CD" id="135">
+        <attvalues>
+          <attvalue for="6" value="225" />
+          <attvalue for="7" value="2.866" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="MySQL" id="136">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="2.876" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Node.js" id="137">
+        <attvalues>
+          <attvalue for="6" value="190" />
+          <attvalue for="7" value="1.515" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Data pipelines" id="138">
+        <attvalues>
+          <attvalue for="6" value="61" />
+          <attvalue for="7" value="1.335" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Linux" id="139">
+        <attvalues>
+          <attvalue for="6" value="124" />
+          <attvalue for="7" value="2.048" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Kafka" id="140">
+        <attvalues>
+          <attvalue for="6" value="106" />
+          <attvalue for="7" value="3.564" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="GraphQL" id="141">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="1.48" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Docker" id="142">
+        <attvalues>
+          <attvalue for="6" value="342" />
+          <attvalue for="7" value="3.652" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Redis" id="143">
+        <attvalues>
+          <attvalue for="6" value="121" />
+          <attvalue for="7" value="2.448" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="MongoDB" id="144">
+        <attvalues>
+          <attvalue for="6" value="57" />
+          <attvalue for="7" value="1.765" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Git" id="145">
+        <attvalues>
+          <attvalue for="6" value="163" />
+          <attvalue for="7" value="1.45" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Microservices" id="146">
+        <attvalues>
+          <attvalue for="6" value="78" />
+          <attvalue for="7" value="3.097" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Next.js" id="147">
+        <attvalues>
+          <attvalue for="6" value="100" />
+          <attvalue for="7" value="1.393" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="Observability" id="148">
+        <attvalues>
+          <attvalue for="6" value="148" />
+          <attvalue for="7" value="2.581" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="FastAPI" id="149">
+        <attvalues>
+          <attvalue for="6" value="62" />
+          <attvalue for="7" value="1.858" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="REST APIs" id="150">
+        <attvalues>
+          <attvalue for="6" value="48" />
+          <attvalue for="7" value="1.856" />
+        </attvalues>
+      </edge>
+      <edge source="Kubernetes" target="SOC 2 / compliance" id="151">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.314" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Deep Learning" id="152">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="1.598" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="PyTorch" id="153">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="2.055" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Data pipelines" id="154">
+        <attvalues>
+          <attvalue for="6" value="75" />
+          <attvalue for="7" value="1.715" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="GCP" id="155">
+        <attvalues>
+          <attvalue for="6" value="124" />
+          <attvalue for="7" value="1.385" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="OpenAI/GPT" id="156">
+        <attvalues>
+          <attvalue for="6" value="119" />
+          <attvalue for="7" value="3.177" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="AI agents" id="157">
+        <attvalues>
+          <attvalue for="6" value="301" />
+          <attvalue for="7" value="2.879" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Git" id="158">
+        <attvalues>
+          <attvalue for="6" value="149" />
+          <attvalue for="7" value="1.384" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Next.js" id="159">
+        <attvalues>
+          <attvalue for="6" value="94" />
+          <attvalue for="7" value="1.367" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Generative AI" id="160">
+        <attvalues>
+          <attvalue for="6" value="99" />
+          <attvalue for="7" value="2.564" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Azure" id="161">
+        <attvalues>
+          <attvalue for="6" value="76" />
+          <attvalue for="7" value="1.407" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Anthropic/Claude" id="162">
+        <attvalues>
+          <attvalue for="6" value="119" />
+          <attvalue for="7" value="2.542" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="Observability" id="163">
+        <attvalues>
+          <attvalue for="6" value="108" />
+          <attvalue for="7" value="1.967" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="RAG" id="164">
+        <attvalues>
+          <attvalue for="6" value="131" />
+          <attvalue for="7" value="5.432" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="FastAPI" id="165">
+        <attvalues>
+          <attvalue for="6" value="70" />
+          <attvalue for="7" value="2.191" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="REST APIs" id="166">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.414" />
+        </attvalues>
+      </edge>
+      <edge source="LLMs" target="SOC 2 / compliance" id="167">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.716" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="GCP" id="168">
+        <attvalues>
+          <attvalue for="6" value="121" />
+          <attvalue for="7" value="1.496" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="JavaScript" id="169">
+        <attvalues>
+          <attvalue for="6" value="166" />
+          <attvalue for="7" value="1.902" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="REST APIs" id="170">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="1.922" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="GraphQL" id="171">
+        <attvalues>
+          <attvalue for="6" value="127" />
+          <attvalue for="7" value="3.242" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Next.js" id="172">
+        <attvalues>
+          <attvalue for="6" value="180" />
+          <attvalue for="7" value="2.898" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Docker" id="173">
+        <attvalues>
+          <attvalue for="6" value="135" />
+          <attvalue for="7" value="1.666" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Redis" id="174">
+        <attvalues>
+          <attvalue for="6" value="99" />
+          <attvalue for="7" value="2.315" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="MySQL" id="175">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="1.702" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="CSS" id="176">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="1.999" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="React Native" id="177">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="1.776" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="MongoDB" id="178">
+        <attvalues>
+          <attvalue for="6" value="102" />
+          <attvalue for="7" value="3.652" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="CI/CD" id="179">
+        <attvalues>
+          <attvalue for="6" value="104" />
+          <attvalue for="7" value="1.531" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Observability" id="180">
+        <attvalues>
+          <attvalue for="6" value="71" />
+          <attvalue for="7" value="1.431" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Microservices" id="181">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.331" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Vue.js" id="182">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="1.653" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="PHP" id="183">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.456" />
+        </attvalues>
+      </edge>
+      <edge source="Node.js" target="Tailwind CSS" id="184">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="2.301" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="C#" id="185">
+        <attvalues>
+          <attvalue for="6" value="48" />
+          <attvalue for="7" value="1.819" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Rust" id="186">
+        <attvalues>
+          <attvalue for="6" value="104" />
+          <attvalue for="7" value="1.474" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="IoT" id="187">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="2.317" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="JavaScript" id="188">
+        <attvalues>
+          <attvalue for="6" value="146" />
+          <attvalue for="7" value="1.866" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="DevOps practices" id="189">
+        <attvalues>
+          <attvalue for="6" value="110" />
+          <attvalue for="7" value="1.441" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Infrastructure as Code" id="190">
+        <attvalues>
+          <attvalue for="6" value="49" />
+          <attvalue for="7" value="2.194" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Next.js" id="191">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="1.509" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="SQL" id="192">
+        <attvalues>
+          <attvalue for="6" value="126" />
+          <attvalue for="7" value="1.913" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Docker" id="193">
+        <attvalues>
+          <attvalue for="6" value="176" />
+          <attvalue for="7" value="2.424" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Kafka" id="194">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="1.431" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Microservices" id="195">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.792" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="MySQL" id="196">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="1.634" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Vue.js" id="197">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="1.844" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="MongoDB" id="198">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="1.598" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="CI/CD" id="199">
+        <attvalues>
+          <attvalue for="6" value="211" />
+          <attvalue for="7" value="3.466" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Observability" id="200">
+        <attvalues>
+          <attvalue for="6" value="88" />
+          <attvalue for="7" value="1.979" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Test automation" id="201">
+        <attvalues>
+          <attvalue for="6" value="69" />
+          <attvalue for="7" value="4.125" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Terraform" id="202">
+        <attvalues>
+          <attvalue for="6" value="121" />
+          <attvalue for="7" value="1.894" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Linux" id="203">
+        <attvalues>
+          <attvalue for="6" value="99" />
+          <attvalue for="7" value="2.108" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Robotics" id="204">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.526" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Azure" id="205">
+        <attvalues>
+          <attvalue for="6" value="88" />
+          <attvalue for="7" value="2.012" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="CSS" id="206">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="2.447" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="FastAPI" id="207">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="1.392" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Snowflake" id="208">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="1.935" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="OpenAI/GPT" id="209">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.385" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target=".NET" id="210">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.719" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="REST APIs" id="211">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="3.342" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="Anthropic/Claude" id="212">
+        <attvalues>
+          <attvalue for="6" value="65" />
+          <attvalue for="7" value="1.714" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="RAG" id="213">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="1.894" />
+        </attvalues>
+      </edge>
+      <edge source="Git" target="SOC 2 / compliance" id="214">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.574" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="DevOps practices" id="215">
+        <attvalues>
+          <attvalue for="6" value="99" />
+          <attvalue for="7" value="1.312" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="GCP" id="216">
+        <attvalues>
+          <attvalue for="6" value="138" />
+          <attvalue for="7" value="1.926" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Kotlin" id="217">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="1.477" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Vue.js" id="218">
+        <attvalues>
+          <attvalue for="6" value="62" />
+          <attvalue for="7" value="1.808" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Redis" id="219">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="2.138" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Terraform" id="220">
+        <attvalues>
+          <attvalue for="6" value="164" />
+          <attvalue for="7" value="2.598" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Java" id="221">
+        <attvalues>
+          <attvalue for="6" value="85" />
+          <attvalue for="7" value="1.583" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Kafka" id="222">
+        <attvalues>
+          <attvalue for="6" value="57" />
+          <attvalue for="7" value="2.501" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Ruby" id="223">
+        <attvalues>
+          <attvalue for="6" value="68" />
+          <attvalue for="7" value="1.66" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Rust" id="224">
+        <attvalues>
+          <attvalue for="6" value="160" />
+          <attvalue for="7" value="2.296" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Infrastructure as Code" id="225">
+        <attvalues>
+          <attvalue for="6" value="52" />
+          <attvalue for="7" value="2.356" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Linux" id="226">
+        <attvalues>
+          <attvalue for="6" value="82" />
+          <attvalue for="7" value="1.767" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Docker" id="227">
+        <attvalues>
+          <attvalue for="6" value="108" />
+          <attvalue for="7" value="1.505" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Microservices" id="228">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.125" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="C++" id="229">
+        <attvalues>
+          <attvalue for="6" value="76" />
+          <attvalue for="7" value="1.542" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Observability" id="230">
+        <attvalues>
+          <attvalue for="6" value="58" />
+          <attvalue for="7" value="1.32" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="IoT" id="231">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="2.706" />
+        </attvalues>
+      </edge>
+      <edge source="Go" target="Test automation" id="232">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="2.36" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Generative AI" id="233">
+        <attvalues>
+          <attvalue for="6" value="72" />
+          <attvalue for="7" value="2.37" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="OpenAI/GPT" id="234">
+        <attvalues>
+          <attvalue for="6" value="75" />
+          <attvalue for="7" value="2.545" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="FastAPI" id="235">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="1.99" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="RAG" id="236">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="4.428" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Data pipelines" id="237">
+        <attvalues>
+          <attvalue for="6" value="47" />
+          <attvalue for="7" value="1.366" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Data visualization" id="238">
+        <attvalues>
+          <attvalue for="6" value="52" />
+          <attvalue for="7" value="1.381" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="REST APIs" id="239">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.54" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Anthropic/Claude" id="240">
+        <attvalues>
+          <attvalue for="6" value="126" />
+          <attvalue for="7" value="3.421" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Observability" id="241">
+        <attvalues>
+          <attvalue for="6" value="116" />
+          <attvalue for="7" value="2.686" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Snowflake" id="242">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="1.693" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="CI/CD" id="243">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="1.37" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Cybersecurity" id="244">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="1.632" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Time series" id="245">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.416" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Azure" id="246">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="1.483" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Infrastructure as Code" id="247">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="1.751" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="SOC 2 / compliance" id="248">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="2.306" />
+        </attvalues>
+      </edge>
+      <edge source="AI agents" target="Salesforce" id="249">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="2.106" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Tailwind CSS" id="250">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="2.34" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="C#" id="251">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.9" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="C++" id="252">
+        <attvalues>
+          <attvalue for="6" value="73" />
+          <attvalue for="7" value="1.631" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="REST APIs" id="253">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="2.779" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="SQL" id="254">
+        <attvalues>
+          <attvalue for="6" value="102" />
+          <attvalue for="7" value="1.725" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Docker" id="255">
+        <attvalues>
+          <attvalue for="6" value="95" />
+          <attvalue for="7" value="1.458" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="MySQL" id="256">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="2.165" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="PHP" id="257">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="4.223" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Redis" id="258">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.308" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Vue.js" id="259">
+        <attvalues>
+          <attvalue for="6" value="102" />
+          <attvalue for="7" value="3.275" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Next.js" id="260">
+        <attvalues>
+          <attvalue for="6" value="65" />
+          <attvalue for="7" value="1.301" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Linux" id="261">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="1.305" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Django" id="262">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.322" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="CSS" id="263">
+        <attvalues>
+          <attvalue for="6" value="112" />
+          <attvalue for="7" value="6.787" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Java" id="264">
+        <attvalues>
+          <attvalue for="6" value="85" />
+          <attvalue for="7" value="1.743" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Microservices" id="265">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.711" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="MongoDB" id="266">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="1.958" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="CI/CD" id="267">
+        <attvalues>
+          <attvalue for="6" value="86" />
+          <attvalue for="7" value="1.574" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Test automation" id="268">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="2.531" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Ruby" id="269">
+        <attvalues>
+          <attvalue for="6" value="72" />
+          <attvalue for="7" value="1.935" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target="Ruby on Rails" id="270">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="1.388" />
+        </attvalues>
+      </edge>
+      <edge source="JavaScript" target=".NET" id="271">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.66" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="CI/CD" id="272">
+        <attvalues>
+          <attvalue for="6" value="197" />
+          <attvalue for="7" value="3.694" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Terraform" id="273">
+        <attvalues>
+          <attvalue for="6" value="177" />
+          <attvalue for="7" value="3.162" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Vue.js" id="274">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="1.447" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Infrastructure as Code" id="275">
+        <attvalues>
+          <attvalue for="6" value="91" />
+          <attvalue for="7" value="4.651" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="MySQL" id="276">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="1.663" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Java" id="277">
+        <attvalues>
+          <attvalue for="6" value="70" />
+          <attvalue for="7" value="1.471" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Linux" id="278">
+        <attvalues>
+          <attvalue for="6" value="109" />
+          <attvalue for="7" value="2.65" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Microservices" id="279">
+        <attvalues>
+          <attvalue for="6" value="47" />
+          <attvalue for="7" value="2.747" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Docker" id="280">
+        <attvalues>
+          <attvalue for="6" value="150" />
+          <attvalue for="7" value="2.358" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Redis" id="281">
+        <attvalues>
+          <attvalue for="6" value="71" />
+          <attvalue for="7" value="2.114" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="IoT" id="282">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.899" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="MongoDB" id="283">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="1.96" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Kafka" id="284">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.485" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="GCP" id="285">
+        <attvalues>
+          <attvalue for="6" value="102" />
+          <attvalue for="7" value="1.606" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="REST APIs" id="286">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="2.277" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Azure" id="287">
+        <attvalues>
+          <attvalue for="6" value="111" />
+          <attvalue for="7" value="2.897" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="Observability" id="288">
+        <attvalues>
+          <attvalue for="6" value="75" />
+          <attvalue for="7" value="1.925" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="C#" id="289">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.947" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target=".NET" id="290">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="2.485" />
+        </attvalues>
+      </edge>
+      <edge source="DevOps practices" target="PyTorch" id="291">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.367" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="MySQL" id="292">
+        <attvalues>
+          <attvalue for="6" value="66" />
+          <attvalue for="7" value="3.498" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Redis" id="293">
+        <attvalues>
+          <attvalue for="6" value="96" />
+          <attvalue for="7" value="3.006" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Terraform" id="294">
+        <attvalues>
+          <attvalue for="6" value="208" />
+          <attvalue for="7" value="3.908" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Vue.js" id="295">
+        <attvalues>
+          <attvalue for="6" value="83" />
+          <attvalue for="7" value="2.871" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Kafka" id="296">
+        <attvalues>
+          <attvalue for="6" value="65" />
+          <attvalue for="7" value="3.383" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Microservices" id="297">
+        <attvalues>
+          <attvalue for="6" value="54" />
+          <attvalue for="7" value="3.319" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="PyTorch" id="298">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="2.299" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="GCP" id="299">
+        <attvalues>
+          <attvalue for="6" value="126" />
+          <attvalue for="7" value="2.086" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Kotlin" id="300">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.369" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Data pipelines" id="301">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.423" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Django" id="302">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="1.741" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Java" id="303">
+        <attvalues>
+          <attvalue for="6" value="110" />
+          <attvalue for="7" value="2.43" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="C#" id="304">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="1.41" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="CI/CD" id="305">
+        <attvalues>
+          <attvalue for="6" value="173" />
+          <attvalue for="7" value="3.411" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="FastAPI" id="306">
+        <attvalues>
+          <attvalue for="6" value="74" />
+          <attvalue for="7" value="3.434" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="GraphQL" id="307">
+        <attvalues>
+          <attvalue for="6" value="51" />
+          <attvalue for="7" value="1.743" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="MongoDB" id="308">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="2.109" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="REST APIs" id="309">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="3.173" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Azure" id="310">
+        <attvalues>
+          <attvalue for="6" value="102" />
+          <attvalue for="7" value="2.799" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="SQL" id="311">
+        <attvalues>
+          <attvalue for="6" value="78" />
+          <attvalue for="7" value="1.421" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Linux" id="312">
+        <attvalues>
+          <attvalue for="6" value="119" />
+          <attvalue for="7" value="3.042" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Robotics" id="313">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.831" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Test automation" id="314">
+        <attvalues>
+          <attvalue for="6" value="48" />
+          <attvalue for="7" value="3.445" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="IoT" id="315">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="2.354" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Observability" id="316">
+        <attvalues>
+          <attvalue for="6" value="79" />
+          <attvalue for="7" value="2.133" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Infrastructure as Code" id="317">
+        <attvalues>
+          <attvalue for="6" value="59" />
+          <attvalue for="7" value="3.171" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Tailwind CSS" id="318">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.031" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="RAG" id="319">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="2.335" />
+        </attvalues>
+      </edge>
+      <edge source="Docker" target="Snowflake" id="320">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.451" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Azure" id="321">
+        <attvalues>
+          <attvalue for="6" value="195" />
+          <attvalue for="7" value="5.359" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="REST APIs" id="322">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.798" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="SQL" id="323">
+        <attvalues>
+          <attvalue for="6" value="106" />
+          <attvalue for="7" value="1.934" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Terraform" id="324">
+        <attvalues>
+          <attvalue for="6" value="134" />
+          <attvalue for="7" value="2.521" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Kotlin" id="325">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.248" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="GraphQL" id="326">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="1.335" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Redis" id="327">
+        <attvalues>
+          <attvalue for="6" value="61" />
+          <attvalue for="7" value="1.913" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Java" id="328">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="1.416" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="React Native" id="329">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="1.475" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Data pipelines" id="330">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="1.866" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="MySQL" id="331">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.858" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="CI/CD" id="332">
+        <attvalues>
+          <attvalue for="6" value="116" />
+          <attvalue for="7" value="2.29" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Microservices" id="333">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.846" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="MongoDB" id="334">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="1.632" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="FastAPI" id="335">
+        <attvalues>
+          <attvalue for="6" value="61" />
+          <attvalue for="7" value="2.834" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Data warehousing" id="336">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="2.256" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Infrastructure as Code" id="337">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="2.691" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Kafka" id="338">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="1.616" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Observability" id="339">
+        <attvalues>
+          <attvalue for="6" value="70" />
+          <attvalue for="7" value="1.892" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="SOC 2 / compliance" id="340">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.892" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="PyTorch" id="341">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="2.13" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Snowflake" id="342">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="2.093" />
+        </attvalues>
+      </edge>
+      <edge source="GCP" target="Anthropic/Claude" id="343">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.331" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="C#" id="344">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.311" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="C++" id="345">
+        <attvalues>
+          <attvalue for="6" value="140" />
+          <attvalue for="7" value="3.469" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Kotlin" id="346">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.522" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Kafka" id="347">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="1.929" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Redis" id="348">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.45" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Terraform" id="349">
+        <attvalues>
+          <attvalue for="6" value="91" />
+          <attvalue for="7" value="1.76" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Test automation" id="350">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.216" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Vue.js" id="351">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="1.46" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Linux" id="352">
+        <attvalues>
+          <attvalue for="6" value="70" />
+          <attvalue for="7" value="1.842" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Android" id="353">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="1.594" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Embedded systems" id="354">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.027" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="IoT" id="355">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="2.643" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Swift" id="356">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.273" />
+        </attvalues>
+      </edge>
+      <edge source="Rust" target="Robotics" id="357">
+        <attvalues>
+          <attvalue for="6" value="51" />
+          <attvalue for="7" value="2.289" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Azure" id="358">
+        <attvalues>
+          <attvalue for="6" value="110" />
+          <attvalue for="7" value="3.328" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="REST APIs" id="359">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="3.3" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Terraform" id="360">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="1.305" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Java" id="361">
+        <attvalues>
+          <attvalue for="6" value="83" />
+          <attvalue for="7" value="2.022" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Data pipelines" id="362">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="2.391" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Time series" id="363">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.882" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="CSS" id="364">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="3.023" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Snowflake" id="365">
+        <attvalues>
+          <attvalue for="6" value="59" />
+          <attvalue for="7" value="3.777" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Data visualization" id="366">
+        <attvalues>
+          <attvalue for="6" value="89" />
+          <attvalue for="7" value="3.039" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Data warehousing" id="367">
+        <attvalues>
+          <attvalue for="6" value="56" />
+          <attvalue for="7" value="4.486" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Infrastructure as Code" id="368">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="2.014" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="CI/CD" id="369">
+        <attvalues>
+          <attvalue for="6" value="89" />
+          <attvalue for="7" value="1.935" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="C#" id="370">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="3.21" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Observability" id="371">
+        <attvalues>
+          <attvalue for="6" value="47" />
+          <attvalue for="7" value="1.399" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Data analysis" id="372">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.499" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="MySQL" id="373">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.753" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Kafka" id="374">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.434" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target=".NET" id="375">
+        <attvalues>
+          <attvalue for="6" value="59" />
+          <attvalue for="7" value="4.474" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Excel" id="376">
+        <attvalues>
+          <attvalue for="6" value="48" />
+          <attvalue for="7" value="2.352" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Microservices" id="377">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.829" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="RAG" id="378">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.762" />
+        </attvalues>
+      </edge>
+      <edge source="SQL" target="Anthropic/Claude" id="379">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="1.396" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="CI/CD" id="380">
+        <attvalues>
+          <attvalue for="6" value="154" />
+          <attvalue for="7" value="3.451" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Django" id="381">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="1.619" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Vue.js" id="382">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="2.477" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Azure" id="383">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="2.62" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="GraphQL" id="384">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="1.476" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Redis" id="385">
+        <attvalues>
+          <attvalue for="6" value="96" />
+          <attvalue for="7" value="3.416" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="MySQL" id="386">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.687" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Kafka" id="387">
+        <attvalues>
+          <attvalue for="6" value="57" />
+          <attvalue for="7" value="3.372" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Microservices" id="388">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.816" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Infrastructure as Code" id="389">
+        <attvalues>
+          <attvalue for="6" value="128" />
+          <attvalue for="7" value="7.818" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Java" id="390">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="1.381" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Linux" id="391">
+        <attvalues>
+          <attvalue for="6" value="81" />
+          <attvalue for="7" value="2.353" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="FastAPI" id="392">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="1.74" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Test automation" id="393">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="3.263" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Observability" id="394">
+        <attvalues>
+          <attvalue for="6" value="88" />
+          <attvalue for="7" value="2.7" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Data pipelines" id="395">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.348" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Snowflake" id="396">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="2.178" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="IoT" id="397">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.351" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="Robotics" id="398">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.437" />
+        </attvalues>
+      </edge>
+      <edge source="Terraform" target="SOC 2 / compliance" id="399">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="2.147" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Django" id="400">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.322" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Vue.js" id="401">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="1.485" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target=".NET" id="402">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="2.789" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Azure" id="403">
+        <attvalues>
+          <attvalue for="6" value="112" />
+          <attvalue for="7" value="3.666" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Java" id="404">
+        <attvalues>
+          <attvalue for="6" value="86" />
+          <attvalue for="7" value="2.266" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Kotlin" id="405">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="2.09" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Data pipelines" id="406">
+        <attvalues>
+          <attvalue for="6" value="56" />
+          <attvalue for="7" value="2.263" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="GraphQL" id="407">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.427" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Next.js" id="408">
+        <attvalues>
+          <attvalue for="6" value="61" />
+          <attvalue for="7" value="1.568" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Observability" id="409">
+        <attvalues>
+          <attvalue for="6" value="148" />
+          <attvalue for="7" value="4.766" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Microservices" id="410">
+        <attvalues>
+          <attvalue for="6" value="59" />
+          <attvalue for="7" value="4.325" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Test automation" id="411">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="4.708" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="MongoDB" id="412">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="2.402" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="REST APIs" id="413">
+        <attvalues>
+          <attvalue for="6" value="60" />
+          <attvalue for="7" value="4.284" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="FastAPI" id="414">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.384" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Redis" id="415">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="1.643" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Linux" id="416">
+        <attvalues>
+          <attvalue for="6" value="82" />
+          <attvalue for="7" value="2.5" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Kafka" id="417">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="2.607" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Snowflake" id="418">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.008" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Infrastructure as Code" id="419">
+        <attvalues>
+          <attvalue for="6" value="109" />
+          <attvalue for="7" value="6.987" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="MySQL" id="420">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.707" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Cybersecurity" id="421">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.605" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="SOC 2 / compliance" id="422">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="3.12" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="C#" id="423">
+        <attvalues>
+          <attvalue for="6" value="54" />
+          <attvalue for="7" value="2.93" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="RAG" id="424">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="2.053" />
+        </attvalues>
+      </edge>
+      <edge source="CI/CD" target="Anthropic/Claude" id="425">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.586" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="GraphQL" id="426">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="2.987" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="Redis" id="427">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="1.552" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="Observability" id="428">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="1.76" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="FastAPI" id="429">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.481" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="React Native" id="430">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.019" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="Tailwind CSS" id="431">
+        <attvalues>
+          <attvalue for="6" value="67" />
+          <attvalue for="7" value="6.118" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="OpenAI/GPT" id="432">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.116" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="MongoDB" id="433">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="1.626" />
+        </attvalues>
+      </edge>
+      <edge source="Next.js" target="Anthropic/Claude" id="434">
+        <attvalues>
+          <attvalue for="6" value="44" />
+          <attvalue for="7" value="1.816" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Kafka" id="435">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="3.687" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Redis" id="436">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="1.423" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Linux" id="437">
+        <attvalues>
+          <attvalue for="6" value="49" />
+          <attvalue for="7" value="1.674" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Azure" id="438">
+        <attvalues>
+          <attvalue for="6" value="55" />
+          <attvalue for="7" value="2.017" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Kotlin" id="439">
+        <attvalues>
+          <attvalue for="6" value="69" />
+          <attvalue for="7" value="5.05" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Swift" id="440">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.852" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Microservices" id="441">
+        <attvalues>
+          <attvalue for="6" value="47" />
+          <attvalue for="7" value="3.86" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Android" id="442">
+        <attvalues>
+          <attvalue for="6" value="45" />
+          <attvalue for="7" value="2.388" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="C++" id="443">
+        <attvalues>
+          <attvalue for="6" value="82" />
+          <attvalue for="7" value="2.638" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="MySQL" id="444">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="2.975" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Vue.js" id="445">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="1.618" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="MongoDB" id="446">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="1.986" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="REST APIs" id="447">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="2.48" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="Ruby" id="448">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="1.316" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="iOS" id="449">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.456" />
+        </attvalues>
+      </edge>
+      <edge source="Java" target="C#" id="450">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="3.222" />
+        </attvalues>
+      </edge>
+      <edge source="C++" target="C#" id="451">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="2.12" />
+        </attvalues>
+      </edge>
+      <edge source="C++" target="Embedded systems" id="452">
+        <attvalues>
+          <attvalue for="6" value="57" />
+          <attvalue for="7" value="5.449" />
+        </attvalues>
+      </edge>
+      <edge source="C++" target="Linux" id="453">
+        <attvalues>
+          <attvalue for="6" value="85" />
+          <attvalue for="7" value="3.164" />
+        </attvalues>
+      </edge>
+      <edge source="C++" target="Computer Vision" id="454">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.925" />
+        </attvalues>
+      </edge>
+      <edge source="C++" target="Robotics" id="455">
+        <attvalues>
+          <attvalue for="6" value="56" />
+          <attvalue for="7" value="3.555" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Test automation" id="456">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="3.218" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Data pipelines" id="457">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="1.572" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Embedded systems" id="458">
+        <attvalues>
+          <attvalue for="6" value="56" />
+          <attvalue for="7" value="5.685" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Redis" id="459">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="1.792" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Infrastructure as Code" id="460">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="3.573" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Observability" id="461">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="1.753" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Robotics" id="462">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="2.292" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Cybersecurity" id="463">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.153" />
+        </attvalues>
+      </edge>
+      <edge source="Linux" target="Azure" id="464">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="1.825" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Data pipelines" id="465">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.269" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Data visualization" id="466">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.467" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Redis" id="467">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="2.148" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Azure" id="468">
+        <attvalues>
+          <attvalue for="6" value="51" />
+          <attvalue for="7" value="2.286" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Kafka" id="469">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="2.975" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Infrastructure as Code" id="470">
+        <attvalues>
+          <attvalue for="6" value="71" />
+          <attvalue for="7" value="6.231" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="FastAPI" id="471">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.273" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="RAG" id="472">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="3.613" />
+        </attvalues>
+      </edge>
+      <edge source="Observability" target="Anthropic/Claude" id="473">
+        <attvalues>
+          <attvalue for="6" value="43" />
+          <attvalue for="7" value="2.223" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby on Rails" target="Ruby" id="474">
+        <attvalues>
+          <attvalue for="6" value="306" />
+          <attvalue for="7" value="14.573" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby on Rails" target="Vue.js" id="475">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.333" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby on Rails" target="Redis" id="476">
+        <attvalues>
+          <attvalue for="6" value="48" />
+          <attvalue for="7" value="2.472" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby on Rails" target="GraphQL" id="477">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="2.024" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby on Rails" target="React Native" id="478">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.552" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="REST APIs" id="479">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="3.876" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target=".NET" id="480">
+        <attvalues>
+          <attvalue for="6" value="58" />
+          <attvalue for="7" value="6.623" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Cybersecurity" id="481">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="2.311" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="C#" id="482">
+        <attvalues>
+          <attvalue for="6" value="62" />
+          <attvalue for="7" value="4.682" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="OpenAI/GPT" id="483">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.905" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Data warehousing" id="484">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="4.102" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Microservices" id="485">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="3.061" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="PyTorch" id="486">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="2.481" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="SOC 2 / compliance" id="487">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="3.016" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Generative AI" id="488">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.593" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Infrastructure as Code" id="489">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="4.729" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Data visualization" id="490">
+        <attvalues>
+          <attvalue for="6" value="37" />
+          <attvalue for="7" value="1.903" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Data pipelines" id="491">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.519" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Snowflake" id="492">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="2.603" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="RAG" id="493">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="3.163" />
+        </attvalues>
+      </edge>
+      <edge source="Azure" target="Anthropic/Claude" id="494">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="1.524" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby" target="Vue.js" id="495">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="2.485" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby" target="Kafka" id="496">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="2.371" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby" target="Redis" id="497">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="2.907" />
+        </attvalues>
+      </edge>
+      <edge source="Ruby" target="GraphQL" id="498">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="1.497" />
+        </attvalues>
+      </edge>
+      <edge source="Data visualization" target="Data analysis" id="499">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="3.211" />
+        </attvalues>
+      </edge>
+      <edge source="Data visualization" target="Time series" id="500">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="2.986" />
+        </attvalues>
+      </edge>
+      <edge source="Data visualization" target="Excel" id="501">
+        <attvalues>
+          <attvalue for="6" value="64" />
+          <attvalue for="7" value="5.33" />
+        </attvalues>
+      </edge>
+      <edge source="Data visualization" target="Data pipelines" id="502">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.778" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="GraphQL" id="503">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="2.525" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="Kafka" id="504">
+        <attvalues>
+          <attvalue for="6" value="63" />
+          <attvalue for="7" value="6.211" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="MySQL" id="505">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="4.016" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="Vue.js" id="506">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="2.228" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="MongoDB" id="507">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="3.633" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="Django" id="508">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="1.679" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="Microservices" id="509">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="3.26" />
+        </attvalues>
+      </edge>
+      <edge source="Redis" target="FastAPI" id="510">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="3.164" />
+        </attvalues>
+      </edge>
+      <edge source="Django" target="Vue.js" id="511">
+        <attvalues>
+          <attvalue for="6" value="42" />
+          <attvalue for="7" value="2.782" />
+        </attvalues>
+      </edge>
+      <edge source="Django" target="React Native" id="512">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="2.531" />
+        </attvalues>
+      </edge>
+      <edge source="Django" target="FastAPI" id="513">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.577" />
+        </attvalues>
+      </edge>
+      <edge source="Anthropic/Claude" target="OpenAI/GPT" id="514">
+        <attvalues>
+          <attvalue for="6" value="130" />
+          <attvalue for="7" value="9.851" />
+        </attvalues>
+      </edge>
+      <edge source="Anthropic/Claude" target="Snowflake" id="515">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="3.78" />
+        </attvalues>
+      </edge>
+      <edge source="Anthropic/Claude" target="RAG" id="516">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="4.119" />
+        </attvalues>
+      </edge>
+      <edge source="Anthropic/Claude" target="FastAPI" id="517">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.577" />
+        </attvalues>
+      </edge>
+      <edge source="Anthropic/Claude" target="Salesforce" id="518">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="2.672" />
+        </attvalues>
+      </edge>
+      <edge source="Data pipelines" target="Data warehousing" id="519">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="5.213" />
+        </attvalues>
+      </edge>
+      <edge source="GraphQL" target="React Native" id="520">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="2.655" />
+        </attvalues>
+      </edge>
+      <edge source="GraphQL" target="REST APIs" id="521">
+        <attvalues>
+          <attvalue for="6" value="41" />
+          <attvalue for="7" value="5.076" />
+        </attvalues>
+      </edge>
+      <edge source="GraphQL" target="Vue.js" id="522">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="1.932" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="MySQL" id="523">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="4.326" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="PHP" id="524">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="4.383" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="CSS" id="525">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="3.415" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="IoT" id="526">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="3.881" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="Robotics" id="527">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="2.829" />
+        </attvalues>
+      </edge>
+      <edge source="Vue.js" target="Test automation" id="528">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="4.506" />
+        </attvalues>
+      </edge>
+      <edge source="React Native" target="Kotlin" id="529">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="3.377" />
+        </attvalues>
+      </edge>
+      <edge source="React Native" target="Android" id="530">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="3.446" />
+        </attvalues>
+      </edge>
+      <edge source="React Native" target="iOS" id="531">
+        <attvalues>
+          <attvalue for="6" value="29" />
+          <attvalue for="7" value="2.577" />
+        </attvalues>
+      </edge>
+      <edge source="Generative AI" target="OpenAI/GPT" id="532">
+        <attvalues>
+          <attvalue for="6" value="26" />
+          <attvalue for="7" value="2.389" />
+        </attvalues>
+      </edge>
+      <edge source="Generative AI" target="RAG" id="533">
+        <attvalues>
+          <attvalue for="6" value="36" />
+          <attvalue for="7" value="5.138" />
+        </attvalues>
+      </edge>
+      <edge source="iOS" target="Android" id="534">
+        <attvalues>
+          <attvalue for="6" value="192" />
+          <attvalue for="7" value="17.941" />
+        </attvalues>
+      </edge>
+      <edge source="iOS" target="Kotlin" id="535">
+        <attvalues>
+          <attvalue for="6" value="53" />
+          <attvalue for="7" value="6.83" />
+        </attvalues>
+      </edge>
+      <edge source="iOS" target="Swift" id="536">
+        <attvalues>
+          <attvalue for="6" value="88" />
+          <attvalue for="7" value="15.241" />
+        </attvalues>
+      </edge>
+      <edge source="OpenAI/GPT" target="RAG" id="537">
+        <attvalues>
+          <attvalue for="6" value="33" />
+          <attvalue for="7" value="4.855" />
+        </attvalues>
+      </edge>
+      <edge source="Android" target="Kotlin" id="538">
+        <attvalues>
+          <attvalue for="6" value="84" />
+          <attvalue for="7" value="11.048" />
+        </attvalues>
+      </edge>
+      <edge source="Android" target="Swift" id="539">
+        <attvalues>
+          <attvalue for="6" value="56" />
+          <attvalue for="7" value="9.899" />
+        </attvalues>
+      </edge>
+      <edge source="Robotics" target="Computer Vision" id="540">
+        <attvalues>
+          <attvalue for="6" value="52" />
+          <attvalue for="7" value="6.715" />
+        </attvalues>
+      </edge>
+      <edge source="Robotics" target="IoT" id="541">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="7.337" />
+        </attvalues>
+      </edge>
+      <edge source="Robotics" target="Embedded systems" id="542">
+        <attvalues>
+          <attvalue for="6" value="38" />
+          <attvalue for="7" value="6.58" />
+        </attvalues>
+      </edge>
+      <edge source="Robotics" target="Test automation" id="543">
+        <attvalues>
+          <attvalue for="6" value="35" />
+          <attvalue for="7" value="6.625" />
+        </attvalues>
+      </edge>
+      <edge source="Excel" target="Time series" id="544">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="4.896" />
+        </attvalues>
+      </edge>
+      <edge source="Excel" target="Data analysis" id="545">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="3.715" />
+        </attvalues>
+      </edge>
+      <edge source="C#" target=".NET" id="546">
+        <attvalues>
+          <attvalue for="6" value="114" />
+          <attvalue for="7" value="21.575" />
+        </attvalues>
+      </edge>
+      <edge source="Cybersecurity" target="SOC 2 / compliance" id="547">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="6.528" />
+        </attvalues>
+      </edge>
+      <edge source="MongoDB" target="Kafka" id="548">
+        <attvalues>
+          <attvalue for="6" value="28" />
+          <attvalue for="7" value="4.227" />
+        </attvalues>
+      </edge>
+      <edge source="Computer Vision" target="Embedded systems" id="549">
+        <attvalues>
+          <attvalue for="6" value="31" />
+          <attvalue for="7" value="6.027" />
+        </attvalues>
+      </edge>
+      <edge source="Computer Vision" target="Deep Learning" id="550">
+        <attvalues>
+          <attvalue for="6" value="34" />
+          <attvalue for="7" value="7.227" />
+        </attvalues>
+      </edge>
+      <edge source="Computer Vision" target="PyTorch" id="551">
+        <attvalues>
+          <attvalue for="6" value="27" />
+          <attvalue for="7" value="4.597" />
+        </attvalues>
+      </edge>
+      <edge source="Kafka" target="Microservices" id="552">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="7.547" />
+        </attvalues>
+      </edge>
+      <edge source="MySQL" target="PHP" id="553">
+        <attvalues>
+          <attvalue for="6" value="39" />
+          <attvalue for="7" value="9.03" />
+        </attvalues>
+      </edge>
+      <edge source="Kotlin" target="Swift" id="554">
+        <attvalues>
+          <attvalue for="6" value="79" />
+          <attvalue for="7" value="19.259" />
+        </attvalues>
+      </edge>
+      <edge source="PyTorch" target="Deep Learning" id="555">
+        <attvalues>
+          <attvalue for="6" value="40" />
+          <attvalue for="7" value="9.982" />
+        </attvalues>
+      </edge>
+      <edge source="Snowflake" target="Data warehousing" id="556">
+        <attvalues>
+          <attvalue for="6" value="50" />
+          <attvalue for="7" value="12.762" />
+        </attvalues>
+      </edge>
+      <edge source="REST APIs" target="CSS" id="557">
+        <attvalues>
+          <attvalue for="6" value="30" />
+          <attvalue for="7" value="7.092" />
+        </attvalues>
+      </edge>
+      <edge source="CSS" target="Tailwind CSS" id="558">
+        <attvalues>
+          <attvalue for="6" value="32" />
+          <attvalue for="7" value="8.849" />
+        </attvalues>
+      </edge>
+      <edge source="IoT" target="Test automation" id="559">
+        <attvalues>
+          <attvalue for="6" value="25" />
+          <attvalue for="7" value="7.741" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,15 @@
+cluster,size,label,signature_skills,most_common_role,role_purity_pct
+1,802,Infrastructure as Code / DevOps practices / Terraform,"Infrastructure as Code, DevOps practices, Terraform, CI/CD, Docker",DevOps / SRE / Cloud,30.9
+8,683,Next.js / TypeScript / React,"Next.js, TypeScript, React, PostgreSQL, AWS",Software Engineering (general),33.5
+5,651,Node.js / GraphQL / Next.js,"Node.js, GraphQL, Next.js, React, TypeScript",Software Engineering (general),31.6
+0,586,Excel / SQL / Data visualization,"Excel, SQL, Data visualization, Azure, Scalability",Business & Operations,28.2
+9,577,RAG / AI agents / OpenAI/GPT,"RAG, AI agents, OpenAI/GPT, Anthropic/Claude, LLMs",ML / AI Engineering,32.4
+2,565,PyTorch / Machine Learning / LLMs,"PyTorch, Machine Learning, LLMs, Scalability, Python",ML / AI Engineering,40.4
+7,500,Rust / Distributed systems / C++,"Rust, Distributed systems, C++, Open source, Go",Software Engineering (general),40.0
+11,429,Go / Kubernetes / GCP,"Go, Kubernetes, GCP, React, TypeScript",Software Engineering (general),32.2
+13,392,HTML / CSS / PHP,"HTML, CSS, PHP, JavaScript, Vue.js",Software Engineering (general),34.9
+4,385,Open source / Git / Machine Learning,"Open source, Git, Machine Learning, Python, TypeScript",Software Engineering (general),37.9
+10,375,Embedded systems / Firmware / C++,"Embedded systems, Firmware, C++, Robotics, C",Software Engineering (general),40.3
+6,323,Ruby on Rails / Ruby / PostgreSQL,"Ruby on Rails, Ruby, PostgreSQL, React, AWS",Software Engineering (general),29.4
+12,312,Django / Python / PostgreSQL,"Django, Python, PostgreSQL, React, AWS",Software Engineering (general),30.1
+3,265,SwiftUI / iOS / Android,"SwiftUI, iOS, Android, Swift, Kotlin",Mobile,35.8

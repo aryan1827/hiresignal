@@ -1,0 +1,41 @@
+region,rank,skill,postings,share_pct,group_size
+Asia,1,Python,92,28.3,325
+Asia,2,React,54,16.6,325
+Asia,3,AWS,54,16.6,325
+Asia,4,SQL,51,15.7,325
+Asia,5,PostgreSQL,46,14.2,325
+Asia,6,Scalability,44,13.5,325
+Asia,7,TypeScript,35,10.8,325
+Asia,8,AI agents,34,10.5,325
+Asia,9,Go,34,10.5,325
+Asia,10,Git,32,9.8,325
+Europe,1,Python,1000,23.4,4270
+Europe,2,TypeScript,766,17.9,4270
+Europe,3,React,659,15.4,4270
+Europe,4,Machine Learning,597,14.0,4270
+Europe,5,AWS,583,13.7,4270
+Europe,6,PostgreSQL,530,12.4,4270
+Europe,7,LLMs,436,10.2,4270
+Europe,8,Kubernetes,425,10.0,4270
+Europe,9,Scalability,399,9.3,4270
+Europe,10,DevOps practices,370,8.7,4270
+Global / Anywhere,1,Python,161,30.6,526
+Global / Anywhere,2,Machine Learning,95,18.1,526
+Global / Anywhere,3,React,93,17.7,526
+Global / Anywhere,4,TypeScript,92,17.5,526
+Global / Anywhere,5,PostgreSQL,89,16.9,526
+Global / Anywhere,6,Git,81,15.4,526
+Global / Anywhere,7,DevOps practices,76,14.4,526
+Global / Anywhere,8,JavaScript,70,13.3,526
+Global / Anywhere,9,AWS,69,13.1,526
+Global / Anywhere,10,SQL,65,12.4,526
+North America,1,React,1942,23.2,8379
+North America,2,Python,1910,22.8,8379
+North America,3,TypeScript,1757,21.0,8379
+North America,4,Machine Learning,1317,15.7,8379
+North America,5,AWS,1316,15.7,8379
+North America,6,PostgreSQL,1186,14.2,8379
+North America,7,LLMs,836,10.0,8379
+North America,8,Kubernetes,801,9.6,8379
+North America,9,Go,701,8.4,8379
+North America,10,Node.js,696,8.3,8379

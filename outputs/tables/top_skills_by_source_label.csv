@@ -1,0 +1,41 @@
+source_label,rank,skill,postings,share_pct,group_size
+Arbeitnow,1,Python,275,16.6,1654
+Arbeitnow,2,Scalability,242,14.6,1654
+Arbeitnow,3,AI agents,203,12.3,1654
+Arbeitnow,4,SQL,159,9.6,1654
+Arbeitnow,5,Agile/Scrum,151,9.1,1654
+Arbeitnow,6,Machine Learning,145,8.8,1654
+Arbeitnow,7,AWS,144,8.7,1654
+Arbeitnow,8,Anthropic/Claude,131,7.9,1654
+Hacker News,1,Python,3461,23.2,14941
+Hacker News,2,React,3313,22.2,14941
+Hacker News,3,TypeScript,3103,20.8,14941
+Hacker News,4,Machine Learning,2284,15.3,14941
+Hacker News,5,AWS,2201,14.7,14941
+Hacker News,6,PostgreSQL,2193,14.7,14941
+Hacker News,7,Kubernetes,1389,9.3,14941
+Hacker News,8,LLMs,1384,9.3,14941
+Himalayas,1,Scalability,130,16.8,773
+Himalayas,2,Excel,113,14.6,773
+Himalayas,3,Python,92,11.9,773
+Himalayas,4,SQL,89,11.5,773
+Himalayas,5,Agile/Scrum,80,10.3,773
+Himalayas,6,AWS,79,10.2,773
+Himalayas,7,Salesforce,77,10.0,773
+Himalayas,8,CI/CD,71,9.2,773
+Jobicy,1,Scalability,53,27.6,192
+Jobicy,2,Machine Learning,37,19.3,192
+Jobicy,3,Python,33,17.2,192
+Jobicy,4,AI agents,29,15.1,192
+Jobicy,5,Cybersecurity,27,14.1,192
+Jobicy,6,Data visualization,26,13.5,192
+Jobicy,7,AWS,25,13.0,192
+Jobicy,8,Salesforce,23,12.0,192
+Remote OK,1,Scalability,15,15.3,98
+Remote OK,2,Python,14,14.3,98
+Remote OK,3,AI agents,12,12.2,98
+Remote OK,4,Excel,9,9.2,98
+Remote OK,5,Go,9,9.2,98
+Remote OK,6,Data visualization,9,9.2,98
+Remote OK,7,Machine Learning,8,8.2,98
+Remote OK,8,LLMs,8,8.2,98

@@ -1,0 +1,108 @@
+[
+  {
+    "id": 0,
+    "size": 16,
+    "members": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "Node.js",
+      "JavaScript",
+      "Next.js",
+      "Ruby on Rails",
+      "Ruby",
+      "Django",
+      "GraphQL",
+      "React Native",
+      "MySQL",
+      "REST APIs",
+      "CSS",
+      "Tailwind CSS",
+      "PHP"
+    ]
+  },
+  {
+    "id": 1,
+    "size": 15,
+    "members": [
+      "AWS",
+      "Kubernetes",
+      "Go",
+      "DevOps practices",
+      "Docker",
+      "GCP",
+      "Terraform",
+      "CI/CD",
+      "Observability",
+      "Redis",
+      "FastAPI",
+      "MongoDB",
+      "Kafka",
+      "Infrastructure as Code",
+      "Microservices"
+    ]
+  },
+  {
+    "id": 2,
+    "size": 12,
+    "members": [
+      "Python",
+      "SQL",
+      "Azure",
+      "Data visualization",
+      "Data pipelines",
+      "Excel",
+      "C#",
+      "Data analysis",
+      "Time series",
+      "Snowflake",
+      ".NET",
+      "Data warehousing"
+    ]
+  },
+  {
+    "id": 3,
+    "size": 13,
+    "members": [
+      "Machine Learning",
+      "Git",
+      "Rust",
+      "C++",
+      "Linux",
+      "Vue.js",
+      "Robotics",
+      "Computer Vision",
+      "PyTorch",
+      "Embedded systems",
+      "IoT",
+      "Test automation",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": 4,
+    "size": 9,
+    "members": [
+      "LLMs",
+      "AI agents",
+      "Anthropic/Claude",
+      "Generative AI",
+      "OpenAI/GPT",
+      "Cybersecurity",
+      "Salesforce",
+      "RAG",
+      "SOC 2 / compliance"
+    ]
+  },
+  {
+    "id": 5,
+    "size": 5,
+    "members": [
+      "Java",
+      "iOS",
+      "Android",
+      "Kotlin",
+      "Swift"
+    ]
+  }
+]

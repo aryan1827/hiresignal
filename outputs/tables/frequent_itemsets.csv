@@ -1,0 +1,998 @@
+itemset,size,support_pct
+Python,1,33.25
+React,1,28.5
+TypeScript,1,27.24
+AWS,1,22.02
+PostgreSQL,1,19.64
+Machine Learning,1,18.91
+React + TypeScript,2,16.8
+Kubernetes,1,13.4
+LLMs,1,12.83
+Node.js,1,11.59
+Python + React,2,10.95
+Python + TypeScript,2,10.41
+Git,1,10.39
+Go,1,10.26
+AWS + Python,2,10.2
+PostgreSQL + React,2,10.12
+AI agents,1,10.09
+AWS + React,2,9.44
+JavaScript,1,9.32
+PostgreSQL + TypeScript,2,9.31
+DevOps practices,1,9.1
+AWS + TypeScript,2,8.93
+Machine Learning + Python,2,8.82
+Docker,1,8.66
+GCP,1,8.64
+Rust,1,8.41
+PostgreSQL + Python,2,8.01
+SQL,1,7.85
+Node.js + React,2,7.71
+AWS + PostgreSQL,2,7.71
+Terraform,1,7.62
+CI/CD,1,7.26
+Node.js + TypeScript,2,7.13
+Next.js,1,6.64
+PostgreSQL + React + TypeScript,3,6.5
+Java,1,6.48
+Python + React + TypeScript,3,6.15
+Kubernetes + Python,2,6.09
+C++,1,5.94
+AWS + React + TypeScript,3,5.82
+AWS + Kubernetes,2,5.78
+Linux,1,5.6
+LLMs + Python,2,5.53
+Observability,1,5.3
+Ruby on Rails,1,5.26
+Azure,1,5.21
+Node.js + React + TypeScript,3,4.98
+Ruby,1,4.94
+Docker + Python,2,4.84
+LLMs + Machine Learning,2,4.79
+AWS + Terraform,2,4.79
+Next.js + React,2,4.72
+Kubernetes + React,2,4.67
+AWS + Node.js,2,4.63
+Data visualization,1,4.62
+Redis,1,4.57
+Kubernetes + TypeScript,2,4.53
+Anthropic/Claude,1,4.52
+Django,1,4.52
+AWS + Docker,2,4.48
+AWS + Python + React,3,4.46
+Next.js + TypeScript,2,4.45
+AWS + PostgreSQL + React,3,4.42
+Go + Python,2,4.38
+Node.js + PostgreSQL,2,4.33
+GCP + Python,2,4.32
+Kubernetes + PostgreSQL,2,4.27
+Git + Python,2,4.25
+Docker + Kubernetes,2,4.23
+Data pipelines,1,4.22
+JavaScript + Python,2,4.21
+Python + Terraform,2,4.2
+GraphQL,1,4.19
+Vue.js,1,4.14
+Python + SQL,2,4.11
+AWS + PostgreSQL + TypeScript,3,4.09
+AWS + Python + TypeScript,3,4.02
+PostgreSQL + Python + React,3,4.0
+Machine Learning + React,2,3.94
+AI agents + Python,2,3.86
+Django + Python,2,3.86
+LLMs + TypeScript,2,3.86
+AWS + PostgreSQL + Python,3,3.83
+JavaScript + React,2,3.81
+Ruby + Ruby on Rails,2,3.79
+React Native,1,3.79
+Generative AI,1,3.73
+AI agents + LLMs,2,3.73
+LLMs + React,2,3.73
+AWS + GCP,2,3.68
+iOS,1,3.68
+DevOps practices + Python,2,3.64
+Python + Rust,2,3.63
+OpenAI/GPT,1,3.62
+Android,1,3.6
+PostgreSQL + Python + TypeScript,3,3.59
+Docker + PostgreSQL,2,3.58
+Machine Learning + TypeScript,2,3.5
+PostgreSQL + Redis,2,3.5
+Kubernetes + Terraform,2,3.5
+AWS + Machine Learning,2,3.48
+Go + TypeScript,2,3.48
+Go + React,2,3.47
+GCP + React,2,3.41
+CI/CD + Python,2,3.39
+Git + TypeScript,2,3.34
+JavaScript + TypeScript,2,3.32
+Node.js + PostgreSQL + React,3,3.32
+Go + Kubernetes,2,3.29
+AWS + CI/CD,2,3.28
+Robotics,1,3.28
+AWS + DevOps practices,2,3.27
+Next.js + React + TypeScript,3,3.27
+GCP + Kubernetes,2,3.26
+Excel,1,3.22
+AWS + Azure,2,3.21
+AWS + Node.js + React,3,3.18
+Node.js + Python,2,3.16
+C#,1,3.15
+AWS + Node.js + TypeScript,3,3.1
+C++ + Python,2,3.1
+GCP + TypeScript,2,3.1
+Git + React,2,3.08
+Cybersecurity,1,3.08
+FastAPI,1,3.08
+Rust + TypeScript,2,3.06
+PostgreSQL + Terraform,2,3.05
+AWS + Go,2,3.02
+MongoDB,1,2.98
+Linux + Python,2,2.98
+AWS + Kubernetes + Python,3,2.98
+DevOps practices + Kubernetes,2,2.98
+AWS + Git,2,2.97
+Node.js + PostgreSQL + TypeScript,3,2.97
+AWS + LLMs,2,2.96
+GraphQL + React,2,2.96
+Terraform + TypeScript,2,2.95
+Computer Vision,1,2.92
+Docker + React,2,2.84
+Kubernetes + Machine Learning,2,2.8
+Docker + TypeScript,2,2.8
+Machine Learning + Python + React,3,2.8
+CI/CD + Kubernetes,2,2.79
+AWS + Machine Learning + Python,3,2.76
+Go + PostgreSQL,2,2.75
+Kubernetes + React + TypeScript,3,2.75
+Kafka,1,2.75
+FastAPI + Python,2,2.72
+MySQL,1,2.7
+GraphQL + TypeScript,2,2.66
+AWS + Python + Terraform,3,2.66
+AI agents + TypeScript,2,2.66
+Infrastructure as Code,1,2.66
+Next.js + PostgreSQL,2,2.64
+React + Terraform,2,2.63
+CI/CD + Git,2,2.61
+Kotlin,1,2.61
+Machine Learning + Python + TypeScript,3,2.6
+Data analysis,1,2.59
+AWS + Docker + Python,3,2.59
+Docker + Terraform,2,2.58
+Salesforce,1,2.56
+LLMs + React + TypeScript,3,2.56
+Machine Learning + PostgreSQL,2,2.54
+LLMs + PostgreSQL,2,2.53
+Django + React,2,2.53
+Java + Python,2,2.53
+Time series,1,2.51
+PyTorch,1,2.49
+AWS + SQL,2,2.46
+Data pipelines + Python,2,2.46
+Snowflake,1,2.46
+LLMs + Machine Learning + Python,3,2.45
+CI/CD + DevOps practices,2,2.44
+Azure + GCP,2,2.41
+AI agents + React,2,2.39
+REST APIs,1,2.39
+Android + iOS,2,2.38
+AI agents + AWS,2,2.37
+Kubernetes + Node.js,2,2.35
+GCP + PostgreSQL,2,2.35
+AWS + JavaScript,2,2.34
+Microservices,1,2.33
+RAG,1,2.33
+AWS + Azure + GCP,3,2.33
+React + Ruby on Rails,2,2.28
+Azure + Python,2,2.27
+AWS + Kubernetes + Terraform,3,2.25
+AWS + Docker + Kubernetes,3,2.25
+Docker + Kubernetes + Python,3,2.25
+LLMs + Python + TypeScript,3,2.24
+Git + PostgreSQL,2,2.24
+Next.js + Node.js,2,2.23
+AWS + Next.js,2,2.2
+DevOps practices + Terraform,2,2.19
+CSS,1,2.19
+Redis + TypeScript,2,2.18
+Docker + Git,2,2.18
+Embedded systems,1,2.18
+CI/CD + TypeScript,2,2.18
+Django + Python + React,3,2.17
+Next.js + Python,2,2.17
+AWS + Observability,2,2.17
+LLMs + Python + React,3,2.14
+CI/CD + Docker,2,2.14
+CI/CD + React,2,2.14
+AWS + PostgreSQL + Terraform,3,2.14
+React + React Native,2,2.13
+Observability + Python,2,2.12
+GCP + React + TypeScript,3,2.11
+Go + React + TypeScript,3,2.11
+Machine Learning + React + TypeScript,3,2.09
+AWS + Kubernetes + TypeScript,3,2.09
+Kubernetes + Python + Terraform,3,2.08
+DevOps practices + Machine Learning,2,2.08
+.NET,1,2.08
+Git + React + TypeScript,3,2.07
+AWS + Kubernetes + React,3,2.07
+Kubernetes + PostgreSQL + Python,3,2.06
+DevOps practices + React,2,2.06
+JavaScript + Node.js,2,2.06
+Tailwind CSS,1,2.04
+AWS + Terraform + TypeScript,3,2.04
+PostgreSQL + Ruby on Rails,2,2.03
+Go + Terraform,2,2.03
+GraphQL + PostgreSQL,2,2.03
+React + Ruby,2,2.03
+React + Redis,2,2.02
+GraphQL + React + TypeScript,3,2.02
+Kubernetes + Python + React,3,2.02
+Git + Kubernetes,2,2.02
+AWS + GCP + Python,3,2.01
+IoT,1,2.01
+Deep Learning,1,1.99
+Test automation,1,1.99
+PyTorch + Python,2,1.99
+AWS + Java,2,1.98
+DevOps practices + TypeScript,2,1.98
+Go + Rust,2,1.98
+PHP,1,1.98
+Node.js + Python + React,3,1.98
+SOC 2 / compliance,1,1.97
+Data warehousing,1,1.97
+AWS + LLMs + Python,3,1.97
+React Native + TypeScript,2,1.96
+AI agents + Machine Learning,2,1.96
+Swift,1,1.94
+GCP + Machine Learning,2,1.94
+Machine Learning + PyTorch,2,1.94
+AWS + Docker + PostgreSQL,3,1.93
+Kubernetes + Python + TypeScript,3,1.92
+AI agents + LLMs + Python,3,1.92
+Kubernetes + PostgreSQL + React,3,1.92
+JavaScript + React + TypeScript,3,1.92
+Kubernetes + Machine Learning + Python,3,1.92
+CI/CD + Terraform,2,1.91
+Next.js + PostgreSQL + TypeScript,3,1.91
+Serverless,1,1.89
+PostgreSQL + Redis + TypeScript,3,1.89
+Python + Vue.js,2,1.88
+JavaScript + PostgreSQL,2,1.88
+Python + Redis,2,1.88
+Next.js + PostgreSQL + React,3,1.87
+DevOps practices + Docker,2,1.86
+DevOps practices + PostgreSQL,2,1.86
+HTML,1,1.84
+Git + LLMs,2,1.84
+Django + PostgreSQL,2,1.84
+Next.js + Node.js + React,3,1.83
+CI/CD + Observability,2,1.83
+Kubernetes + Observability,2,1.83
+GitHub Actions,1,1.83
+AWS + Django,2,1.82
+AWS + Node.js + PostgreSQL,3,1.82
+GCP + Kubernetes + Python,3,1.82
+Git + JavaScript,2,1.81
+AWS + Kubernetes + PostgreSQL,3,1.8
+PostgreSQL + Ruby,2,1.8
+AI agents + PostgreSQL,2,1.8
+Machine Learning + PostgreSQL + Python,3,1.8
+Fine-tuning,1,1.8
+Java + Kubernetes,2,1.78
+AWS + Redis,2,1.78
+Figma,1,1.78
+Elasticsearch,1,1.78
+AWS + Docker + Terraform,3,1.78
+Data visualization + Python,2,1.77
+AWS + Docker + TypeScript,3,1.77
+Computer Vision + Machine Learning,2,1.77
+Kubernetes + PostgreSQL + TypeScript,3,1.76
+PostgreSQL + React + Redis,3,1.76
+AWS + Docker + React,3,1.76
+Next.js + Node.js + TypeScript,3,1.75
+C,1,1.75
+C++ + Rust,2,1.73
+Docker + PostgreSQL + Python,3,1.73
+AWS + React + Terraform,3,1.73
+MLOps,1,1.72
+FastAPI + React,2,1.72
+AWS + CI/CD + Kubernetes,3,1.72
+TypeScript + Vue.js,2,1.72
+Docker + Python + Terraform,3,1.71
+GCP + Go,2,1.71
+Git + Machine Learning,2,1.71
+React + Terraform + TypeScript,3,1.71
+GCP + Python + React,3,1.7
+AWS + GraphQL,2,1.7
+Angular,1,1.68
+Firmware,1,1.68
+Node.js + Python + TypeScript,3,1.68
+React + Ruby + Ruby on Rails,3,1.68
+Docker + React + TypeScript,3,1.67
+React + SQL,2,1.67
+Azure + Kubernetes,2,1.67
+Python + Terraform + TypeScript,3,1.67
+Docker + Node.js,2,1.67
+AWS + DevOps practices + Python,3,1.66
+Docker + Kubernetes + PostgreSQL,3,1.66
+AWS + Next.js + TypeScript,3,1.66
+GCP + Terraform,2,1.66
+GCP + Python + TypeScript,3,1.65
+AI agents + React + TypeScript,3,1.65
+AWS + Next.js + React,3,1.65
+AWS + Azure + Python,3,1.65
+PostgreSQL + Python + Terraform,3,1.65
+MongoDB + React,2,1.63
+NLP,1,1.63
+AWS + Django + Python,3,1.63
+Anthropic/Claude + Python,2,1.63
+FastAPI + PostgreSQL,2,1.62
+ETL/ELT,1,1.62
+JavaScript + Python + React,3,1.62
+Django + TypeScript,2,1.62
+Django + PostgreSQL + Python,3,1.62
+GraphQL + PostgreSQL + React,3,1.62
+LLMs + RAG,2,1.62
+PostgreSQL + Ruby + Ruby on Rails,3,1.61
+Anthropic/Claude + OpenAI/GPT,2,1.61
+Grafana,1,1.6
+AWS + Python + SQL,3,1.58
+Infrastructure as Code + Terraform,2,1.58
+Vector databases,1,1.58
+Kubernetes + LLMs,2,1.57
+GraphQL + Node.js,2,1.57
+Docker + GCP,2,1.56
+Machine Learning + PyTorch + Python,3,1.56
+Git + SQL,2,1.56
+AI agents + Anthropic/Claude,2,1.56
+PostgreSQL + React + Terraform,3,1.56
+GCP + Machine Learning + Python,3,1.56
+Statistics,1,1.54
+Kubernetes + Linux,2,1.54
+Git + Node.js,2,1.54
+AWS + Go + Python,3,1.54
+LLMs + Node.js,2,1.54
+GCP + LLMs,2,1.54
+Kubernetes + Node.js + React,3,1.54
+AWS + Git + Python,3,1.52
+Go + Kubernetes + Python,3,1.52
+React + Rust,2,1.52
+AWS + CI/CD + Python,3,1.52
+Python + Rust + TypeScript,3,1.52
+FastAPI + Python + React,3,1.52
+Next.js + Python + React,3,1.51
+Java + TypeScript,2,1.51
+Docker + Git + Python,3,1.51
+Docker + Machine Learning,2,1.51
+Redux,1,1.51
+Git + Terraform,2,1.5
+AWS + Node.js + Python,3,1.5
+Docker + PostgreSQL + React,3,1.5
+Kubernetes + Redis,2,1.5
+GCP + Node.js,2,1.5
+Kubernetes + Node.js + TypeScript,3,1.5
+AWS + Infrastructure as Code,2,1.5
+Docker + Python + React,3,1.49
+Anthropic/Claude + LLMs,2,1.47
+LLMs + OpenAI/GPT,2,1.47
+Docker + Linux,2,1.47
+AWS + GCP + Kubernetes,3,1.47
+dbt,1,1.47
+Java + React,2,1.47
+Docker + Python + TypeScript,3,1.46
+CSS + HTML,2,1.46
+AWS + DevOps practices + Kubernetes,3,1.46
+Python + RAG,2,1.46
+PostgreSQL + SQL,2,1.46
+SQL + TypeScript,2,1.46
+Data pipelines + Machine Learning,2,1.45
+DevOps practices + Kubernetes + Python,3,1.45
+AWS + Linux,2,1.45
+CI/CD + GCP,2,1.44
+Go + Python + TypeScript,3,1.44
+AI agents + Observability,2,1.44
+FastAPI + PostgreSQL + Python,3,1.44
+Django + Python + TypeScript,3,1.44
+Machine Learning + SQL,2,1.42
+Docker + PostgreSQL + TypeScript,3,1.42
+Ruby on Rails + TypeScript,2,1.42
+PostgreSQL + Python + Redis,3,1.42
+Vercel,1,1.42
+AWS + Rust,2,1.41
+LLMs + PostgreSQL + React,3,1.41
+LLMs + PostgreSQL + TypeScript,3,1.41
+Generative AI + Machine Learning,2,1.41
+PostgreSQL + Terraform + TypeScript,3,1.41
+JavaScript + Node.js + React,3,1.41
+Deep Learning + Machine Learning,2,1.41
+.NET + C#,2,1.41
+LLM evals,1,1.41
+CI/CD + Kubernetes + Python,3,1.41
+AI agents + Python + TypeScript,3,1.4
+Docker + LLMs,2,1.4
+Prometheus,1,1.4
+Next.js + Python + TypeScript,3,1.39
+AWS + Go + Kubernetes,3,1.39
+AWS + Kafka,2,1.39
+Azure + CI/CD,2,1.39
+Infrastructure as Code + Python,2,1.39
+CSS + JavaScript,2,1.39
+ClickHouse,1,1.39
+React + Redux,2,1.39
+BigQuery,1,1.39
+Anthropic/Claude + TypeScript,2,1.39
+AWS + PostgreSQL + Redis,3,1.37
+LLMs + PostgreSQL + Python,3,1.37
+MLOps + Machine Learning,2,1.37
+Generative AI + Python,2,1.37
+Python + React + Terraform,3,1.37
+Git + Go,2,1.37
+Azure + DevOps practices,2,1.37
+DevOps practices + Git,2,1.36
+Django + React + TypeScript,3,1.36
+OpenAI/GPT + Python,2,1.36
+AWS + DevOps practices + Terraform,3,1.36
+Azure + SQL,2,1.36
+Docker + Java,2,1.36
+Elixir,1,1.36
+AI agents + AWS + Python,3,1.36
+Docker + Kubernetes + Terraform,3,1.36
+LangChain,1,1.36
+Git + Python + TypeScript,3,1.36
+AWS + Git + React,3,1.36
+AWS + Git + TypeScript,3,1.36
+React + Redis + TypeScript,3,1.35
+CI/CD + Infrastructure as Code,2,1.35
+Docker + Kubernetes + TypeScript,3,1.35
+DevOps practices + Linux,2,1.35
+DevOps practices + Kubernetes + Terraform,3,1.35
+AWS + Data pipelines,2,1.35
+AWS + Vue.js,2,1.34
+Azure + GCP + Python,3,1.34
+Accessibility,1,1.34
+AWS + LLMs + TypeScript,3,1.34
+Observability + TypeScript,2,1.34
+PostgreSQL + Rust,2,1.34
+LLMs + Observability,2,1.34
+Docker + Go,2,1.34
+DevOps practices + Python + Terraform,3,1.34
+JavaScript + Python + TypeScript,3,1.34
+Go + Machine Learning,2,1.32
+AWS + Kubernetes + Node.js,3,1.32
+AWS + CI/CD + Terraform,3,1.32
+Machine Learning + Rust,2,1.32
+React + Tailwind CSS,2,1.31
+GCP + SQL,2,1.31
+Apache Spark,1,1.31
+CI/CD + Docker + Kubernetes,3,1.31
+CI/CD + Docker + Python,3,1.31
+Kafka + Kubernetes,2,1.31
+Ansible,1,1.31
+Datadog,1,1.31
+CI/CD + React + TypeScript,3,1.3
+AWS + Azure + Kubernetes,3,1.3
+GCP + PostgreSQL + TypeScript,3,1.3
+Java + PostgreSQL,2,1.3
+AWS + CI/CD + Docker,3,1.3
+CI/CD + Node.js,2,1.29
+CI/CD + Machine Learning,2,1.29
+HTML + JavaScript,2,1.29
+AWS + JavaScript + React,3,1.29
+Cryptography,1,1.29
+Python + Robotics,2,1.29
+GCP + PostgreSQL + React,3,1.29
+Git + Rust,2,1.29
+Go + PostgreSQL + React,3,1.29
+AWS + CI/CD + Git,3,1.29
+Go + Python + React,3,1.28
+AWS + Django + React,3,1.28
+AWS + GitHub Actions,2,1.28
+AI agents + Git,2,1.28
+AWS + LLMs + React,3,1.28
+Observability + React,2,1.28
+Docker + Kubernetes + React,3,1.26
+OAuth/SSO,1,1.26
+Ruby + TypeScript,2,1.26
+AWS + CI/CD + Observability,3,1.26
+AWS + Ruby,2,1.26
+CI/CD + Git + Python,3,1.26
+JavaScript + Vue.js,2,1.26
+MongoDB + Node.js,2,1.26
+AI agents + Python + React,3,1.26
+GraphQL + Node.js + React,3,1.26
+DevOps practices + GCP,2,1.26
+JavaScript + SQL,2,1.26
+Azure + Docker,2,1.26
+CI/CD + PostgreSQL,2,1.26
+React + React Native + TypeScript,3,1.26
+HubSpot,1,1.25
+AWS + Ruby on Rails,2,1.25
+Kubernetes + SQL,2,1.25
+IAM,1,1.25
+Machine Learning + PostgreSQL + React,3,1.25
+Databricks,1,1.25
+GraphQL + PostgreSQL + TypeScript,3,1.24
+Docker + Machine Learning + Python,3,1.24
+Go + Python + Terraform,3,1.24
+GraphQL + Node.js + TypeScript,3,1.24
+Data pipelines + React,2,1.24
+PostgreSQL + Vue.js,2,1.24
+Kubernetes + Next.js,2,1.24
+DevOps practices + Go,2,1.23
+AWS + JavaScript + Python,3,1.23
+Generative AI + LLMs,2,1.23
+AWS + GraphQL + TypeScript,3,1.23
+Kubernetes + Terraform + TypeScript,3,1.23
+Anthropic/Claude + React,2,1.23
+Machine Learning + Node.js,2,1.23
+CI/CD + DevOps practices + Python,3,1.23
+Node.js + Redis,2,1.23
+Git + Linux,2,1.23
+CI/CD + DevOps practices + Kubernetes,3,1.23
+CI/CD + Kubernetes + Terraform,3,1.21
+AWS + Serverless,2,1.21
+AWS + MongoDB,2,1.21
+DevOps practices + Docker + Kubernetes,3,1.21
+Jira,1,1.21
+Machine Learning + NLP,2,1.21
+AWS + CI/CD + React,3,1.21
+AWS + GraphQL + React,3,1.21
+AWS + CI/CD + TypeScript,3,1.2
+Git + PostgreSQL + TypeScript,3,1.2
+Bash/Shell,1,1.2
+AI agents + Node.js,2,1.2
+Kubernetes + PostgreSQL + Terraform,3,1.2
+AWS + Git + Kubernetes,3,1.2
+gRPC,1,1.2
+AWS + FastAPI,2,1.2
+GCP + LLMs + Python,3,1.2
+Docker + Redis,2,1.19
+AWS + DevOps practices + Docker,3,1.19
+Kubernetes + PostgreSQL + Redis,3,1.19
+Python + React Native,2,1.19
+Tailwind CSS + TypeScript,2,1.19
+Redis + Terraform,2,1.19
+AWS + React Native,2,1.19
+CSS + React,2,1.19
+AI agents + AWS + LLMs,3,1.18
+Docker + JavaScript,2,1.18
+AWS + Go + React,3,1.18
+Flask,1,1.18
+Kafka + Python,2,1.16
+LLMs + Next.js,2,1.16
+AWS + Machine Learning + React,3,1.16
+Unit testing / TDD,1,1.16
+LLMs + Python + RAG,3,1.16
+GCP + PostgreSQL + Python,3,1.16
+Data analysis + Python,2,1.15
+LLMs + Node.js + TypeScript,3,1.15
+Kubernetes + Rust,2,1.15
+GCP + Kubernetes + TypeScript,3,1.15
+Cloudflare,1,1.15
+AWS + MySQL,2,1.15
+Git + Node.js + React,3,1.15
+Machine Learning + Python + SQL,3,1.15
+GCP + Kubernetes + React,3,1.15
+Git + PostgreSQL + React,3,1.14
+MCP,1,1.14
+Git + Node.js + TypeScript,3,1.14
+CSS + HTML + JavaScript,3,1.14
+AWS + JavaScript + TypeScript,3,1.14
+Airflow,1,1.14
+LLMs + Machine Learning + React,3,1.14
+MongoDB + Python,2,1.14
+Scala,1,1.14
+Infrastructure as Code + Kubernetes,2,1.14
+PostgreSQL + Tailwind CSS,2,1.13
+LLMs + Machine Learning + TypeScript,3,1.13
+Rust + Terraform,2,1.13
+DevOps practices + Infrastructure as Code,2,1.13
+Django + PostgreSQL + React,3,1.13
+AWS + LLMs + PostgreSQL,3,1.13
+AWS + Docker + Node.js,3,1.13
+C++ + Machine Learning,2,1.13
+Data pipelines + TypeScript,2,1.13
+Docker + Node.js + TypeScript,3,1.13
+DevOps practices + Node.js,2,1.13
+AWS + CI/CD + DevOps practices,3,1.13
+Git + Python + React,3,1.13
+Kafka + PostgreSQL,2,1.13
+Java + Machine Learning,2,1.11
+AWS + Kubernetes + Observability,3,1.11
+Supabase,1,1.11
+AI agents + LLMs + TypeScript,3,1.11
+CI/CD + Git + Kubernetes,3,1.11
+Kubernetes + Prometheus,2,1.11
+JavaScript + Machine Learning,2,1.11
+AI agents + Kubernetes,2,1.11
+Data visualization + SQL,2,1.1
+Python + Snowflake,2,1.1
+AWS + Docker + GCP,3,1.1
+JavaScript + PostgreSQL + React,3,1.1
+GCP + Node.js + React,3,1.1
+CI/CD + SQL,2,1.1
+Git + Machine Learning + Python,3,1.1
+Docker + PostgreSQL + Terraform,3,1.1
+Machine Learning + Terraform,2,1.1
+NestJS,1,1.1
+GCP + Git,2,1.1
+Docker + Node.js + React,3,1.1
+FastAPI + TypeScript,2,1.1
+Flask + Python,2,1.1
+Fine-tuning + Machine Learning,2,1.09
+Go + PostgreSQL + Python,3,1.09
+Swift + iOS,2,1.09
+Kubernetes + Next.js + React,3,1.09
+CI/CD + Kubernetes + Observability,3,1.09
+Azure + Git,2,1.09
+Observability + Terraform,2,1.09
+Go + Python + Rust,3,1.09
+MySQL + React,2,1.09
+Git + Observability,2,1.09
+AI agents + GCP,2,1.09
+AWS + Infrastructure as Code + Terraform,3,1.08
+AWS + Anthropic/Claude,2,1.08
+AWS + LLMs + Machine Learning,3,1.08
+Fine-tuning + LLMs,2,1.08
+Python + Test automation,2,1.08
+Git + Python + Terraform,3,1.08
+Computer Vision + Python,2,1.08
+AWS + Git + PostgreSQL,3,1.08
+Grafana + Kubernetes,2,1.06
+Svelte,1,1.06
+Go + Kubernetes + React,3,1.06
+CI/CD + LLMs,2,1.06
+AWS + Data pipelines + Python,3,1.06
+C++ + TypeScript,2,1.06
+FastAPI + PostgreSQL + React,3,1.06
+PostgreSQL + React + Ruby on Rails,3,1.06
+CI/CD + Java,2,1.06
+Grafana + Prometheus,2,1.06
+CI/CD + JavaScript,2,1.06
+Linux + PostgreSQL,2,1.06
+Flutter,1,1.06
+PostgreSQL + React Native,2,1.05
+Elasticsearch + PostgreSQL,2,1.05
+C# + TypeScript,2,1.05
+AI agents + PostgreSQL + TypeScript,3,1.05
+Go + Java,2,1.05
+Java + JavaScript,2,1.05
+JavaScript + Node.js + TypeScript,3,1.05
+GraphQL + Python,2,1.05
+GCP + Kubernetes + Terraform,3,1.05
+Kubernetes + React + Terraform,3,1.05
+AWS + DevOps practices + React,3,1.05
+C++ + Linux,2,1.05
+Python + Ruby,2,1.05
+Node.js + Terraform,2,1.05
+LLMs + Node.js + React,3,1.04
+CI/CD + Python + Terraform,3,1.04
+AWS + Observability + Python,3,1.04
+DevOps practices + Docker + Python,3,1.04
+CI/CD + Git + React,3,1.04
+Azure + Terraform,2,1.04
+AI agents + RAG,2,1.04
+Python + REST APIs,2,1.04
+GitHub Actions + TypeScript,2,1.04
+Go + PostgreSQL + TypeScript,3,1.04
+AWS + FastAPI + Python,3,1.04
+Android + Kotlin,2,1.04
+CI/CD + DevOps practices + Terraform,3,1.04
+Anthropic/Claude + PostgreSQL,2,1.04
+Git + Next.js,2,1.04
+Shopify,1,1.04
+Spring Boot,1,1.04
+PostgreSQL + Redis + Terraform,3,1.04
+AWS + CI/CD + GCP,3,1.04
+DevOps practices + React + TypeScript,3,1.04
+Kubernetes + MySQL,2,1.04
+AWS + Machine Learning + PostgreSQL,3,1.04
+AWS + Go + TypeScript,3,1.03
+Git + LLMs + Python,3,1.03
+CI/CD + GitHub Actions,2,1.03
+Java + SQL,2,1.03
+LangChain + Python,2,1.03
+AWS + DevOps practices + PostgreSQL,3,1.03
+DevOps practices + Machine Learning + Python,3,1.03
+Kubernetes + Linux + Python,3,1.03
+Observability + PostgreSQL,2,1.03
+AWS + Docker + Git,3,1.03
+AI agents + AWS + TypeScript,3,1.03
+AI agents + LLMs + Machine Learning,3,1.03
+AWS + REST APIs,2,1.03
+Semiconductors,1,1.03
+Docker + Vue.js,2,1.03
+Data pipelines + Machine Learning + Python,3,1.02
+CI/CD + Machine Learning + Python,3,1.02
+Go + Linux,2,1.02
+C++ + Java,2,1.02
+CI/CD + Linux,2,1.02
+AI agents + Machine Learning + Python,3,1.02
+GCP + Go + Kubernetes,3,1.02
+Kotlin + TypeScript,2,1.02
+FastAPI + Python + TypeScript,3,1.02
+Docker + GCP + Kubernetes,3,1.02
+MongoDB + PostgreSQL,2,1.0
+AI agents + CI/CD,2,1.0
+MySQL + PostgreSQL,2,1.0
+AWS + Go + PostgreSQL,3,1.0
+Data pipelines + PostgreSQL,2,1.0
+Linux + TypeScript,2,1.0
+Linux + Terraform,2,1.0
+CI/CD + Git + TypeScript,3,1.0
+AWS + GCP + Machine Learning,3,1.0
+AWS + Microservices,2,1.0
+Go + Redis,2,1.0
+Azure + Machine Learning,2,1.0
+Git + PostgreSQL + Python,3,1.0
+AI agents + PostgreSQL + React,3,1.0
+Kubernetes + LLMs + Python,3,1.0
+Node.js + PostgreSQL + Redis,3,1.0
+AI agents + Docker,2,1.0
+AWS + DevOps practices + TypeScript,3,1.0
+Git + Kubernetes + Python,3,1.0
+AWS + Go + Terraform,3,0.99
+AI agents + Go,2,0.99
+C++ + React,2,0.99
+React + Rust + TypeScript,3,0.99
+Machine Learning + PostgreSQL + TypeScript,3,0.99
+AWS + Next.js + Node.js,3,0.99
+AWS + PyTorch,2,0.99
+React + Vue.js,2,0.99
+Docker + GCP + Python,3,0.98
+AWS + Azure + Docker,3,0.98
+DevOps practices + PostgreSQL + Python,3,0.98
+Azure + TypeScript,2,0.98
+Data visualization + TypeScript,2,0.98
+Docker + Observability,2,0.98
+FastAPI + React + TypeScript,3,0.98
+AI agents + LLMs + React,3,0.98
+JavaScript + Kubernetes,2,0.98
+Kotlin + Swift,2,0.98
+GCP + Node.js + TypeScript,3,0.98
+JavaScript + PostgreSQL + Python,3,0.98
+React + Ruby on Rails + TypeScript,3,0.98
+Tableau,1,0.98
+Kubernetes + Microservices,2,0.97
+Docker + LLMs + Python,3,0.97
+Docker + SQL,2,0.97
+DynamoDB,1,0.97
+AWS + Machine Learning + TypeScript,3,0.97
+Azure + GCP + Kubernetes,3,0.97
+WebAssembly,1,0.97
+MLOps + Python,2,0.97
+Power BI,1,0.97
+SAP,1,0.97
+MongoDB + TypeScript,2,0.97
+GCP + Python + Terraform,3,0.97
+Device drivers / kernel,1,0.97
+React + SQL + TypeScript,3,0.97
+Python + Rust + Terraform,3,0.97
+Kotlin + React,2,0.95
+JavaScript + LLMs,2,0.95
+GCP + Go + Python,3,0.95
+Docker + Linux + Python,3,0.95
+OpenAI/GPT + TypeScript,2,0.95
+Kubernetes + Next.js + TypeScript,3,0.95
+Go + JavaScript,2,0.95
+Docker + Java + Kubernetes,3,0.95
+Node.js + PostgreSQL + Python,3,0.95
+Data visualization + React,2,0.95
+Go + Kubernetes + TypeScript,3,0.95
+JavaScript + Machine Learning + Python,3,0.95
+C++ + Python + Rust,3,0.95
+Python + dbt,2,0.95
+Next.js + Node.js + PostgreSQL,3,0.95
+C# + React,2,0.95
+Airflow + Python,2,0.95
+AWS + Kubernetes + Machine Learning,3,0.95
+REST APIs + TypeScript,2,0.95
+Docker + PostgreSQL + Redis,3,0.95
+AWS + Next.js + PostgreSQL,3,0.95
+AWS + Git + Node.js,3,0.94
+CI/CD + Node.js + React,3,0.94
+Azure + LLMs,2,0.94
+AWS + Ruby + Ruby on Rails,3,0.94
+CI/CD + Docker + Git,3,0.94
+AWS + Grafana,2,0.94
+GCP + Kubernetes + PostgreSQL,3,0.94
+SQL Server,1,0.94
+C++ + Go,2,0.94
+OpenAI/GPT + React,2,0.94
+React + Tailwind CSS + TypeScript,3,0.94
+Playwright,1,0.94
+ETL/ELT + Python,2,0.94
+AWS + Azure + CI/CD,3,0.94
+Kubernetes + Machine Learning + React,3,0.94
+AWS + PyTorch + Python,3,0.94
+AWS + Python + Rust,3,0.93
+Observability + React + TypeScript,3,0.93
+AI agents + Node.js + TypeScript,3,0.93
+Data pipelines + LLMs,2,0.93
+AWS + Python + Redis,3,0.93
+LLMs + LangChain,2,0.93
+AI agents + OpenAI/GPT,2,0.93
+GitHub Actions + React,2,0.93
+Machine Learning + Observability,2,0.93
+Node.js + SQL,2,0.93
+DevOps practices + Observability,2,0.93
+C# + Python,2,0.93
+Go + Kubernetes + PostgreSQL,3,0.93
+Redux + TypeScript,2,0.92
+Docker + Go + Python,3,0.92
+AWS + Java + Python,3,0.92
+Node.js + Redis + TypeScript,3,0.92
+DevOps practices + Python + TypeScript,3,0.92
+Serverless + TypeScript,2,0.92
+Docker + FastAPI,2,0.92
+MySQL + TypeScript,2,0.92
+Cybersecurity + Python,2,0.92
+Infrastructure as Code + Python + Terraform,3,0.92
+Docker + Kubernetes + Node.js,3,0.92
+LLMs + SQL,2,0.92
+AWS + CI/CD + Node.js,3,0.92
+DevOps practices + Kubernetes + PostgreSQL,3,0.92
+Apache Spark + Python,2,0.92
+Git + JavaScript + Python,3,0.92
+JavaScript + Rust,2,0.92
+Machine Learning + Python + Terraform,3,0.9
+AWS + DynamoDB,2,0.9
+GCP + JavaScript,2,0.9
+Anthropic/Claude + React + TypeScript,3,0.9
+C++ + JavaScript,2,0.9
+Azure + Kubernetes + Python,3,0.9
+Ruby + Ruby on Rails + TypeScript,3,0.9
+AWS + Linux + Python,3,0.9
+Azure + Docker + Kubernetes,3,0.9
+Microservices + Python,2,0.9
+Next.js + PostgreSQL + Python,3,0.89
+Go + Kubernetes + Terraform,3,0.89
+Git + Python + SQL,3,0.89
+CI/CD + DevOps practices + Git,3,0.89
+DevOps practices + Rust,2,0.89
+AI agents + Generative AI,2,0.89
+AWS + CI/CD + Infrastructure as Code,3,0.89
+AI agents + SQL,2,0.89
+Data warehousing + Python,2,0.89
+Jenkins,1,0.89
+Azure + React,2,0.89
+PostgreSQL + React + Ruby,3,0.89
+CI/CD + GCP + Python,3,0.89
+JavaScript + Ruby,2,0.89
+REST APIs + React,2,0.89
+Kubernetes + Observability + Python,3,0.89
+AWS + Azure + DevOps practices,3,0.88
+Node.js + Observability,2,0.88
+Docker + Kubernetes + Machine Learning,3,0.88
+CI/CD + Infrastructure as Code + Terraform,3,0.88
+CI/CD + Go,2,0.88
+React + iOS,2,0.88
+DevOps practices + SQL,2,0.88
+DevOps practices + Redis,2,0.88
+Java + Spring Boot,2,0.88
+Go + Machine Learning + Python,3,0.88
+AWS + JavaScript + PostgreSQL,3,0.88
+Infrastructure as Code + Observability,2,0.88
+Ansible + Python,2,0.88
+AI agents + AWS + React,3,0.88
+LLMs + Next.js + React,3,0.88
+AWS + Redis + TypeScript,3,0.88
+DevOps practices + Linux + Python,3,0.88
+Python + iOS,2,0.88
+DevOps practices + Java,2,0.87
+Git + Kubernetes + TypeScript,3,0.87
+Grafana + Kubernetes + Prometheus,3,0.87
+Docker + Git + Terraform,3,0.87
+AWS + Azure + Terraform,3,0.87
+GCP + LLMs + Machine Learning,3,0.87
+OpenAI/GPT + PostgreSQL,2,0.87
+Linux + Rust,2,0.87
+GCP + Observability,2,0.87
+Git + Next.js + React,3,0.87
+Infrastructure as Code + Kubernetes + Terraform,3,0.87
+FastAPI + LLMs,2,0.87
+LLMs + Terraform,2,0.87
+AWS + Prometheus,2,0.85
+AI agents + PostgreSQL + Python,3,0.85
+Node.js + React + Redis,3,0.85
+Kubernetes + Machine Learning + PostgreSQL,3,0.85
+DevOps practices + JavaScript,2,0.85
+Git + Test automation,2,0.85
+Ansible + Terraform,2,0.85
+Machine Learning + Node.js + React,3,0.85
+Deep Learning + Python,2,0.85
+AWS + GraphQL + PostgreSQL,3,0.85
+Java + Kotlin,2,0.85
+CI/CD + Kubernetes + React,3,0.85
+React + Redux + TypeScript,3,0.85
+CI/CD + Kubernetes + TypeScript,3,0.85
+CI/CD + Python + TypeScript,3,0.85
+Kafka + React,2,0.85
+LLMs + Next.js + TypeScript,3,0.85
+Docker + Kubernetes + Linux,3,0.85
+Git + Next.js + TypeScript,3,0.85
+AWS + GCP + Terraform,3,0.85
+CI/CD + Node.js + TypeScript,3,0.85
+AWS + GCP + LLMs,3,0.84
+Laravel,1,0.84
+CI/CD + Observability + Python,3,0.84
+Go + Ruby,2,0.84
+AI agents + AWS + PostgreSQL,3,0.84
+Linux + Machine Learning,2,0.84
+Firebase,1,0.84
+CI/CD + GCP + Kubernetes,3,0.84
+AWS + Django + PostgreSQL,3,0.84
+PostgreSQL + React + React Native,3,0.84
+DevOps practices + Docker + Terraform,3,0.84
+Python + React + SQL,3,0.84
+Machine Learning + RAG,2,0.84
+AWS + Data visualization,2,0.84
+AWS + Observability + React,3,0.84
+LLM evals + LLMs,2,0.83
+AI agents + Next.js,2,0.83
+CI/CD + Infrastructure as Code + Python,3,0.83
+MLOps + Machine Learning + Python,3,0.83
+Java + React + TypeScript,3,0.83
+C++ + Linux + Python,3,0.83
+GitHub Actions + React + TypeScript,3,0.83
+DevOps practices + Python + React,3,0.83
+AWS + GCP + SQL,3,0.83
+AWS + Node.js + Terraform,3,0.83
+Bash/Shell + Python,2,0.83
+GraphQL + Next.js,2,0.83
+AWS + GCP + TypeScript,3,0.83
+Git + REST APIs,2,0.83
+AWS + Next.js + Python,3,0.83
+C + C++,2,0.83
+SQL + SQL Server,2,0.83
+Machine Learning + Robotics,2,0.83
+FastAPI + LLMs + Python,3,0.83
+CSS + TypeScript,2,0.83
+GraphQL + Kubernetes,2,0.83
+Next.js + Tailwind CSS,2,0.83
+AWS + JavaScript + Node.js,3,0.83
+AI agents + Node.js + React,3,0.83
+Fine-tuning + Python,2,0.83
+Figma + React,2,0.83
+Python + Time series,2,0.82
+LLMs + Observability + Python,3,0.82
+Docker + Git + Kubernetes,3,0.82
+GCP + Python + SQL,3,0.82
+NoSQL,1,0.82
+OWASP/AppSec,1,0.82
+Python + Redis + TypeScript,3,0.82
+AWS + React + React Native,3,0.82
+AWS + Observability + TypeScript,3,0.82
+React + Ruby + TypeScript,3,0.82
+Machine Learning + Redis,2,0.82
+NestJS + TypeScript,2,0.82
+Docker + MySQL,2,0.82
+Git + Java,2,0.82
+Git + Go + Python,3,0.82
+AWS + Generative AI,2,0.82
+BigQuery + Python,2,0.82
+Go + LLMs,2,0.82
+AWS + FastAPI + PostgreSQL,3,0.82
+CI/CD + DevOps practices + Docker,3,0.82
+Data pipelines + Python + React,3,0.82
+AWS + Elasticsearch,2,0.82
+TypeScript + iOS,2,0.82
+Docker + Kafka,2,0.8
+AWS + Snowflake,2,0.8
+Machine Learning + Python + Rust,3,0.8
+PostgreSQL + Python + SQL,3,0.8
+AWS + Git + Terraform,3,0.8
+C++ + Kubernetes,2,0.8
+Docker + Terraform + TypeScript,3,0.8
+JavaScript + Next.js,2,0.8
+Generative AI + React,2,0.8
+Anthropic/Claude + Git,2,0.8
+AWS + GCP + React,3,0.8
+Excel + Python,2,0.8
+AWS + GitHub Actions + TypeScript,3,0.8
+Git + Kubernetes + React,3,0.8
+DevOps practices + PostgreSQL + React,3,0.8
+PostgreSQL + Rust + TypeScript,3,0.8
+MongoDB + Node.js + React,3,0.8

@@ -1,0 +1,93 @@
+# fetched 2026-10-25T12:56:40.833585+00:00 status=200
+User-agent: *
+Crawl-delay: 1
+Allow: /
+Sitemap: https://remoteok.com/sitemap.xml
+
+User-agent: AhrefsBot
+Disallow: /
+
+
+# AJAX endpoints
+Disallow: /*?action=get_jobs
+Disallow: /*?*action=get_jobs
+Disallow: /*?*&action=get_jobs
+Disallow: /*?*&action=get_jobs&*
+Disallow: /*?url=
+Disallow: /track-ad
+Disallow: /?tags
+Disallow: /?&action
+
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+# Majestic - SEO
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+# Seozoom - SEO
+User-Agent: ZoomBot
+Disallow: /
+
+User-agent: sistrix
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: MozBot
+Disallow: /
+
+# https://moz.com/help/moz-procedures/crawlers/rogerbot
+User-agent: rogerbot
+Disallow: /
+
+# https://moz.com/help/moz-procedures/crawlers/dotbot
+User-agent: dotbot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+# IMPORTANT: SEO spam attack fix 2025 - do not remove
+Disallow: /l/
+Disallow: /*ou-tout-autre*
+Disallow: /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+# === AI / LLM crawlers ===
+# Explicit policy for major AI search, answer, and training crawlers. Permitted to
+# crawl and cite public job listings, company pages, and category pages; excluded from
+# user profiles (/@...), AJAX/query endpoints, and the spam paths above. Profile pages
+# are personal and not suitable for AI indexing or training. See also /llms.txt.
+# NOTE: a named user-agent group does NOT inherit the `User-agent: *` rules, so the
+# relevant Disallows are restated here for each of these crawlers.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: Google-Extended
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Applebot-Extended
+User-agent: CCBot
+Crawl-delay: 1
+Allow: /
+Disallow: /@
+Disallow: /track-ad
+Disallow: /*?action=get_jobs
+Disallow: /*?url=
+Disallow: /?tags
+Disallow: /?&action
+Disallow: /l/
+Disallow: /*ou-tout-autre*
+Disallow: /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

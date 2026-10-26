@@ -1,0 +1,561 @@
+a,b,count,lift
+C#,.NET,114,21.575
+Kotlin,Swift,79,19.259
+iOS,Android,192,17.941
+iOS,Swift,88,15.241
+Ruby on Rails,Ruby,306,14.573
+Snowflake,Data warehousing,50,12.762
+Android,Kotlin,84,11.048
+PyTorch,Deep Learning,40,9.982
+Android,Swift,56,9.899
+Anthropic/Claude,OpenAI/GPT,130,9.851
+MySQL,PHP,39,9.03
+CSS,Tailwind CSS,32,8.849
+Terraform,Infrastructure as Code,128,7.818
+IoT,Test automation,25,7.741
+Kafka,Microservices,39,7.547
+Robotics,IoT,39,7.337
+Computer Vision,Deep Learning,34,7.227
+REST APIs,CSS,30,7.092
+CI/CD,Infrastructure as Code,109,6.987
+iOS,Kotlin,53,6.83
+JavaScript,CSS,112,6.787
+Robotics,Computer Vision,52,6.715
+Robotics,Test automation,35,6.625
+Azure,.NET,58,6.623
+Robotics,Embedded systems,38,6.58
+Cybersecurity,SOC 2 / compliance,32,6.528
+Observability,Infrastructure as Code,71,6.231
+Redis,Kafka,63,6.211
+Next.js,Tailwind CSS,67,6.118
+Computer Vision,Embedded systems,31,6.027
+Linux,Embedded systems,56,5.685
+C++,Embedded systems,57,5.449
+LLMs,RAG,131,5.432
+GCP,Azure,195,5.359
+Data visualization,Excel,64,5.33
+Data pipelines,Data warehousing,35,5.213
+Generative AI,RAG,36,5.138
+GraphQL,REST APIs,41,5.076
+Java,Kotlin,69,5.05
+Excel,Time series,32,4.896
+OpenAI/GPT,RAG,33,4.855
+CI/CD,Observability,148,4.766
+Azure,Infrastructure as Code,53,4.729
+CI/CD,Test automation,55,4.708
+Azure,C#,62,4.682
+DevOps practices,Infrastructure as Code,91,4.651
+Computer Vision,PyTorch,27,4.597
+Vue.js,Test automation,30,4.506
+SQL,Data warehousing,56,4.486
+SQL,.NET,59,4.474
+AI agents,RAG,84,4.428
+Vue.js,PHP,29,4.383
+Vue.js,MySQL,39,4.326
+CI/CD,Microservices,59,4.325
+CI/CD,REST APIs,60,4.284
+MongoDB,Kafka,28,4.227
+JavaScript,PHP,63,4.223
+Machine Learning,PyTorch,157,4.131
+Git,Test automation,69,4.125
+Anthropic/Claude,RAG,35,4.119
+Azure,Data warehousing,34,4.102
+Redis,MySQL,40,4.016
+Docker,Terraform,208,3.908
+PostgreSQL,Redis,283,3.905
+Vue.js,IoT,26,3.881
+Azure,REST APIs,39,3.876
+Java,Microservices,47,3.86
+Anthropic/Claude,Snowflake,34,3.78
+SQL,Snowflake,59,3.777
+Machine Learning,Deep Learning,114,3.745
+Excel,Data analysis,25,3.715
+DevOps practices,CI/CD,197,3.694
+Java,Kafka,53,3.687
+CI/CD,Azure,112,3.666
+Node.js,MongoDB,102,3.652
+Kubernetes,Docker,342,3.652
+Redis,MongoDB,40,3.633
+Observability,RAG,36,3.613
+Linux,Infrastructure as Code,43,3.573
+Kubernetes,Kafka,106,3.564
+C++,Robotics,56,3.555
+Docker,MySQL,66,3.498
+Rust,C++,140,3.469
+Git,CI/CD,211,3.466
+Terraform,CI/CD,154,3.451
+React Native,Android,38,3.446
+Docker,Test automation,48,3.445
+Kubernetes,Terraform,283,3.435
+Docker,FastAPI,74,3.434
+AI agents,Anthropic/Claude,126,3.421
+Terraform,Redis,96,3.416
+Vue.js,CSS,25,3.415
+Docker,CI/CD,173,3.411
+Docker,Kafka,65,3.383
+React Native,Kotlin,27,3.377
+Terraform,Kafka,57,3.372
+Git,REST APIs,67,3.342
+SQL,Azure,110,3.328
+Docker,Microservices,54,3.319
+SQL,REST APIs,50,3.3
+JavaScript,Vue.js,102,3.275
+Terraform,Test automation,40,3.263
+Redis,Microservices,28,3.26
+Node.js,GraphQL,127,3.242
+Java,C#,53,3.222
+Linux,Test automation,29,3.218
+Data visualization,Data analysis,31,3.211
+SQL,C#,64,3.21
+Machine Learning,Computer Vision,143,3.205
+Kubernetes,Infrastructure as Code,92,3.194
+LLMs,OpenAI/GPT,119,3.177
+Docker,REST APIs,53,3.173
+Docker,Infrastructure as Code,59,3.171
+Redis,FastAPI,36,3.164
+C++,Linux,85,3.164
+Azure,RAG,31,3.163
+DevOps practices,Terraform,177,3.162
+CI/CD,SOC 2 / compliance,36,3.12
+Kubernetes,Microservices,78,3.097
+Azure,Microservices,30,3.061
+Docker,Linux,119,3.042
+SQL,Data visualization,89,3.039
+SQL,CSS,42,3.023
+Azure,SOC 2 / compliance,25,3.016
+Docker,Redis,96,3.006
+Next.js,GraphQL,67,2.987
+Data visualization,Time series,28,2.986
+Java,MySQL,42,2.975
+Observability,Kafka,35,2.975
+CI/CD,C#,54,2.93
+Ruby,Redis,53,2.907
+Node.js,Next.js,180,2.898
+DevOps practices,Azure,111,2.897
+LLMs,AI agents,301,2.879
+Kubernetes,MySQL,84,2.876
+Docker,Vue.js,83,2.871
+Kubernetes,CI/CD,225,2.866
+AWS,Terraform,387,2.858
+Java,Swift,29,2.852
+GCP,FastAPI,61,2.834
+Vue.js,Robotics,31,2.829
+Kubernetes,GCP,263,2.812
+PostgreSQL,Tailwind CSS,91,2.808
+Docker,Azure,102,2.799
+AWS,Azure,259,2.794
+CI/CD,.NET,34,2.789
+Django,Vue.js,42,2.782
+JavaScript,REST APIs,50,2.779
+DevOps practices,Microservices,47,2.747
+Go,IoT,45,2.706
+Terraform,Observability,88,2.7
+GCP,Infrastructure as Code,50,2.691
+AI agents,Observability,116,2.686
+PostgreSQL,FastAPI,131,2.679
+Anthropic/Claude,Salesforce,25,2.672
+Python,FastAPI,220,2.658
+GraphQL,React Native,34,2.655
+DevOps practices,Linux,109,2.65
+Rust,IoT,36,2.643
+Java,C++,82,2.638
+Terraform,Azure,84,2.62
+CI/CD,Kafka,42,2.607
+Azure,Snowflake,27,2.603
+Go,Terraform,164,2.598
+Kubernetes,Observability,148,2.581
+React Native,iOS,29,2.577
+Django,FastAPI,29,2.577
+Anthropic/Claude,FastAPI,29,2.577
+Python,Django,312,2.571
+LLMs,Generative AI,99,2.564
+AWS,Infrastructure as Code,121,2.556
+AI agents,OpenAI/GPT,75,2.545
+LLMs,Anthropic/Claude,119,2.542
+JavaScript,Test automation,38,2.531
+Django,React Native,35,2.531
+Redis,GraphQL,39,2.525
+GCP,Terraform,134,2.521
+Go,Kafka,57,2.501
+CI/CD,Linux,82,2.5
+SQL,Data analysis,41,2.499
+React,Next.js,381,2.494
+Ruby,Vue.js,41,2.485
+DevOps practices,.NET,38,2.485
+Next.js,FastAPI,41,2.481
+React,GraphQL,239,2.481
+Azure,PyTorch,26,2.481
+Java,REST APIs,31,2.48
+Terraform,Vue.js,63,2.477
+Ruby on Rails,Redis,48,2.472
+PostgreSQL,GraphQL,164,2.471
+TypeScript,Next.js,359,2.459
+Kubernetes,Redis,121,2.448
+Git,CSS,45,2.447
+Kubernetes,DevOps practices,241,2.447
+Docker,Java,110,2.43
+Git,Docker,176,2.424
+Python,PyTorch,161,2.409
+CI/CD,MongoDB,42,2.402
+Kubernetes,Go,266,2.395
+Kubernetes,Azure,135,2.393
+SQL,Data pipelines,64,2.391
+Generative AI,OpenAI/GPT,26,2.389
+Java,Android,45,2.388
+Ruby,Kafka,26,2.371
+AI agents,Generative AI,72,2.37
+Go,Test automation,39,2.36
+DevOps practices,Docker,150,2.358
+Go,Infrastructure as Code,52,2.356
+Docker,IoT,33,2.354
+Terraform,Linux,81,2.353
+AWS,Docker,362,2.352
+SQL,Excel,48,2.352
+Terraform,IoT,29,2.351
+JavaScript,Tailwind CSS,36,2.34
+Docker,RAG,38,2.335
+TypeScript,GraphQL,215,2.335
+React,Node.js,623,2.335
+Ruby on Rails,Vue.js,41,2.333
+Git,IoT,39,2.317
+Node.js,Redis,99,2.315
+Azure,Cybersecurity,30,2.311
+AI agents,SOC 2 / compliance,37,2.306
+Node.js,Tailwind CSS,44,2.301
+Docker,PyTorch,40,2.299
+Go,Rust,160,2.296
+Linux,Robotics,34,2.292
+AWS,Kafka,112,2.292
+GCP,CI/CD,116,2.29
+Rust,Robotics,51,2.289
+Observability,Azure,51,2.286
+DevOps practices,REST APIs,40,2.277
+Observability,FastAPI,30,2.273
+Rust,Swift,30,2.273
+Observability,Data pipelines,41,2.269
+CI/CD,Java,86,2.266
+CI/CD,Data pipelines,56,2.263
+TypeScript,Node.js,576,2.259
+GCP,Data warehousing,31,2.256
+React,Tailwind CSS,106,2.254
+GCP,Kotlin,41,2.248
+Redis,Vue.js,34,2.228
+Observability,Anthropic/Claude,43,2.223
+Rust,Test automation,30,2.216
+Git,Infrastructure as Code,49,2.194
+LLMs,FastAPI,70,2.191
+Terraform,Snowflake,33,2.178
+JavaScript,MySQL,44,2.165
+React,TypeScript,1357,2.164
+Linux,Cybersecurity,30,2.153
+Observability,Redis,42,2.148
+Terraform,SOC 2 / compliance,26,2.147
+Go,Redis,81,2.138
+TypeScript,Tailwind CSS,96,2.136
+Docker,Observability,79,2.133
+GCP,PyTorch,37,2.13
+Go,Microservices,41,2.125
+C++,C#,32,2.12
+Next.js,OpenAI/GPT,41,2.116
+DevOps practices,Redis,71,2.114
+Docker,MongoDB,44,2.109
+Git,Linux,99,2.108
+AI agents,Salesforce,44,2.106
+PostgreSQL,Docker,289,2.105
+GCP,Snowflake,36,2.093
+CI/CD,Kotlin,32,2.09
+PostgreSQL,Kafka,91,2.087
+Docker,GCP,126,2.086
+PostgreSQL,Django,149,2.079
+LLMs,PyTorch,53,2.055
+Kubernetes,Java,144,2.055
+AWS,CI/CD,265,2.054
+CI/CD,RAG,28,2.053
+Kubernetes,Linux,124,2.048
+PostgreSQL,Terraform,246,2.037
+Docker,Tailwind CSS,29,2.031
+Rust,Embedded systems,30,2.027
+PostgreSQL,Next.js,213,2.024
+Ruby on Rails,GraphQL,36,2.024
+SQL,Java,83,2.022
+Next.js,React Native,41,2.019
+Java,Azure,55,2.017
+SQL,Infrastructure as Code,34,2.014
+Git,Azure,88,2.012
+CI/CD,Snowflake,29,2.008
+Machine Learning,Generative AI,114,2.003
+Node.js,CSS,41,1.999
+AI agents,FastAPI,50,1.99
+Java,MongoDB,31,1.986
+Git,Observability,88,1.979
+Machine Learning,LLMs,387,1.976
+React,React Native,172,1.972
+LLMs,Observability,108,1.967
+PostgreSQL,Ruby on Rails,164,1.965
+React,Django,204,1.961
+DevOps practices,MongoDB,43,1.96
+AWS,Kubernetes,467,1.96
+React,FastAPI,139,1.958
+JavaScript,MongoDB,44,1.958
+AWS,Microservices,81,1.957
+AWS,REST APIs,83,1.953
+DevOps practices,C#,45,1.947
+AWS,MySQL,93,1.938
+Git,Snowflake,40,1.935
+SQL,CI/CD,89,1.935
+JavaScript,Ruby,72,1.935
+GCP,SQL,106,1.934
+AWS,GCP,297,1.933
+GraphQL,Vue.js,27,1.932
+Rust,Kafka,36,1.929
+Go,GCP,138,1.926
+DevOps practices,Observability,75,1.925
+C++,Computer Vision,27,1.925
+Node.js,REST APIs,43,1.922
+React,MongoDB,132,1.922
+Machine Learning,RAG,68,1.913
+GCP,Redis,61,1.913
+Git,SQL,126,1.913
+Azure,OpenAI/GPT,29,1.905
+PostgreSQL,Node.js,350,1.904
+React,CSS,96,1.903
+Azure,Data visualization,37,1.903
+Node.js,JavaScript,166,1.902
+JavaScript,C#,45,1.9
+DevOps practices,IoT,28,1.899
+TypeScript,React Native,158,1.895
+Git,Terraform,121,1.894
+Git,RAG,37,1.894
+PostgreSQL,MySQL,81,1.892
+GCP,Observability,70,1.892
+GCP,SOC 2 / compliance,26,1.892
+Python,RAG,118,1.888
+SQL,Time series,30,1.882
+Git,JavaScript,146,1.866
+GCP,Data pipelines,55,1.866
+GCP,MySQL,35,1.858
+Kubernetes,FastAPI,62,1.858
+Kubernetes,PyTorch,50,1.857
+AWS,Observability,175,1.857
+Kubernetes,REST APIs,48,1.856
+PostgreSQL,Ruby,145,1.85
+AWS,MongoDB,98,1.847
+GCP,Microservices,30,1.846
+Git,Vue.js,64,1.844
+Rust,Linux,70,1.842
+AWS,GraphQL,137,1.841
+Docker,Robotics,42,1.831
+SQL,Microservices,27,1.829
+AWS,Django,147,1.829
+Linux,Azure,43,1.825
+Git,C#,48,1.819
+Terraform,Microservices,26,1.816
+Next.js,Anthropic/Claude,44,1.816
+Machine Learning,Data pipelines,117,1.815
+AWS,Node.js,374,1.815
+AWS,PyTorch,80,1.808
+Go,Vue.js,62,1.808
+React,PostgreSQL,817,1.807
+AWS,SOC 2 / compliance,63,1.8
+GCP,REST APIs,30,1.798
+Git,Microservices,35,1.792
+Linux,Redis,37,1.792
+AWS,PostgreSQL,623,1.784
+Data visualization,Data pipelines,28,1.778
+Node.js,React Native,63,1.776
+AWS,Redis,144,1.773
+AWS,FastAPI,97,1.769
+Go,Linux,82,1.767
+Kubernetes,MongoDB,57,1.765
+SQL,RAG,26,1.762
+Next.js,Observability,50,1.76
+Rust,Terraform,91,1.76
+Python,Data pipelines,199,1.755
+Linux,Observability,42,1.753
+SQL,MySQL,30,1.753
+TypeScript,Redis,176,1.751
+AI agents,Infrastructure as Code,38,1.751
+JavaScript,Java,85,1.743
+Docker,GraphQL,51,1.743
+TypeScript,PostgreSQL,752,1.741
+Docker,Django,55,1.741
+Terraform,FastAPI,33,1.74
+JavaScript,SQL,102,1.725
+Git,.NET,30,1.719
+LLMs,SOC 2 / compliance,35,1.716
+LLMs,Data pipelines,75,1.715
+Git,Anthropic/Claude,65,1.714
+PostgreSQL,MongoDB,81,1.711
+JavaScript,Microservices,30,1.711
+CI/CD,MySQL,27,1.707
+Node.js,MySQL,43,1.702
+AI agents,Snowflake,34,1.693
+Terraform,MySQL,28,1.687
+Python,Docker,391,1.682
+Redis,Django,28,1.679
+Java,Linux,49,1.674
+Node.js,Docker,135,1.666
+DevOps practices,MySQL,33,1.663
+JavaScript,.NET,26,1.66
+Go,Ruby,68,1.66
+Python,Terraform,339,1.658
+Node.js,Vue.js,64,1.653
+CI/CD,Redis,44,1.643
+Machine Learning,Time series,63,1.641
+PostgreSQL,REST APIs,62,1.636
+Git,MySQL,37,1.634
+GCP,MongoDB,34,1.632
+AI agents,Cybersecurity,41,1.632
+AWS,DevOps practices,264,1.631
+JavaScript,C++,73,1.631
+Next.js,MongoDB,26,1.626
+Python,Test automation,87,1.625
+PostgreSQL,Kubernetes,345,1.624
+Machine Learning,Data analysis,64,1.62
+Terraform,Django,45,1.619
+Java,Vue.js,35,1.618
+GCP,Kafka,31,1.616
+DevOps practices,GCP,102,1.606
+CI/CD,Cybersecurity,29,1.605
+Python,Linux,241,1.604
+Git,MongoDB,40,1.598
+LLMs,Deep Learning,33,1.598
+Rust,Android,39,1.594
+Azure,Generative AI,25,1.593
+CI/CD,Anthropic/Claude,42,1.586
+Go,Java,85,1.583
+Python,SQL,332,1.575
+JavaScript,CI/CD,86,1.574
+Git,SOC 2 / compliance,26,1.574
+Linux,Data pipelines,30,1.572
+CI/CD,Next.js,61,1.568
+Python,Infrastructure as Code,112,1.567
+Python,C++,250,1.567
+Next.js,Redis,38,1.552
+Ruby on Rails,React Native,25,1.552
+React,Redis,163,1.55
+Go,C++,76,1.542
+AI agents,REST APIs,30,1.54
+Node.js,CI/CD,104,1.531
+TypeScript,Vue.js,139,1.528
+Git,Robotics,42,1.526
+PostgreSQL,Vue.js,100,1.525
+Azure,Anthropic/Claude,29,1.524
+Rust,Kotlin,27,1.522
+Kubernetes,Kotlin,43,1.521
+React,Ruby on Rails,184,1.519
+Azure,Data pipelines,27,1.519
+Kubernetes,Node.js,190,1.515
+Git,Next.js,84,1.509
+AWS,Next.js,178,1.508
+Go,Docker,108,1.505
+Python,GCP,349,1.504
+React,AWS,762,1.504
+Ruby,GraphQL,25,1.497
+Node.js,GCP,121,1.496
+TypeScript,AWS,721,1.489
+CI/CD,Vue.js,36,1.485
+DevOps practices,Kafka,30,1.485
+AWS,Snowflake,65,1.484
+AI agents,Azure,63,1.483
+Kubernetes,GraphQL,67,1.48
+Go,Kotlin,32,1.477
+Terraform,GraphQL,38,1.476
+GCP,React Native,39,1.475
+Git,Rust,104,1.474
+DevOps practices,Java,70,1.471
+AWS,Vue.js,108,1.469
+Observability,Data visualization,29,1.467
+TypeScript,REST APIs,77,1.465
+Rust,Vue.js,41,1.46
+JavaScript,Docker,95,1.458
+AWS,Data warehousing,51,1.457
+Java,iOS,28,1.456
+Node.js,PHP,27,1.456
+AWS,Data pipelines,109,1.452
+Docker,Snowflake,25,1.451
+Kubernetes,Git,163,1.45
+Rust,Redis,45,1.45
+DevOps practices,Vue.js,44,1.447
+React,Ruby,164,1.442
+Git,DevOps practices,110,1.441
+Terraform,Robotics,29,1.437
+React,JavaScript,308,1.435
+SQL,Kafka,25,1.434
+Node.js,Observability,71,1.431
+Git,Kafka,33,1.431
+TypeScript,Kotlin,82,1.427
+CI/CD,GraphQL,35,1.427
+AWS,SQL,199,1.426
+AWS,React Native,96,1.425
+Docker,Data pipelines,42,1.423
+Java,Redis,34,1.423
+Docker,SQL,78,1.421
+TypeScript,Terraform,238,1.421
+React,MySQL,88,1.416
+GCP,Java,64,1.416
+AI agents,Time series,29,1.416
+LLMs,REST APIs,35,1.414
+PostgreSQL,React Native,85,1.414
+Machine Learning,Embedded systems,47,1.412
+Docker,C#,31,1.41
+LLMs,Azure,76,1.407
+Python,CI/CD,274,1.406
+Python,Machine Learning,712,1.402
+AWS,RAG,58,1.401
+SQL,Observability,47,1.399
+SQL,Anthropic/Claude,40,1.396
+Python,AWS,824,1.394
+Kubernetes,Next.js,100,1.393
+Git,FastAPI,36,1.392
+TypeScript,CSS,67,1.39
+AWS,Java,160,1.39
+JavaScript,Ruby on Rails,55,1.388
+PostgreSQL,GCP,190,1.386
+Git,OpenAI/GPT,42,1.385
+LLMs,GCP,124,1.385
+CI/CD,FastAPI,25,1.384
+LLMs,Git,149,1.384
+React,GCP,275,1.382
+Terraform,Java,55,1.381
+AI agents,Data visualization,52,1.381
+AI agents,CI/CD,81,1.37
+Python,Vue.js,152,1.369
+Docker,Kotlin,25,1.369
+Python,Kubernetes,492,1.368
+LLMs,Next.js,94,1.367
+DevOps practices,PyTorch,25,1.367
+AI agents,Data pipelines,47,1.366
+PostgreSQL,Go,222,1.364
+Kubernetes,Vue.js,61,1.363
+Python,Data warehousing,72,1.362
+Python,JavaScript,340,1.358
+PostgreSQL,Snowflake,53,1.356
+Terraform,Data pipelines,35,1.348
+Python,Snowflake,89,1.345
+Python,Data analysis,93,1.338
+Machine Learning,Robotics,67,1.337
+AWS,Go,244,1.337
+GCP,GraphQL,39,1.335
+Kubernetes,Data pipelines,61,1.335
+TypeScript,Rust,247,1.335
+Node.js,Microservices,29,1.331
+GCP,Anthropic/Claude,42,1.331
+CI/CD,Django,35,1.322
+JavaScript,Django,45,1.322
+Go,Observability,58,1.32
+TypeScript,Django,131,1.318
+Java,Ruby,34,1.316
+TypeScript,GCP,250,1.315
+Kubernetes,SOC 2 / compliance,28,1.314
+TypeScript,FastAPI,89,1.312
+Go,DevOps practices,99,1.312
+Rust,C#,28,1.311
+Python,REST APIs,84,1.309
+React,REST APIs,72,1.309
+JavaScript,Redis,45,1.308
+Python,Azure,183,1.307
+TypeScript,JavaScript,268,1.307
+JavaScript,Linux,55,1.305
+SQL,Terraform,63,1.305
+JavaScript,Next.js,65,1.301

@@ -1,0 +1,892 @@
+{
+  "postings": 17677,
+  "unique_roles": 13369,
+  "sources": {
+    "Hacker News": 14941,
+    "Arbeitnow": 1654,
+    "Himalayas": 773,
+    "Jobicy": 192,
+    "Remote OK": 98,
+    "Python.org Jobs": 19
+  },
+  "hn_months": 46,
+  "skills_in_taxonomy": 258,
+  "distinct_skills_found": 258,
+  "top10_tech_skills": [
+    {
+      "skill": "Python",
+      "share_pct": 26.22
+    },
+    {
+      "skill": "React",
+      "share_pct": 23.17
+    },
+    {
+      "skill": "TypeScript",
+      "share_pct": 21.86
+    },
+    {
+      "skill": "Machine Learning",
+      "share_pct": 16.95
+    },
+    {
+      "skill": "AWS",
+      "share_pct": 16.58
+    },
+    {
+      "skill": "PostgreSQL",
+      "share_pct": 15.4
+    },
+    {
+      "skill": "LLMs",
+      "share_pct": 10.68
+    },
+    {
+      "skill": "Kubernetes",
+      "share_pct": 10.45
+    },
+    {
+      "skill": "Open source",
+      "share_pct": 9.05
+    },
+    {
+      "skill": "Scalability",
+      "share_pct": 8.97
+    }
+  ],
+  "top_categories": [
+    {
+      "category": "Programming Languages",
+      "postings": 8313,
+      "share_pct": 56.0
+    },
+    {
+      "category": "Frontend & Web",
+      "postings": 4581,
+      "share_pct": 30.8
+    },
+    {
+      "category": "Data Science & ML",
+      "postings": 4170,
+      "share_pct": 28.1
+    },
+    {
+      "category": "DevOps & Infrastructure",
+      "postings": 4071,
+      "share_pct": 27.4
+    },
+    {
+      "category": "Practices & Architecture",
+      "postings": 3803,
+      "share_pct": 25.6
+    },
+    {
+      "category": "Backend & APIs",
+      "postings": 3770,
+      "share_pct": 25.4
+    }
+  ],
+  "top_roles": [
+    {
+      "role_family": "Software Engineering (general)",
+      "postings": 5545
+    },
+    {
+      "role_family": "Other",
+      "postings": 2440
+    },
+    {
+      "role_family": "ML / AI Engineering",
+      "postings": 1689
+    },
+    {
+      "role_family": "Full-stack",
+      "postings": 1671
+    },
+    {
+      "role_family": "Business & Operations",
+      "postings": 1434
+    },
+    {
+      "role_family": "DevOps / SRE / Cloud",
+      "postings": 987
+    },
+    {
+      "role_family": "Backend",
+      "postings": 912
+    },
+    {
+      "role_family": "Frontend",
+      "postings": 698
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United States",
+      "postings": 8032
+    },
+    {
+      "country": "United Kingdom",
+      "postings": 1160
+    },
+    {
+      "country": "Germany",
+      "postings": 960
+    },
+    {
+      "country": "Netherlands",
+      "postings": 463
+    },
+    {
+      "country": "France",
+      "postings": 370
+    },
+    {
+      "country": "Canada",
+      "postings": 347
+    },
+    {
+      "country": "Switzerland",
+      "postings": 260
+    },
+    {
+      "country": "India",
+      "postings": 218
+    }
+  ],
+  "top_cities": [
+    {
+      "city": "SF Bay Area",
+      "postings": 2538
+    },
+    {
+      "city": "New York",
+      "postings": 1290
+    },
+    {
+      "city": "London",
+      "postings": 790
+    },
+    {
+      "city": "Berlin",
+      "postings": 445
+    },
+    {
+      "city": "Amsterdam",
+      "postings": 265
+    },
+    {
+      "city": "Paris",
+      "postings": 254
+    },
+    {
+      "city": "Boston",
+      "postings": 224
+    },
+    {
+      "city": "Munich",
+      "postings": 202
+    }
+  ],
+  "work_mode": [
+    {
+      "work_mode": "Remote",
+      "postings": 9422
+    },
+    {
+      "work_mode": "Onsite",
+      "postings": 4353
+    },
+    {
+      "work_mode": "Hybrid",
+      "postings": 2687
+    },
+    {
+      "work_mode": "Unspecified",
+      "postings": 1215
+    }
+  ],
+  "salary": {
+    "n": 1748,
+    "n_us": 1426,
+    "median_us": 165000.0,
+    "top_premium": [
+      {
+        "skill": "Distributed systems",
+        "premium_pct": 18.2,
+        "n": 41
+      },
+      {
+        "skill": "AI agents",
+        "premium_pct": 12.1,
+        "n": 142
+      },
+      {
+        "skill": "Rust",
+        "premium_pct": 12.1,
+        "n": 77
+      },
+      {
+        "skill": "Observability",
+        "premium_pct": 10.6,
+        "n": 49
+      },
+      {
+        "skill": "Machine Learning",
+        "premium_pct": 10.2,
+        "n": 156
+      },
+      {
+        "skill": "Infrastructure as Code",
+        "premium_pct": 9.8,
+        "n": 32
+      },
+      {
+        "skill": "Data pipelines",
+        "premium_pct": 7.6,
+        "n": 53
+      },
+      {
+        "skill": "C++",
+        "premium_pct": 6.1,
+        "n": 43
+      }
+    ],
+    "bottom_premium": [
+      {
+        "skill": "SOC 2 / compliance",
+        "premium_pct": -9.1,
+        "n": 41
+      },
+      {
+        "skill": "Data visualization",
+        "premium_pct": -12.1,
+        "n": 65
+      },
+      {
+        "skill": "Agile/Scrum",
+        "premium_pct": -14.2,
+        "n": 47
+      },
+      {
+        "skill": "Salesforce",
+        "premium_pct": -24.2,
+        "n": 63
+      },
+      {
+        "skill": "Excel",
+        "premium_pct": -39.2,
+        "n": 72
+      }
+    ]
+  },
+  "hn_volume_first_last": [
+    362,
+    263
+  ],
+  "genai_share_first_last": [
+    2.5,
+    32.3
+  ],
+  "remote_share_first_last": [
+    68.2,
+    51.0
+  ],
+  "fastest_rising": [
+    {
+      "skill": "AI agents",
+      "first6_pct": 0.36,
+      "last6_pct": 15.69,
+      "slope_pp_per_year": 5.11
+    },
+    {
+      "skill": "LLMs",
+      "first6_pct": 2.68,
+      "last6_pct": 14.31,
+      "slope_pp_per_year": 3.39
+    },
+    {
+      "skill": "TypeScript",
+      "first6_pct": 17.11,
+      "last6_pct": 22.4,
+      "slope_pp_per_year": 2.2
+    },
+    {
+      "skill": "PostgreSQL",
+      "first6_pct": 13.51,
+      "last6_pct": 18.54,
+      "slope_pp_per_year": 1.91
+    },
+    {
+      "skill": "Anthropic/Claude",
+      "first6_pct": 0.0,
+      "last6_pct": 7.16,
+      "slope_pp_per_year": 1.9
+    },
+    {
+      "skill": "Python",
+      "first6_pct": 22.53,
+      "last6_pct": 25.9,
+      "slope_pp_per_year": 1.31
+    },
+    {
+      "skill": "Next.js",
+      "first6_pct": 2.5,
+      "last6_pct": 6.04,
+      "slope_pp_per_year": 1.15
+    },
+    {
+      "skill": "Observability",
+      "first6_pct": 1.19,
+      "last6_pct": 5.24,
+      "slope_pp_per_year": 1.12
+    }
+  ],
+  "fastest_falling": [
+    {
+      "skill": "Ruby",
+      "first6_pct": 5.14,
+      "last6_pct": 3.19,
+      "slope_pp_per_year": -0.65
+    },
+    {
+      "skill": "Machine Learning",
+      "first6_pct": 15.79,
+      "last6_pct": 14.15,
+      "slope_pp_per_year": -0.66
+    },
+    {
+      "skill": "Java",
+      "first6_pct": 5.8,
+      "last6_pct": 3.63,
+      "slope_pp_per_year": -0.67
+    },
+    {
+      "skill": "Django",
+      "first6_pct": 4.82,
+      "last6_pct": 2.04,
+      "slope_pp_per_year": -0.75
+    },
+    {
+      "skill": "Vue.js",
+      "first6_pct": 3.77,
+      "last6_pct": 1.08,
+      "slope_pp_per_year": -0.8
+    },
+    {
+      "skill": "Open source",
+      "first6_pct": 10.0,
+      "last6_pct": 8.03,
+      "slope_pp_per_year": -0.81
+    },
+    {
+      "skill": "JavaScript",
+      "first6_pct": 8.1,
+      "last6_pct": 4.64,
+      "slope_pp_per_year": -1.06
+    },
+    {
+      "skill": "DevOps practices",
+      "first6_pct": 9.98,
+      "last6_pct": 5.34,
+      "slope_pp_per_year": -1.13
+    }
+  ],
+  "network": {
+    "nodes": 70,
+    "edges": 560,
+    "modularity": 0.375,
+    "communities": [
+      [
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "Node.js",
+        "JavaScript",
+        "Next.js"
+      ],
+      [
+        "AWS",
+        "Kubernetes",
+        "Go",
+        "DevOps practices",
+        "Docker",
+        "GCP"
+      ],
+      [
+        "Python",
+        "SQL",
+        "Azure",
+        "Data visualization",
+        "Data pipelines",
+        "Excel"
+      ],
+      [
+        "Machine Learning",
+        "Git",
+        "Rust",
+        "C++",
+        "Linux",
+        "Vue.js"
+      ],
+      [
+        "LLMs",
+        "AI agents",
+        "Anthropic/Claude",
+        "Generative AI",
+        "OpenAI/GPT",
+        "Cybersecurity"
+      ],
+      [
+        "Java",
+        "iOS",
+        "Android",
+        "Kotlin",
+        "Swift"
+      ]
+    ],
+    "top_pagerank": [
+      "AWS",
+      "Python",
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ],
+    "top_betweenness": [
+      "SQL",
+      "Java",
+      "CI/CD",
+      "Azure",
+      "Docker",
+      "Git"
+    ]
+  },
+  "rules": {
+    "n_rules": 739,
+    "transactions": 8076,
+    "itemsets_by_size": {
+      "1": 132,
+      "2": 459,
+      "3": 406
+    },
+    "top": [
+      {
+        "antecedent": "Grafana + Kubernetes",
+        "consequent": "Prometheus",
+        "confidence": 0.814,
+        "lift": 58.17
+      },
+      {
+        "antecedent": "Kubernetes + Prometheus",
+        "consequent": "Grafana",
+        "confidence": 0.778,
+        "lift": 48.69
+      },
+      {
+        "antecedent": "CSS + JavaScript",
+        "consequent": "HTML",
+        "confidence": 0.821,
+        "lift": 44.52
+      },
+      {
+        "antecedent": "Prometheus",
+        "consequent": "Grafana",
+        "confidence": 0.761,
+        "lift": 47.65
+      },
+      {
+        "antecedent": "HTML + JavaScript",
+        "consequent": "CSS",
+        "confidence": 0.885,
+        "lift": 40.36
+      },
+      {
+        "antecedent": "Grafana",
+        "consequent": "Prometheus",
+        "confidence": 0.667,
+        "lift": 47.65
+      },
+      {
+        "antecedent": "HTML",
+        "consequent": "CSS",
+        "confidence": 0.792,
+        "lift": 36.13
+      },
+      {
+        "antecedent": "CSS",
+        "consequent": "HTML",
+        "confidence": 0.667,
+        "lift": 36.13
+      },
+      {
+        "antecedent": "PostgreSQL + Ruby",
+        "consequent": "Ruby on Rails",
+        "confidence": 0.897,
+        "lift": 17.04
+      },
+      {
+        "antecedent": ".NET",
+        "consequent": "C#",
+        "confidence": 0.679,
+        "lift": 21.58
+      }
+    ]
+  },
+  "clusters": {
+    "best_k": 14,
+    "ari_vs_roles": 0.042,
+    "n": 6845,
+    "profiles": [
+      {
+        "label": "Infrastructure as Code / DevOps practices / Terraform",
+        "size": 802,
+        "most_common_role": "DevOps / SRE / Cloud"
+      },
+      {
+        "label": "Next.js / TypeScript / React",
+        "size": 683,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Node.js / GraphQL / Next.js",
+        "size": 651,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Excel / SQL / Data visualization",
+        "size": 586,
+        "most_common_role": "Business & Operations"
+      },
+      {
+        "label": "RAG / AI agents / OpenAI/GPT",
+        "size": 577,
+        "most_common_role": "ML / AI Engineering"
+      },
+      {
+        "label": "PyTorch / Machine Learning / LLMs",
+        "size": 565,
+        "most_common_role": "ML / AI Engineering"
+      },
+      {
+        "label": "Rust / Distributed systems / C++",
+        "size": 500,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Go / Kubernetes / GCP",
+        "size": 429,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "HTML / CSS / PHP",
+        "size": 392,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Open source / Git / Machine Learning",
+        "size": 385,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Embedded systems / Firmware / C++",
+        "size": 375,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Ruby on Rails / Ruby / PostgreSQL",
+        "size": 323,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "Django / Python / PostgreSQL",
+        "size": 312,
+        "most_common_role": "Software Engineering (general)"
+      },
+      {
+        "label": "SwiftUI / iOS / Android",
+        "size": 265,
+        "most_common_role": "Mobile"
+      }
+    ]
+  },
+  "emerging_terms": [
+    {
+      "term": "agentic",
+      "share_2023_pct": 0.02,
+      "share_2026_pct": 8.81,
+      "growth_x": 40.95
+    },
+    {
+      "term": "ai-native",
+      "share_2023_pct": 0.02,
+      "share_2026_pct": 3.99,
+      "growth_x": 19.05
+    },
+    {
+      "term": "claude",
+      "share_2023_pct": 0.12,
+      "share_2026_pct": 5.13,
+      "growth_x": 16.66
+    },
+    {
+      "term": "forward deployed",
+      "share_2023_pct": 0.0,
+      "share_2026_pct": 3.13,
+      "growth_x": 16.65
+    },
+    {
+      "term": "claude code",
+      "share_2023_pct": 0.0,
+      "share_2026_pct": 3.1,
+      "growth_x": 16.5
+    },
+    {
+      "term": "agent",
+      "share_2023_pct": 0.26,
+      "share_2026_pct": 6.68,
+      "growth_x": 14.96
+    },
+    {
+      "term": "cursor",
+      "share_2023_pct": 0.02,
+      "share_2026_pct": 2.58,
+      "growth_x": 12.64
+    },
+    {
+      "term": "agentic ai",
+      "share_2023_pct": 0.0,
+      "share_2026_pct": 2.24,
+      "growth_x": 12.2
+    },
+    {
+      "term": "evals",
+      "share_2023_pct": 0.0,
+      "share_2026_pct": 2.24,
+      "growth_x": 12.2
+    },
+    {
+      "term": "ai agents",
+      "share_2023_pct": 0.26,
+      "share_2026_pct": 5.2,
+      "growth_x": 11.74
+    },
+    {
+      "term": "real ownership",
+      "share_2023_pct": 0.0,
+      "share_2026_pct": 2.0,
+      "growth_x": 11.0
+    },
+    {
+      "term": "rag",
+      "share_2023_pct": 0.07,
+      "share_2026_pct": 2.75,
+      "growth_x": 10.93
+    }
+  ],
+  "extc": {
+    "n": 1505,
+    "share_pct": 8.5,
+    "top": [
+      {
+        "skill": "Robotics",
+        "postings": 449
+      },
+      {
+        "skill": "Embedded systems",
+        "postings": 247
+      },
+      {
+        "skill": "IoT",
+        "postings": 235
+      },
+      {
+        "skill": "Firmware",
+        "postings": 203
+      },
+      {
+        "skill": "Semiconductors",
+        "postings": 119
+      },
+      {
+        "skill": "Device drivers / kernel",
+        "postings": 106
+      },
+      {
+        "skill": "RF engineering",
+        "postings": 83
+      },
+      {
+        "skill": "Electrical engineering",
+        "postings": 76
+      }
+    ],
+    "companions": [
+      {
+        "skill": "Python",
+        "share_of_hw_posts_pct": 31.0
+      },
+      {
+        "skill": "C++",
+        "share_of_hw_posts_pct": 18.1
+      },
+      {
+        "skill": "Machine Learning",
+        "share_of_hw_posts_pct": 15.5
+      },
+      {
+        "skill": "TypeScript",
+        "share_of_hw_posts_pct": 14.6
+      },
+      {
+        "skill": "React",
+        "share_of_hw_posts_pct": 13.6
+      },
+      {
+        "skill": "Linux",
+        "share_of_hw_posts_pct": 13.2
+      },
+      {
+        "skill": "Rust",
+        "share_of_hw_posts_pct": 11.7
+      },
+      {
+        "skill": "Go",
+        "share_of_hw_posts_pct": 10.2
+      }
+    ],
+    "trend": [
+      {
+        "year": "2023",
+        "hw_share_pct": 8.41
+      },
+      {
+        "year": "2024",
+        "hw_share_pct": 7.88
+      },
+      {
+        "year": "2025",
+        "hw_share_pct": 7.37
+      },
+      {
+        "year": "2026",
+        "hw_share_pct": 9.26
+      }
+    ],
+    "median_salary_hw": 150000.0,
+    "median_salary_all": 160000.0
+  },
+  "advisor_extc": {
+    "fit": [
+      {
+        "role_family": "Embedded & Hardware",
+        "fit_pct": 51.4,
+        "missing_top": "Firmware, Robotics, PCB design, Rust"
+      },
+      {
+        "role_family": "Data Science & Analytics",
+        "fit_pct": 22.0,
+        "missing_top": "SQL, Machine Learning, Data visualization, Statistics"
+      },
+      {
+        "role_family": "Backend",
+        "fit_pct": 18.3,
+        "missing_top": "PostgreSQL, AWS, TypeScript, Go"
+      },
+      {
+        "role_family": "Software Engineering (general)",
+        "fit_pct": 16.6,
+        "missing_top": "TypeScript, React, PostgreSQL, AWS"
+      },
+      {
+        "role_family": "QA / Test",
+        "fit_pct": 16.5,
+        "missing_top": "Test automation, Playwright, Cypress, JavaScript"
+      }
+    ],
+    "next": [
+      {
+        "skill": "Firmware",
+        "demand_in_best_roles": 0.2893,
+        "rule_bonus": 0.0,
+        "score": 0.289
+      },
+      {
+        "skill": "AWS",
+        "demand_in_best_roles": 0.1672,
+        "rule_bonus": 0.359,
+        "score": 0.275
+      },
+      {
+        "skill": "Robotics",
+        "demand_in_best_roles": 0.2704,
+        "rule_bonus": 0.0,
+        "score": 0.27
+      },
+      {
+        "skill": "SQL",
+        "demand_in_best_roles": 0.19675,
+        "rule_bonus": 0.0,
+        "score": 0.197
+      },
+      {
+        "skill": "Docker",
+        "demand_in_best_roles": 0.06659999999999999,
+        "rule_bonus": 0.356,
+        "score": 0.173
+      },
+      {
+        "skill": "Data visualization",
+        "demand_in_best_roles": 0.1647,
+        "rule_bonus": 0.0,
+        "score": 0.165
+      },
+      {
+        "skill": "Go",
+        "demand_in_best_roles": 0.1518,
+        "rule_bonus": 0.0,
+        "score": 0.152
+      },
+      {
+        "skill": "Statistics",
+        "demand_in_best_roles": 0.1412,
+        "rule_bonus": 0.0,
+        "score": 0.141
+      }
+    ]
+  },
+  "soft_skills": [
+    {
+      "skill": "Communication",
+      "postings": 1034,
+      "share_pct": 7.0
+    },
+    {
+      "skill": "Ownership mindset",
+      "postings": 1024,
+      "share_pct": 6.9
+    },
+    {
+      "skill": "Cross-functional collaboration",
+      "postings": 672,
+      "share_pct": 4.5
+    },
+    {
+      "skill": "Mentoring",
+      "postings": 672,
+      "share_pct": 4.5
+    },
+    {
+      "skill": "Problem solving",
+      "postings": 617,
+      "share_pct": 4.2
+    },
+    {
+      "skill": "Leadership",
+      "postings": 516,
+      "share_pct": 3.5
+    }
+  ]
+}

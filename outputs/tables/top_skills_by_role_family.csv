@@ -1,0 +1,151 @@
+role_family,rank,skill,postings,share_pct,group_size
+Backend,1,Python,277,30.4,912
+Backend,2,PostgreSQL,203,22.3,912
+Backend,3,AWS,198,21.7,912
+Backend,4,TypeScript,140,15.4,912
+Backend,5,Go,130,14.3,912
+Backend,6,React,113,12.4,912
+Backend,7,SQL,110,12.1,912
+Backend,8,Scalability,107,11.7,912
+Backend,9,Kubernetes,101,11.1,912
+Backend,10,Node.js,98,10.7,912
+Business & Operations,1,Excel,163,11.4,1434
+Business & Operations,2,Salesforce,136,9.5,1434
+Business & Operations,3,Scalability,123,8.6,1434
+Business & Operations,4,Time series,115,8.0,1434
+Business & Operations,5,Data visualization,87,6.1,1434
+Business & Operations,6,AI agents,85,5.9,1434
+Business & Operations,7,SQL,79,5.5,1434
+Business & Operations,8,Agile/Scrum,72,5.0,1434
+Business & Operations,9,Cybersecurity,66,4.6,1434
+Business & Operations,10,Python,65,4.5,1434
+Data Engineering,1,Python,127,43.1,295
+Data Engineering,2,Machine Learning,71,24.1,295
+Data Engineering,3,AWS,71,24.1,295
+Data Engineering,4,SQL,57,19.3,295
+Data Engineering,5,Data pipelines,50,16.9,295
+Data Engineering,6,Kubernetes,45,15.3,295
+Data Engineering,7,TypeScript,39,13.2,295
+Data Engineering,8,ETL/ELT,38,12.9,295
+Data Engineering,9,dbt,37,12.5,295
+Data Engineering,10,Terraform,35,11.9,295
+Data Science & Analytics,1,Python,120,37.7,318
+Data Science & Analytics,2,Machine Learning,99,31.1,318
+Data Science & Analytics,3,SQL,84,26.4,318
+Data Science & Analytics,4,LLMs,45,14.2,318
+Data Science & Analytics,5,Data visualization,42,13.2,318
+Data Science & Analytics,6,React,40,12.6,318
+Data Science & Analytics,7,Data analysis,39,12.3,318
+Data Science & Analytics,8,Statistics,38,11.9,318
+Data Science & Analytics,9,AWS,37,11.6,318
+Data Science & Analytics,10,Git,34,10.7,318
+DevOps / SRE / Cloud,1,DevOps practices,434,44.0,987
+DevOps / SRE / Cloud,2,Kubernetes,309,31.3,987
+DevOps / SRE / Cloud,3,AWS,287,29.1,987
+DevOps / SRE / Cloud,4,Python,282,28.6,987
+DevOps / SRE / Cloud,5,Terraform,250,25.3,987
+DevOps / SRE / Cloud,6,PostgreSQL,161,16.3,987
+DevOps / SRE / Cloud,7,Linux,150,15.2,987
+DevOps / SRE / Cloud,8,CI/CD,144,14.6,987
+DevOps / SRE / Cloud,9,Docker,135,13.7,987
+DevOps / SRE / Cloud,10,Go,133,13.5,987
+Embedded & Hardware,1,Robotics,81,38.6,210
+Embedded & Hardware,2,Embedded systems,74,35.2,210
+Embedded & Hardware,3,Python,54,25.7,210
+Embedded & Hardware,4,C++,52,24.8,210
+Embedded & Hardware,5,Firmware,48,22.9,210
+Embedded & Hardware,6,TypeScript,35,16.7,210
+Embedded & Hardware,7,Rust,31,14.8,210
+Embedded & Hardware,8,Observability,30,14.3,210
+Embedded & Hardware,9,Linux,30,14.3,210
+Embedded & Hardware,10,React,20,9.5,210
+Engineering Management,1,Python,92,20.7,444
+Engineering Management,2,React,88,19.8,444
+Engineering Management,3,PostgreSQL,67,15.1,444
+Engineering Management,4,AWS,62,14.0,444
+Engineering Management,5,Machine Learning,59,13.3,444
+Engineering Management,6,TypeScript,57,12.8,444
+Engineering Management,7,Open source,52,11.7,444
+Engineering Management,8,Scalability,39,8.8,444
+Engineering Management,9,Go,37,8.3,444
+Engineering Management,10,LLMs,35,7.9,444
+Frontend,1,React,308,44.1,698
+Frontend,2,TypeScript,239,34.2,698
+Frontend,3,Python,109,15.6,698
+Frontend,4,AWS,90,12.9,698
+Frontend,5,JavaScript,89,12.8,698
+Frontend,6,PostgreSQL,85,12.2,698
+Frontend,7,Next.js,72,10.3,698
+Frontend,8,Node.js,68,9.7,698
+Frontend,9,Git,58,8.3,698
+Frontend,10,Scalability,57,8.2,698
+Full-stack,1,React,762,45.6,1671
+Full-stack,2,TypeScript,608,36.4,1671
+Full-stack,3,PostgreSQL,454,27.2,1671
+Full-stack,4,Python,384,23.0,1671
+Full-stack,5,AWS,329,19.7,1671
+Full-stack,6,Node.js,302,18.1,1671
+Full-stack,7,Next.js,224,13.4,1671
+Full-stack,8,JavaScript,205,12.3,1671
+Full-stack,9,LLMs,169,10.1,1671
+Full-stack,10,Machine Learning,151,9.0,1671
+ML / AI Engineering,1,Machine Learning,877,51.9,1689
+ML / AI Engineering,2,LLMs,559,33.1,1689
+ML / AI Engineering,3,Python,558,33.0,1689
+ML / AI Engineering,4,React,307,18.2,1689
+ML / AI Engineering,5,AI agents,301,17.8,1689
+ML / AI Engineering,6,TypeScript,296,17.5,1689
+ML / AI Engineering,7,AWS,252,14.9,1689
+ML / AI Engineering,8,PyTorch,175,10.4,1689
+ML / AI Engineering,9,PostgreSQL,151,8.9,1689
+ML / AI Engineering,10,Generative AI,146,8.6,1689
+Mobile,1,Android,133,43.6,305
+Mobile,2,iOS,126,41.3,305
+Mobile,3,React Native,94,30.8,305
+Mobile,4,Swift,58,19.0,305
+Mobile,5,Kotlin,58,19.0,305
+Mobile,6,React,43,14.1,305
+Mobile,7,TypeScript,36,11.8,305
+Mobile,8,SwiftUI,33,10.8,305
+Mobile,9,Flutter,30,9.8,305
+Mobile,10,Node.js,26,8.5,305
+Other,1,Python,423,17.3,2440
+Other,2,Machine Learning,392,16.1,2440
+Other,3,TypeScript,340,13.9,2440
+Other,4,React,299,12.3,2440
+Other,5,AWS,222,9.1,2440
+Other,6,PostgreSQL,187,7.7,2440
+Other,7,Rust,150,6.1,2440
+Other,8,Kubernetes,144,5.9,2440
+Other,9,Git,143,5.9,2440
+Other,10,Scalability,140,5.7,2440
+Product & Design,1,React,51,12.1,421
+Product & Design,2,Figma,40,9.5,421
+Product & Design,3,Python,35,8.3,421
+Product & Design,4,Open source,33,7.8,421
+Product & Design,5,TypeScript,32,7.6,421
+Product & Design,6,Machine Learning,31,7.4,421
+Product & Design,7,LLMs,31,7.4,421
+Product & Design,8,AI agents,31,7.4,421
+Product & Design,9,Android,26,6.2,421
+Product & Design,10,Accessibility,24,5.7,421
+Security,1,Cybersecurity,77,32.8,235
+Security,2,OWASP/AppSec,45,19.1,235
+Security,3,Penetration testing,44,18.7,235
+Security,4,AWS,37,15.7,235
+Security,5,Python,36,15.3,235
+Security,6,Linux,31,13.2,235
+Security,7,Cryptography,27,11.5,235
+Security,8,Code review,24,10.2,235
+Security,9,Git,24,10.2,235
+Security,10,Kubernetes,24,10.2,235
+Software Engineering (general),1,Python,1293,23.3,5545
+Software Engineering (general),2,TypeScript,1231,22.2,5545
+Software Engineering (general),3,React,1210,21.8,5545
+Software Engineering (general),4,PostgreSQL,851,15.3,5545
+Software Engineering (general),5,AWS,782,14.1,5545
+Software Engineering (general),6,Machine Learning,574,10.4,5545
+Software Engineering (general),7,Open source,569,10.3,5545
+Software Engineering (general),8,Kubernetes,550,9.9,5545
+Software Engineering (general),9,Rust,512,9.2,5545
+Software Engineering (general),10,Node.js,451,8.1,5545

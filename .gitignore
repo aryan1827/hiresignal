@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+# raw API/HTML responses are cached locally and not redistributed
+data/raw/

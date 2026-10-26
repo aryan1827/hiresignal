@@ -1,0 +1,561 @@
+role_family,skill,p
+Backend,Python,0.277
+Backend,PostgreSQL,0.2379
+Backend,AWS,0.205
+Backend,TypeScript,0.169
+Backend,Go,0.1518
+Backend,Kubernetes,0.1377
+Backend,React,0.1174
+Backend,Scalability,0.1142
+Backend,Node.js,0.1127
+Backend,Git,0.1049
+Backend,Ruby,0.1002
+Backend,Ruby on Rails,0.0955
+Backend,Docker,0.0955
+Backend,SQL,0.0876
+Backend,Java,0.0814
+Backend,GCP,0.0798
+Backend,Microservices,0.072
+Backend,Machine Learning,0.072
+Backend,Redis,0.0704
+Backend,Terraform,0.0689
+Backend,CI/CD,0.0642
+Backend,Distributed systems,0.0626
+Backend,LLMs,0.061
+Backend,Open source,0.061
+Backend,Django,0.061
+Backend,.NET,0.0595
+Backend,Kafka,0.0579
+Backend,Rust,0.0579
+Backend,Agile/Scrum,0.0563
+Backend,JavaScript,0.0548
+Backend,DevOps practices,0.0532
+Backend,AI agents,0.0532
+Backend,C#,0.0516
+Backend,Vue.js,0.0469
+Backend,FastAPI,0.0438
+Backend,Data pipelines,0.0423
+Backend,MySQL,0.0423
+Backend,REST APIs,0.0423
+Backend,Azure,0.0423
+Backend,Elasticsearch,0.0407
+Data Engineering,Python,0.4229
+Data Engineering,AWS,0.2423
+Data Engineering,SQL,0.2159
+Data Engineering,Machine Learning,0.207
+Data Engineering,Data pipelines,0.185
+Data Engineering,dbt,0.1542
+Data Engineering,ETL/ELT,0.1498
+Data Engineering,Snowflake,0.141
+Data Engineering,Data warehousing,0.1322
+Data Engineering,Scalability,0.1278
+Data Engineering,GCP,0.1278
+Data Engineering,Kubernetes,0.1233
+Data Engineering,Airflow,0.1233
+Data Engineering,CI/CD,0.1101
+Data Engineering,Apache Spark,0.1101
+Data Engineering,TypeScript,0.1057
+Data Engineering,PostgreSQL,0.1057
+Data Engineering,React,0.1013
+Data Engineering,BigQuery,0.1013
+Data Engineering,Terraform,0.0969
+Data Engineering,Git,0.0925
+Data Engineering,Observability,0.0881
+Data Engineering,Databricks,0.0837
+Data Engineering,Docker,0.0793
+Data Engineering,Azure,0.0661
+Data Engineering,Node.js,0.0617
+Data Engineering,AI agents,0.0573
+Data Engineering,Rust,0.0573
+Data Engineering,Kafka,0.0573
+Data Engineering,Java,0.0529
+Data Engineering,Infrastructure as Code,0.0529
+Data Engineering,Go,0.0529
+Data Engineering,Open source,0.0529
+Data Engineering,DevOps practices,0.0485
+Data Engineering,LLMs,0.0485
+Data Engineering,Data analysis,0.0485
+Data Engineering,Redshift,0.0441
+Data Engineering,JavaScript,0.0396
+Data Engineering,ClickHouse,0.0396
+Data Engineering,Data visualization,0.0396
+Data Science & Analytics,Python,0.3922
+Data Science & Analytics,SQL,0.3059
+Data Science & Analytics,Machine Learning,0.2706
+Data Science & Analytics,Data visualization,0.1647
+Data Science & Analytics,Statistics,0.1412
+Data Science & Analytics,Data analysis,0.1373
+Data Science & Analytics,AWS,0.1294
+Data Science & Analytics,Git,0.1098
+Data Science & Analytics,Scalability,0.102
+Data Science & Analytics,Power BI,0.098
+Data Science & Analytics,dbt,0.0941
+Data Science & Analytics,React,0.0902
+Data Science & Analytics,Tableau,0.0824
+Data Science & Analytics,Azure,0.0824
+Data Science & Analytics,Kubernetes,0.0784
+Data Science & Analytics,Snowflake,0.0784
+Data Science & Analytics,Looker,0.0745
+Data Science & Analytics,GCP,0.0745
+Data Science & Analytics,BigQuery,0.0706
+Data Science & Analytics,TypeScript,0.0706
+Data Science & Analytics,R,0.0706
+Data Science & Analytics,LLMs,0.0667
+Data Science & Analytics,Excel,0.0627
+Data Science & Analytics,Data pipelines,0.0627
+Data Science & Analytics,Pandas,0.0627
+Data Science & Analytics,Data warehousing,0.0588
+Data Science & Analytics,AI agents,0.0588
+Data Science & Analytics,ETL/ELT,0.0549
+Data Science & Analytics,CI/CD,0.0549
+Data Science & Analytics,Java,0.051
+Data Science & Analytics,Deep Learning,0.051
+Data Science & Analytics,Airflow,0.051
+Data Science & Analytics,Time series,0.0471
+Data Science & Analytics,Agile/Scrum,0.0431
+Data Science & Analytics,Node.js,0.0392
+Data Science & Analytics,Databricks,0.0392
+Data Science & Analytics,PyTorch,0.0392
+Data Science & Analytics,PostgreSQL,0.0392
+Data Science & Analytics,scikit-learn,0.0392
+Data Science & Analytics,C++,0.0353
+DevOps / SRE / Cloud,DevOps practices,0.432
+DevOps / SRE / Cloud,Kubernetes,0.3305
+DevOps / SRE / Cloud,Python,0.299
+DevOps / SRE / Cloud,AWS,0.2918
+DevOps / SRE / Cloud,Terraform,0.2589
+DevOps / SRE / Cloud,CI/CD,0.1731
+DevOps / SRE / Cloud,Linux,0.1516
+DevOps / SRE / Cloud,PostgreSQL,0.1488
+DevOps / SRE / Cloud,Go,0.1459
+DevOps / SRE / Cloud,TypeScript,0.1445
+DevOps / SRE / Cloud,Docker,0.1402
+DevOps / SRE / Cloud,Infrastructure as Code,0.1345
+DevOps / SRE / Cloud,Observability,0.1345
+DevOps / SRE / Cloud,GCP,0.1259
+DevOps / SRE / Cloud,React,0.1187
+DevOps / SRE / Cloud,Open source,0.1087
+DevOps / SRE / Cloud,Rust,0.1059
+DevOps / SRE / Cloud,Scalability,0.1044
+DevOps / SRE / Cloud,Azure,0.083
+DevOps / SRE / Cloud,Git,0.083
+DevOps / SRE / Cloud,Node.js,0.0787
+DevOps / SRE / Cloud,Machine Learning,0.0787
+DevOps / SRE / Cloud,Distributed systems,0.0773
+DevOps / SRE / Cloud,Prometheus,0.0687
+DevOps / SRE / Cloud,Grafana,0.0658
+DevOps / SRE / Cloud,Ansible,0.0644
+DevOps / SRE / Cloud,Bash/Shell,0.0572
+DevOps / SRE / Cloud,C++,0.0558
+DevOps / SRE / Cloud,Java,0.0544
+DevOps / SRE / Cloud,Argo CD,0.0529
+DevOps / SRE / Cloud,AI agents,0.0458
+DevOps / SRE / Cloud,GitHub Actions,0.0443
+DevOps / SRE / Cloud,JavaScript,0.0443
+DevOps / SRE / Cloud,Redis,0.0429
+DevOps / SRE / Cloud,LLMs,0.0429
+DevOps / SRE / Cloud,Helm,0.0415
+DevOps / SRE / Cloud,SQL,0.0415
+DevOps / SRE / Cloud,Datadog,0.0401
+DevOps / SRE / Cloud,Ruby,0.0372
+DevOps / SRE / Cloud,Data pipelines,0.0372
+Embedded & Hardware,Embedded systems,0.4088
+Embedded & Hardware,Firmware,0.2893
+Embedded & Hardware,Robotics,0.2704
+Embedded & Hardware,Python,0.2453
+Embedded & Hardware,C++,0.239
+Embedded & Hardware,Linux,0.1761
+Embedded & Hardware,PCB design,0.1069
+Embedded & Hardware,C,0.1069
+Embedded & Hardware,Rust,0.1069
+Embedded & Hardware,RF engineering,0.0881
+Embedded & Hardware,Electrical engineering,0.0881
+Embedded & Hardware,Embedded Linux,0.0818
+Embedded & Hardware,Computer Vision,0.0818
+Embedded & Hardware,Microcontrollers,0.0755
+Embedded & Hardware,Wireless (BLE/Wi-Fi),0.0692
+Embedded & Hardware,Machine Learning,0.0692
+Embedded & Hardware,Power electronics,0.0692
+Embedded & Hardware,Git,0.0692
+Embedded & Hardware,Test automation,0.0692
+Embedded & Hardware,Semiconductors,0.0692
+Embedded & Hardware,TypeScript,0.0629
+Embedded & Hardware,ROS,0.0503
+Embedded & Hardware,RTOS,0.0503
+Embedded & Hardware,Deep Learning,0.044
+Embedded & Hardware,Device drivers / kernel,0.044
+Embedded & Hardware,Agile/Scrum,0.044
+Embedded & Hardware,IoT,0.044
+Embedded & Hardware,CI/CD,0.0377
+Embedded & Hardware,Docker,0.0377
+Embedded & Hardware,Scalability,0.0377
+Embedded & Hardware,Security clearance,0.0377
+Embedded & Hardware,Control systems,0.0377
+Embedded & Hardware,System design,0.0377
+Embedded & Hardware,Test equipment,0.0377
+Embedded & Hardware,React,0.0377
+Embedded & Hardware,I2C/SPI/UART,0.0377
+Embedded & Hardware,ASIC design,0.0314
+Embedded & Hardware,Signal processing,0.0314
+Embedded & Hardware,FPGA,0.0314
+Embedded & Hardware,Jira,0.0314
+Engineering Management,Python,0.2119
+Engineering Management,React,0.2034
+Engineering Management,PostgreSQL,0.1525
+Engineering Management,Machine Learning,0.1469
+Engineering Management,AWS,0.1469
+Engineering Management,TypeScript,0.1441
+Engineering Management,Open source,0.0989
+Engineering Management,Scalability,0.0876
+Engineering Management,LLMs,0.0876
+Engineering Management,Kubernetes,0.0706
+Engineering Management,DevOps practices,0.0678
+Engineering Management,Node.js,0.065
+Engineering Management,GCP,0.065
+Engineering Management,AI agents,0.065
+Engineering Management,Go,0.065
+Engineering Management,Distributed systems,0.0565
+Engineering Management,JavaScript,0.0508
+Engineering Management,Next.js,0.0424
+Engineering Management,Docker,0.0424
+Engineering Management,Observability,0.0424
+Engineering Management,C++,0.0395
+Engineering Management,Snowflake,0.0395
+Engineering Management,Ruby,0.0395
+Engineering Management,Java,0.0395
+Engineering Management,Ruby on Rails,0.0367
+Engineering Management,Data visualization,0.0367
+Engineering Management,Android,0.0339
+Engineering Management,iOS,0.0339
+Engineering Management,Rust,0.0339
+Engineering Management,CI/CD,0.0339
+Engineering Management,SQL,0.0311
+Engineering Management,GraphQL,0.0311
+Engineering Management,Anthropic/Claude,0.0311
+Engineering Management,Git,0.0282
+Engineering Management,Django,0.0282
+Engineering Management,System design,0.0282
+Engineering Management,Kotlin,0.0282
+Engineering Management,MySQL,0.0254
+Engineering Management,Linux,0.0254
+Engineering Management,Data pipelines,0.0254
+Frontend,React,0.4775
+Frontend,TypeScript,0.3679
+Frontend,Python,0.1624
+Frontend,JavaScript,0.1389
+Frontend,AWS,0.135
+Frontend,PostgreSQL,0.1311
+Frontend,Next.js,0.1252
+Frontend,Git,0.0998
+Frontend,Node.js,0.0978
+Frontend,CSS,0.092
+Frontend,Vue.js,0.092
+Frontend,Scalability,0.0705
+Frontend,Machine Learning,0.0685
+Frontend,Tailwind CSS,0.0685
+Frontend,HTML,0.0626
+Frontend,React Native,0.0607
+Frontend,Open source,0.0587
+Frontend,GraphQL,0.0568
+Frontend,Docker,0.0548
+Frontend,Django,0.0528
+Frontend,Go,0.0489
+Frontend,Kubernetes,0.045
+Frontend,Redux,0.0431
+Frontend,LLMs,0.0431
+Frontend,Figma,0.0411
+Frontend,Angular,0.0391
+Frontend,CI/CD,0.0352
+Frontend,Terraform,0.0333
+Frontend,MySQL,0.0313
+Frontend,Data visualization,0.0294
+Frontend,SQL,0.0294
+Frontend,Rust,0.0274
+Frontend,Ruby on Rails,0.0274
+Frontend,Distributed systems,0.0254
+Frontend,REST APIs,0.0254
+Frontend,Data analysis,0.0235
+Frontend,Java,0.0235
+Frontend,GCP,0.0235
+Frontend,AI agents,0.0235
+Frontend,Code review,0.0215
+Full-stack,React,0.4578
+Full-stack,TypeScript,0.364
+Full-stack,PostgreSQL,0.2694
+Full-stack,Python,0.2314
+Full-stack,AWS,0.2019
+Full-stack,Node.js,0.1926
+Full-stack,Next.js,0.1225
+Full-stack,JavaScript,0.1208
+Full-stack,Git,0.0887
+Full-stack,LLMs,0.0853
+Full-stack,Machine Learning,0.0845
+Full-stack,Docker,0.0811
+Full-stack,GraphQL,0.0794
+Full-stack,Kubernetes,0.0735
+Full-stack,AI agents,0.0718
+Full-stack,GCP,0.0709
+Full-stack,Ruby on Rails,0.0701
+Full-stack,Ruby,0.0684
+Full-stack,Vue.js,0.0676
+Full-stack,Go,0.065
+Full-stack,Scalability,0.0608
+Full-stack,CI/CD,0.0583
+Full-stack,Django,0.0566
+Full-stack,SQL,0.0515
+Full-stack,MongoDB,0.0498
+Full-stack,Tailwind CSS,0.0481
+Full-stack,Open source,0.0473
+Full-stack,Redis,0.0456
+Full-stack,Terraform,0.0439
+Full-stack,Data visualization,0.0422
+Full-stack,React Native,0.0414
+Full-stack,Java,0.0414
+Full-stack,DevOps practices,0.0397
+Full-stack,FastAPI,0.0397
+Full-stack,Anthropic/Claude,0.0372
+Full-stack,C#,0.0355
+Full-stack,Rust,0.0338
+Full-stack,Data pipelines,0.0338
+Full-stack,PHP,0.0329
+Full-stack,Agile/Scrum,0.0321
+ML / AI Engineering,Machine Learning,0.5183
+ML / AI Engineering,Python,0.3206
+ML / AI Engineering,LLMs,0.3182
+ML / AI Engineering,AI agents,0.1874
+ML / AI Engineering,React,0.1603
+ML / AI Engineering,TypeScript,0.1547
+ML / AI Engineering,AWS,0.1411
+ML / AI Engineering,Generative AI,0.0965
+ML / AI Engineering,PyTorch,0.0925
+ML / AI Engineering,Open source,0.0853
+ML / AI Engineering,RAG,0.0853
+ML / AI Engineering,PostgreSQL,0.0853
+ML / AI Engineering,Git,0.0829
+ML / AI Engineering,Kubernetes,0.0821
+ML / AI Engineering,Scalability,0.0805
+ML / AI Engineering,Fine-tuning,0.0734
+ML / AI Engineering,OpenAI/GPT,0.0702
+ML / AI Engineering,GCP,0.067
+ML / AI Engineering,Anthropic/Claude,0.0662
+ML / AI Engineering,Computer Vision,0.0662
+ML / AI Engineering,Node.js,0.0654
+ML / AI Engineering,MLOps,0.0606
+ML / AI Engineering,Docker,0.0598
+ML / AI Engineering,DevOps practices,0.0534
+ML / AI Engineering,CI/CD,0.0494
+ML / AI Engineering,Deep Learning,0.0486
+ML / AI Engineering,Go,0.0478
+ML / AI Engineering,LangChain,0.0478
+ML / AI Engineering,Rust,0.0463
+ML / AI Engineering,Azure,0.0463
+ML / AI Engineering,JavaScript,0.0455
+ML / AI Engineering,LLM evals,0.0423
+ML / AI Engineering,Next.js,0.0415
+ML / AI Engineering,FastAPI,0.0407
+ML / AI Engineering,Vector databases,0.0407
+ML / AI Engineering,SQL,0.0407
+ML / AI Engineering,NLP,0.0399
+ML / AI Engineering,Observability,0.0391
+ML / AI Engineering,Data pipelines,0.0383
+ML / AI Engineering,Distributed systems,0.0383
+Mobile,iOS,0.4397
+Mobile,Android,0.4397
+Mobile,React Native,0.2879
+Mobile,Swift,0.1907
+Mobile,Kotlin,0.1829
+Mobile,React,0.1479
+Mobile,TypeScript,0.1245
+Mobile,SwiftUI,0.1051
+Mobile,Flutter,0.1012
+Mobile,AWS,0.0856
+Mobile,Node.js,0.0817
+Mobile,Python,0.0778
+Mobile,Java,0.0623
+Mobile,PostgreSQL,0.0584
+Mobile,JavaScript,0.0506
+Mobile,Git,0.0506
+Mobile,Go,0.0467
+Mobile,Open source,0.0428
+Mobile,SQL,0.0389
+Mobile,GraphQL,0.0389
+Mobile,Jetpack Compose,0.0389
+Mobile,CI/CD,0.0389
+Mobile,Next.js,0.0389
+Mobile,Machine Learning,0.0389
+Mobile,Redux,0.035
+Mobile,Ruby,0.0311
+Mobile,Agile/Scrum,0.0311
+Mobile,GCP,0.0311
+Mobile,Objective-C,0.0311
+Mobile,Scalability,0.0311
+Mobile,Docker,0.0311
+Mobile,Dart,0.0272
+Mobile,MongoDB,0.0272
+Mobile,Terraform,0.0233
+Mobile,Firebase,0.0233
+Mobile,Rust,0.0233
+Mobile,LLMs,0.0233
+Mobile,Vue.js,0.0195
+Mobile,Azure,0.0195
+Mobile,Code review,0.0195
+Product & Design,Figma,0.1099
+Product & Design,React,0.107
+Product & Design,Open source,0.0845
+Product & Design,AI agents,0.0845
+Product & Design,Machine Learning,0.0789
+Product & Design,LLMs,0.0789
+Product & Design,Accessibility,0.0648
+Product & Design,TypeScript,0.0648
+Product & Design,Scalability,0.0563
+Product & Design,Python,0.0535
+Product & Design,Agile/Scrum,0.0507
+Product & Design,AWS,0.0507
+Product & Design,Anthropic/Claude,0.0451
+Product & Design,Data visualization,0.0423
+Product & Design,PostgreSQL,0.0394
+Product & Design,Android,0.0394
+Product & Design,Ruby on Rails,0.0366
+Product & Design,JavaScript,0.0366
+Product & Design,DevOps practices,0.031
+Product & Design,iOS,0.031
+Product & Design,Ruby,0.0282
+Product & Design,SQL,0.0254
+Product & Design,A/B testing,0.0254
+Product & Design,Git,0.0254
+Product & Design,Node.js,0.0225
+Product & Design,Observability,0.0225
+Product & Design,Jira,0.0225
+Product & Design,Kubernetes,0.0225
+Product & Design,OpenAI/GPT,0.0225
+Product & Design,CSS,0.0225
+Product & Design,HTML,0.0225
+Product & Design,Data analysis,0.0197
+Product & Design,Go,0.0197
+Product & Design,SOC 2 / compliance,0.0197
+Product & Design,React Native,0.0197
+Product & Design,Fine-tuning,0.0197
+Product & Design,Shopify,0.0197
+Product & Design,Generative AI,0.0169
+Product & Design,Cybersecurity,0.0169
+Product & Design,GCP,0.0169
+QA / Test,Test automation,0.3279
+QA / Test,Python,0.2623
+QA / Test,Playwright,0.2131
+QA / Test,Cypress,0.1639
+QA / Test,JavaScript,0.1639
+QA / Test,CI/CD,0.1639
+QA / Test,Agile/Scrum,0.1475
+QA / Test,TypeScript,0.1475
+QA / Test,Selenium,0.1311
+QA / Test,Django,0.1148
+QA / Test,Git,0.1148
+QA / Test,Java,0.0984
+QA / Test,React,0.082
+QA / Test,AWS,0.082
+QA / Test,SQL,0.0656
+QA / Test,AI agents,0.0656
+QA / Test,Jira,0.0656
+QA / Test,Anthropic/Claude,0.0656
+QA / Test,Open source,0.0492
+QA / Test,PostgreSQL,0.0492
+QA / Test,React Native,0.0492
+QA / Test,Electrical engineering,0.0492
+QA / Test,Docker,0.0492
+QA / Test,C#,0.0492
+QA / Test,DevOps practices,0.0492
+QA / Test,WebGL,0.0492
+QA / Test,GitHub Actions,0.0492
+QA / Test,Microservices,0.0328
+QA / Test,Jenkins,0.0328
+QA / Test,SOC 2 / compliance,0.0328
+QA / Test,Vue.js,0.0328
+QA / Test,Go,0.0328
+QA / Test,Time series,0.0328
+QA / Test,REST APIs,0.0328
+QA / Test,Data analysis,0.0328
+QA / Test,Azure,0.0328
+QA / Test,Linux,0.0328
+QA / Test,Scalability,0.0328
+QA / Test,D3.js,0.0328
+QA / Test,Three.js,0.0328
+Security,Cybersecurity,0.3187
+Security,AWS,0.1758
+Security,Python,0.1703
+Security,OWASP/AppSec,0.1703
+Security,Penetration testing,0.1429
+Security,SOC 2 / compliance,0.1319
+Security,Kubernetes,0.1099
+Security,Open source,0.1099
+Security,Docker,0.0879
+Security,TypeScript,0.0824
+Security,Scalability,0.0769
+Security,CI/CD,0.0769
+Security,Go,0.0769
+Security,Azure,0.0769
+Security,Linux,0.0714
+Security,LLMs,0.0714
+Security,AI agents,0.0714
+Security,React,0.0659
+Security,Code review,0.0659
+Security,Cryptography,0.0659
+Security,PostgreSQL,0.0604
+Security,OAuth/SSO,0.0604
+Security,IAM,0.0604
+Security,Java,0.0604
+Security,Machine Learning,0.0604
+Security,GCP,0.0604
+Security,Git,0.0549
+Security,Terraform,0.0495
+Security,Infrastructure as Code,0.0495
+Security,Rust,0.044
+Security,DevOps practices,0.033
+Security,Distributed systems,0.033
+Security,C++,0.033
+Security,MySQL,0.033
+Security,Anthropic/Claude,0.033
+Security,Security clearance,0.033
+Security,Node.js,0.033
+Security,Generative AI,0.033
+Security,OpenAI/GPT,0.0275
+Security,JavaScript,0.0275
+Software Engineering (general),Python,0.2142
+Software Engineering (general),TypeScript,0.1991
+Software Engineering (general),React,0.1921
+Software Engineering (general),PostgreSQL,0.1437
+Software Engineering (general),AWS,0.1405
+Software Engineering (general),Machine Learning,0.1008
+Software Engineering (general),Open source,0.0945
+Software Engineering (general),Kubernetes,0.0881
+Software Engineering (general),Node.js,0.0824
+Software Engineering (general),AI agents,0.0818
+Software Engineering (general),LLMs,0.0813
+Software Engineering (general),Rust,0.0794
+Software Engineering (general),Scalability,0.0783
+Software Engineering (general),Git,0.0719
+Software Engineering (general),Go,0.0713
+Software Engineering (general),JavaScript,0.0708
+Software Engineering (general),C++,0.0665
+Software Engineering (general),Docker,0.0556
+Software Engineering (general),GCP,0.0511
+Software Engineering (general),Java,0.0508
+Software Engineering (general),DevOps practices,0.0465
+Software Engineering (general),Next.js,0.0438
+Software Engineering (general),Linux,0.0432
+Software Engineering (general),SQL,0.0392
+Software Engineering (general),Observability,0.0389
+Software Engineering (general),CI/CD,0.0386
+Software Engineering (general),Distributed systems,0.0367
+Software Engineering (general),Terraform,0.0346
+Software Engineering (general),Ruby on Rails,0.0327
+Software Engineering (general),Azure,0.0324
+Software Engineering (general),Django,0.0294
+Software Engineering (general),Anthropic/Claude,0.0294
+Software Engineering (general),Ruby,0.0281
+Software Engineering (general),Data pipelines,0.0276
+Software Engineering (general),C#,0.0276
+Software Engineering (general),GraphQL,0.027
+Software Engineering (general),Agile/Scrum,0.027
+Software Engineering (general),Redis,0.0259
+Software Engineering (general),Robotics,0.0243
+Software Engineering (general),React Native,0.0211

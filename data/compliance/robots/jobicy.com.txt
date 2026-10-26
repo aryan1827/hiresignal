@@ -1,0 +1,89 @@
+# fetched 2026-10-25T12:56:42.593946+00:00 status=200
+User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /*?p=
+Disallow: /*&p=
+Disallow: /*?q=
+Disallow: /*&q=
+Disallow: /*?r=
+Disallow: /*&r=
+Disallow: /*?w=story
+Disallow: /*?w=wall
+Disallow: /*?w=page
+Disallow: /*?w=app
+Disallow: /*?w=poll
+Disallow: /*?w=likes
+Disallow: /*?w=shares
+Disallow: /*?w=note
+Disallow: /*?w=away
+Disallow: /*?tool=
+Disallow: /*&tool=
+Disallow: /call?id=
+Disallow: /count.php?id=
+Disallow: /*api_access_key=
+Disallow: /*_query=
+Disallow: /*ad_id=
+Disallow: /*_smt=
+Disallow: /app*_
+Disallow: /app*form_id=
+Disallow: /*?offset=0
+Disallow: /companies?post_type=
+Disallow: /*?*filter_by_city=
+Disallow: /*_type=job_listing
+Disallow: /*_type=resume
+Disallow: /*?application_success=1
+Disallow: /feed$
+Disallow: /away.php
+Disallow: /signals.php
+Disallow: /widget_auth.php
+Disallow: /go/
+Disallow: /job-listings/
+Disallow: /lost-password/
+Disallow: /reset-password/
+Disallow: /job-dashboard/
+Disallow: /cart/
+Disallow: /mars/matches/
+Disallow: /web3/
+Disallow: /finder/
+Disallow: /search/
+Disallow: /shop/
+Disallow: /dashboard-page/
+Disallow: /my-profile
+Disallow: /my-account/
+Disallow: /checkout/
+Disallow: /sharer/
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /file_download/
+Disallow: /__media__/
+
+User-agent: MJ12bot
+User-agent: SemrushBot-SWA
+User-agent: SplitSignalBot
+User-agent: SemrushBot-OCOB
+User-agent: SemrushBot-FT
+User-agent: RyteBot
+User-agent: AwarioSmartBot
+User-agent: AwarioRssBot
+User-agent: AwarioBot
+Disallow: /
+
+Sitemap: https://jobicy.com/sitemap_index.xml
+Agentmap: https://jobicy.com/.well-known/ai-catalog.json
+
+#              ________
+#   __,_,     |        |
+#  [_|_/      |   HI   |
+#   //        |________|
+# _//    __  /
+#(_|)   |@@|
+# \ \__ \--/ __
+#  \o__|----|  |   __
+#      \ }{ /\ )_ / _\
+#      /\__/\ \__O (__
+#     (--/\--)    \__/
+#     _)(  )(_
+#    `---''---`
